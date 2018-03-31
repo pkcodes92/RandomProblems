@@ -1,0 +1,7 @@
+D:\Visual Studio 2017\Projects\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.exe.config
+D:\Visual Studio 2017\Projects\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.exe
+D:\Visual Studio 2017\Projects\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.pdb
+D:\Visual Studio 2017\Projects\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.exe
+D:\Visual Studio 2017\Projects\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.pdb

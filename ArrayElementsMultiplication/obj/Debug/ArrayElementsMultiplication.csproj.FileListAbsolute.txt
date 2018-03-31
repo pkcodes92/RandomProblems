@@ -1,0 +1,7 @@
+D:\Visual Studio 2017\Projects\RandomProblems\ArrayElementsMultiplication\bin\Debug\ArrayElementsMultiplication.exe.config
+D:\Visual Studio 2017\Projects\RandomProblems\ArrayElementsMultiplication\bin\Debug\ArrayElementsMultiplication.exe
+D:\Visual Studio 2017\Projects\RandomProblems\ArrayElementsMultiplication\bin\Debug\ArrayElementsMultiplication.pdb
+D:\Visual Studio 2017\Projects\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.exe
+D:\Visual Studio 2017\Projects\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.pdb
+D:\Visual Studio 2017\Projects\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.csprojResolveAssemblyReference.cache

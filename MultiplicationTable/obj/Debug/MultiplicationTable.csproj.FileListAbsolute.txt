@@ -1,0 +1,7 @@
+D:\Visual Studio 2017\Projects\RandomProblems\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+D:\Visual Studio 2017\Projects\RandomProblems\MultiplicationTable\bin\Debug\MultiplicationTable.exe
+D:\Visual Studio 2017\Projects\RandomProblems\MultiplicationTable\bin\Debug\MultiplicationTable.pdb
+D:\Visual Studio 2017\Projects\RandomProblems\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\Projects\RandomProblems\MultiplicationTable\obj\Debug\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\RandomProblems\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+D:\Visual Studio 2017\Projects\RandomProblems\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
