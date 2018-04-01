@@ -42,5 +42,33 @@ namespace TreeTutorial
         {
             get { return this.root; }
         }
+
+        /// <summary>
+        /// Traverses and prints tree in Depth-First-Search
+        /// (DFS) manner
+        /// </summary>
+        /// <param name="root">The root of the tre to be traversed</param>
+        /// <param name="spaces">The spaces used for representation of the parent-child relation</param>
+        private void PrintDFS(TreeNode<T> root, string spaces)
+        {
+            if (this.root == null)
+            {
+                return;
+            }
+
+            Console.WriteLine(spaces + root.Value);
+
+            TreeNode<T> child = null;
+            for (int i = 0; i < root.ChildrenCount; i++)
+            {
+                child = root.GetChild(i);
+                PrintDFS(child, spaces + " ");
+            }
+        }
+
+        public void TraverseDFS()
+        {
+            this.PrintDFS(this.root, string.Empty);
+        }
     }
 }
