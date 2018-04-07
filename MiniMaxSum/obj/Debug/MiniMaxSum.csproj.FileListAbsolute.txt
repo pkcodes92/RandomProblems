@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\MiniMaxSum\bin\Debug\MiniMaxSum.exe.config
+D:\GitHub\RandomProblems\MiniMaxSum\bin\Debug\MiniMaxSum.exe
+D:\GitHub\RandomProblems\MiniMaxSum\bin\Debug\MiniMaxSum.pdb
+D:\GitHub\RandomProblems\MiniMaxSum\obj\Debug\MiniMaxSum.csprojResolveAssemblyReference.cache
+D:\GitHub\RandomProblems\MiniMaxSum\obj\Debug\MiniMaxSum.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\MiniMaxSum\obj\Debug\MiniMaxSum.exe
+D:\GitHub\RandomProblems\MiniMaxSum\obj\Debug\MiniMaxSum.pdb
