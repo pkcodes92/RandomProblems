@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\DiscardsTutorial\bin\Debug\DiscardsTutorial.exe.config
+D:\GitHub\RandomProblems\DiscardsTutorial\bin\Debug\DiscardsTutorial.exe
+D:\GitHub\RandomProblems\DiscardsTutorial\bin\Debug\DiscardsTutorial.pdb
+D:\GitHub\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.csprojResolveAssemblyReference.cache
+D:\GitHub\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.exe
+D:\GitHub\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.pdb
