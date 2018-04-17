@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscardsTutorial", "Discard
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLeftRotation", "ArrayLeftRotation\ArrayLeftRotation.csproj", "{009A81B6-AA81-414B-86E4-7545AE48DA09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPathAlgorithm", "ShortestPathAlgorithm\ShortestPathAlgorithm.csproj", "{9792D0A8-48E5-4BD8-9E91-B77E242BFBD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{009A81B6-AA81-414B-86E4-7545AE48DA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{009A81B6-AA81-414B-86E4-7545AE48DA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{009A81B6-AA81-414B-86E4-7545AE48DA09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9792D0A8-48E5-4BD8-9E91-B77E242BFBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9792D0A8-48E5-4BD8-9E91-B77E242BFBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9792D0A8-48E5-4BD8-9E91-B77E242BFBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9792D0A8-48E5-4BD8-9E91-B77E242BFBD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
