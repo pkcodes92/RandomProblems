@@ -43,7 +43,15 @@ namespace GetHashCodeTutorial
     {
         static void Main(string[] args)
         {
-            Random rnd = new Random(); 
+            Random rnd = new Random();
+            for (int ctr = 0; ctr <= 9; ctr++)
+            {
+                int randomNum = rnd.Next(int.MinValue, int.MaxValue);
+                Number n = new Number(randomNum);
+                Console.WriteLine("n = {0,12}, hash code = {1, 12}", n, n.GetHashCode());
+            }
+
+            Console.ReadKey(); 
         }
     }
 }
