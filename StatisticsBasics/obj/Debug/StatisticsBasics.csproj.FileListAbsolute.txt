@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.exe.config
+D:\GitHub\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.exe
+D:\GitHub\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.pdb
+D:\GitHub\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.csprojResolveAssemblyReference.cache
+D:\GitHub\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.exe
+D:\GitHub\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.pdb

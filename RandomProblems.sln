@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetHashCodeTutorial", "GetHashCodeTutorial\GetHashCodeTutorial.csproj", "{D0BCAB93-32E7-4126-929C-F91DBFEF608B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticsBasics", "StatisticsBasics\StatisticsBasics.csproj", "{ADEED12C-387E-4AD7-89DA-972DC3DEF0BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{D0BCAB93-32E7-4126-929C-F91DBFEF608B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0BCAB93-32E7-4126-929C-F91DBFEF608B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0BCAB93-32E7-4126-929C-F91DBFEF608B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADEED12C-387E-4AD7-89DA-972DC3DEF0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEED12C-387E-4AD7-89DA-972DC3DEF0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEED12C-387E-4AD7-89DA-972DC3DEF0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEED12C-387E-4AD7-89DA-972DC3DEF0BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
