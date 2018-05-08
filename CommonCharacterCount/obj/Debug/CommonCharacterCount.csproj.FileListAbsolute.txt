@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\CommonCharacterCount\bin\Debug\CommonCharacterCount.exe.config
+D:\GitHub\RandomProblems\CommonCharacterCount\bin\Debug\CommonCharacterCount.exe
+D:\GitHub\RandomProblems\CommonCharacterCount\bin\Debug\CommonCharacterCount.pdb
+D:\GitHub\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.exe
+D:\GitHub\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.pdb

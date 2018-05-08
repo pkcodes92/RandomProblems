@@ -1,0 +1,6 @@
+D:\GitHub\RandomProblems\ContainsDuplicates\bin\Debug\ContainsDuplicates.exe.config
+D:\GitHub\RandomProblems\ContainsDuplicates\bin\Debug\ContainsDuplicates.exe
+D:\GitHub\RandomProblems\ContainsDuplicates\bin\Debug\ContainsDuplicates.pdb
+D:\GitHub\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.exe
+D:\GitHub\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.pdb

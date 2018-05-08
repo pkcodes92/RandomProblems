@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\LuckyNumbers\bin\Debug\LuckyNumbers.exe.config
+D:\GitHub\RandomProblems\LuckyNumbers\bin\Debug\LuckyNumbers.exe
+D:\GitHub\RandomProblems\LuckyNumbers\bin\Debug\LuckyNumbers.pdb
+D:\GitHub\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.exe
+D:\GitHub\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.pdb
