@@ -1,7 +1,6 @@
 D:\GitHub\RandomProblems\ArrayLeftRotation\bin\Debug\ArrayLeftRotation.exe.config
 D:\GitHub\RandomProblems\ArrayLeftRotation\bin\Debug\ArrayLeftRotation.exe
 D:\GitHub\RandomProblems\ArrayLeftRotation\bin\Debug\ArrayLeftRotation.pdb
-D:\GitHub\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.csprojResolveAssemblyReference.cache
 D:\GitHub\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.exe
 D:\GitHub\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.pdb

@@ -1,7 +1,7 @@
 D:\GitHub\RandomProblems\TreeTutorial\bin\Debug\TreeTutorial.exe.config
 D:\GitHub\RandomProblems\TreeTutorial\bin\Debug\TreeTutorial.exe
 D:\GitHub\RandomProblems\TreeTutorial\bin\Debug\TreeTutorial.pdb
-D:\GitHub\RandomProblems\TreeTutorial\obj\Debug\TreeTutorial.csprojResolveAssemblyReference.cache
 D:\GitHub\RandomProblems\TreeTutorial\obj\Debug\TreeTutorial.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\TreeTutorial\obj\Debug\TreeTutorial.exe
 D:\GitHub\RandomProblems\TreeTutorial\obj\Debug\TreeTutorial.pdb
+D:\GitHub\RandomProblems\TreeTutorial\obj\Debug\TreeTutorial.csprojAssemblyReference.cache

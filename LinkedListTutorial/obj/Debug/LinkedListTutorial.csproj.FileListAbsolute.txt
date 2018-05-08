@@ -1,7 +1,7 @@
 D:\GitHub\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.exe.config
 D:\GitHub\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.exe
 D:\GitHub\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.pdb
-D:\GitHub\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csprojResolveAssemblyReference.cache
 D:\GitHub\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.exe
 D:\GitHub\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.pdb
+D:\GitHub\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csprojAssemblyReference.cache

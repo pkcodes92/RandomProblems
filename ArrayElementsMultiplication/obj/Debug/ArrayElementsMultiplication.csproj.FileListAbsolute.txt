@@ -8,7 +8,7 @@ D:\Visual Studio 2017\Projects\RandomProblems\ArrayElementsMultiplication\obj\De
 D:\GitHub\RandomProblems\ArrayElementsMultiplication\bin\Debug\ArrayElementsMultiplication.exe.config
 D:\GitHub\RandomProblems\ArrayElementsMultiplication\bin\Debug\ArrayElementsMultiplication.exe
 D:\GitHub\RandomProblems\ArrayElementsMultiplication\bin\Debug\ArrayElementsMultiplication.pdb
-D:\GitHub\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.csprojResolveAssemblyReference.cache
 D:\GitHub\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.exe
 D:\GitHub\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.pdb
+D:\GitHub\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.csprojAssemblyReference.cache

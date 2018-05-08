@@ -1,0 +1,6 @@
+D:\GitHub\RandomProblems\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\GitHub\RandomProblems\BubbleSort\bin\Debug\BubbleSort.exe
+D:\GitHub\RandomProblems\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\GitHub\RandomProblems\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\BubbleSort\obj\Debug\BubbleSort.exe
+D:\GitHub\RandomProblems\BubbleSort\obj\Debug\BubbleSort.pdb

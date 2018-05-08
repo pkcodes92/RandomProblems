@@ -1,7 +1,6 @@
 D:\GitHub\RandomProblems\ShortestPathAlgorithm\bin\Debug\ShortestPathAlgorithm.exe.config
 D:\GitHub\RandomProblems\ShortestPathAlgorithm\bin\Debug\ShortestPathAlgorithm.exe
 D:\GitHub\RandomProblems\ShortestPathAlgorithm\bin\Debug\ShortestPathAlgorithm.pdb
-D:\GitHub\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.csprojResolveAssemblyReference.cache
 D:\GitHub\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.exe
 D:\GitHub\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.pdb

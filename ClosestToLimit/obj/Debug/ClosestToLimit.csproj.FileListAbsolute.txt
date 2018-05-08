@@ -8,7 +8,7 @@ D:\Visual Studio 2017\Projects\RandomProblems\ClosestToLimit\obj\Debug\ClosestTo
 D:\GitHub\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.exe.config
 D:\GitHub\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.exe
 D:\GitHub\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.pdb
-D:\GitHub\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csprojResolveAssemblyReference.cache
 D:\GitHub\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.exe
 D:\GitHub\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.pdb
+D:\GitHub\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csprojAssemblyReference.cache
