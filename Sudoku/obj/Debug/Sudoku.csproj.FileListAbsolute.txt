@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\Sudoku\bin\Debug\Sudoku.exe.config
+D:\GitHub\RandomProblems\Sudoku\bin\Debug\Sudoku.exe
+D:\GitHub\RandomProblems\Sudoku\bin\Debug\Sudoku.pdb
+D:\GitHub\RandomProblems\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\Sudoku\obj\Debug\Sudoku.exe
+D:\GitHub\RandomProblems\Sudoku\obj\Debug\Sudoku.pdb

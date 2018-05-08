@@ -9,14 +9,14 @@ namespace FirstNotRepeatingCharacter
             Console.WriteLine("Enter a string of characters: ");
             string s = Console.ReadLine();
 
-            char result = firstNonRepeatingCharacter(s);
+            char result = FirstNonRepeatingCharacter(s);
 
             Console.WriteLine($"Result: {result}");
 
             Console.ReadKey(); 
         }
 
-        static char firstNonRepeatingCharacter(string s)
+        static char FirstNonRepeatingCharacter(string s)
         {
             char[] inputs = s.ToCharArray();
 

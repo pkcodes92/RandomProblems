@@ -19,8 +19,8 @@ namespace AllLongestStrings
 
             Console.WriteLine("Output: ");
 
-            string[] outputArray = allLongestStrings(inputArray);
-            string[] outputArray2 = allLongStrings(inputArray); 
+            string[] outputArray = AllLongestStrings(inputArray);
+            string[] outputArray2 = AllLongStrings(inputArray); 
 
             for (int j = 0; j < outputArray.Length; j++)
             {
@@ -30,7 +30,7 @@ namespace AllLongestStrings
             Console.ReadKey();
         }
 
-        static string[] allLongestStrings(string[] inputArray)
+        static string[] AllLongestStrings(string[] inputArray)
         {
             int max = 0;
             Queue stringQ = new Queue();
@@ -58,7 +58,7 @@ namespace AllLongestStrings
             return strL; 
         }
 
-        static string[] allLongStrings(string[] inputArray)
+        static string[] AllLongStrings(string[] inputArray)
         {
             int max = 0;
 
