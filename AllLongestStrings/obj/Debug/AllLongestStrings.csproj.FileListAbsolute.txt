@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\AllLongestStrings\bin\Debug\AllLongestStrings.exe.config
+D:\GitHub\RandomProblems\AllLongestStrings\bin\Debug\AllLongestStrings.exe
+D:\GitHub\RandomProblems\AllLongestStrings\bin\Debug\AllLongestStrings.pdb
+D:\GitHub\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.exe
+D:\GitHub\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.pdb
