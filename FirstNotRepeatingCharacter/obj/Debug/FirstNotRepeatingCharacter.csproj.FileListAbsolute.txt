@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\FirstNotRepeatingCharacter\bin\Debug\FirstNotRepeatingCharacter.exe.config
+D:\GitHub\RandomProblems\FirstNotRepeatingCharacter\bin\Debug\FirstNotRepeatingCharacter.exe
+D:\GitHub\RandomProblems\FirstNotRepeatingCharacter\bin\Debug\FirstNotRepeatingCharacter.pdb
+D:\GitHub\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.exe
+D:\GitHub\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.pdb
