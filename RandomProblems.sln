@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyNumbers", "LuckyNumber
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicates", "ContainsDuplicates\ContainsDuplicates.csproj", "{3380BA19-A548-43FA-88AF-9B284C852D91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternatingSums", "AlternatingSums\AlternatingSums.csproj", "{6D2AD2ED-55BE-44F5-A2BF-A4EB43971520}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{3380BA19-A548-43FA-88AF-9B284C852D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3380BA19-A548-43FA-88AF-9B284C852D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3380BA19-A548-43FA-88AF-9B284C852D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2AD2ED-55BE-44F5-A2BF-A4EB43971520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2AD2ED-55BE-44F5-A2BF-A4EB43971520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2AD2ED-55BE-44F5-A2BF-A4EB43971520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2AD2ED-55BE-44F5-A2BF-A4EB43971520}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
