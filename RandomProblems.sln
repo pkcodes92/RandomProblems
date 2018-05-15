@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlternatingSums", "Alternat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualStrength", "EqualStrength\EqualStrength.csproj", "{5DAD20CF-5321-4123-B177-EE5C6F4DC47C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimilarArrays", "SimilarArrays\SimilarArrays.csproj", "{21A4C51C-6E4D-4931-B93D-34919E0044F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{5DAD20CF-5321-4123-B177-EE5C6F4DC47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DAD20CF-5321-4123-B177-EE5C6F4DC47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DAD20CF-5321-4123-B177-EE5C6F4DC47C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21A4C51C-6E4D-4931-B93D-34919E0044F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A4C51C-6E4D-4931-B93D-34919E0044F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A4C51C-6E4D-4931-B93D-34919E0044F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A4C51C-6E4D-4931-B93D-34919E0044F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
