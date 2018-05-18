@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\EqualStrength\bin\Debug\EqualStrength.exe.config
+D:\GitHub\RandomProblems\EqualStrength\bin\Debug\EqualStrength.exe
+D:\GitHub\RandomProblems\EqualStrength\bin\Debug\EqualStrength.pdb
+D:\GitHub\RandomProblems\EqualStrength\obj\Debug\EqualStrength.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\EqualStrength\obj\Debug\EqualStrength.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\EqualStrength\obj\Debug\EqualStrength.exe
+D:\GitHub\RandomProblems\EqualStrength\obj\Debug\EqualStrength.pdb

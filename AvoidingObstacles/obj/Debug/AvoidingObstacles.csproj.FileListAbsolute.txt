@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\AvoidingObstacles\bin\Debug\AvoidingObstacles.exe.config
+D:\GitHub\RandomProblems\AvoidingObstacles\bin\Debug\AvoidingObstacles.exe
+D:\GitHub\RandomProblems\AvoidingObstacles\bin\Debug\AvoidingObstacles.pdb
+D:\GitHub\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.exe
+D:\GitHub\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.pdb

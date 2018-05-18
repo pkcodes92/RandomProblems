@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualStrength", "EqualStren
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimilarArrays", "SimilarArrays\SimilarArrays.csproj", "{21A4C51C-6E4D-4931-B93D-34919E0044F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvoidingObstacles", "AvoidingObstacles\AvoidingObstacles.csproj", "{38C0DCE3-CA10-403E-BD47-EB9B37B0C46A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{21A4C51C-6E4D-4931-B93D-34919E0044F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21A4C51C-6E4D-4931-B93D-34919E0044F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21A4C51C-6E4D-4931-B93D-34919E0044F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C0DCE3-CA10-403E-BD47-EB9B37B0C46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C0DCE3-CA10-403E-BD47-EB9B37B0C46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C0DCE3-CA10-403E-BD47-EB9B37B0C46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C0DCE3-CA10-403E-BD47-EB9B37B0C46A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
