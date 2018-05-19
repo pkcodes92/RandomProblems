@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\BoxBlurring\bin\Debug\BoxBlurring.exe.config
+D:\GitHub\RandomProblems\BoxBlurring\bin\Debug\BoxBlurring.exe
+D:\GitHub\RandomProblems\BoxBlurring\bin\Debug\BoxBlurring.pdb
+D:\GitHub\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.exe
+D:\GitHub\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.pdb

@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimilarArrays", "SimilarArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvoidingObstacles", "AvoidingObstacles\AvoidingObstacles.csproj", "{38C0DCE3-CA10-403E-BD47-EB9B37B0C46A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxBlurring", "BoxBlurring\BoxBlurring.csproj", "{D3E62A4C-E60D-4BFA-BE37-C897C6DDD121}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{38C0DCE3-CA10-403E-BD47-EB9B37B0C46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38C0DCE3-CA10-403E-BD47-EB9B37B0C46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38C0DCE3-CA10-403E-BD47-EB9B37B0C46A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E62A4C-E60D-4BFA-BE37-C897C6DDD121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E62A4C-E60D-4BFA-BE37-C897C6DDD121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E62A4C-E60D-4BFA-BE37-C897C6DDD121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E62A4C-E60D-4BFA-BE37-C897C6DDD121}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
