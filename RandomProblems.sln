@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvoidingObstacles", "Avoidi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxBlurring", "BoxBlurring\BoxBlurring.csproj", "{D3E62A4C-E60D-4BFA-BE37-C897C6DDD121}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeping", "Minesweeping\Minesweeping.csproj", "{68FE303E-E748-4B84-A523-13B31E350E4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{D3E62A4C-E60D-4BFA-BE37-C897C6DDD121}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3E62A4C-E60D-4BFA-BE37-C897C6DDD121}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3E62A4C-E60D-4BFA-BE37-C897C6DDD121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FE303E-E748-4B84-A523-13B31E350E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FE303E-E748-4B84-A523-13B31E350E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FE303E-E748-4B84-A523-13B31E350E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FE303E-E748-4B84-A523-13B31E350E4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
