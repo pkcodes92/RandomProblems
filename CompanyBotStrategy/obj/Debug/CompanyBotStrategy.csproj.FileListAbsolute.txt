@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\CompanyBotStrategy\bin\Debug\CompanyBotStrategy.exe.config
+D:\GitHub\RandomProblems\CompanyBotStrategy\bin\Debug\CompanyBotStrategy.exe
+D:\GitHub\RandomProblems\CompanyBotStrategy\bin\Debug\CompanyBotStrategy.pdb
+D:\GitHub\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.exe
+D:\GitHub\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.pdb

@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\Minesweeping\bin\Debug\Minesweeping.exe.config
+D:\GitHub\RandomProblems\Minesweeping\bin\Debug\Minesweeping.exe
+D:\GitHub\RandomProblems\Minesweeping\bin\Debug\Minesweeping.pdb
+D:\GitHub\RandomProblems\Minesweeping\obj\Debug\Minesweeping.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\Minesweeping\obj\Debug\Minesweeping.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\Minesweeping\obj\Debug\Minesweeping.exe
+D:\GitHub\RandomProblems\Minesweeping\obj\Debug\Minesweeping.pdb

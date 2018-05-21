@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\OnlyEvenNumbers\bin\Debug\OnlyEvenNumbers.exe.config
+D:\GitHub\RandomProblems\OnlyEvenNumbers\bin\Debug\OnlyEvenNumbers.exe
+D:\GitHub\RandomProblems\OnlyEvenNumbers\bin\Debug\OnlyEvenNumbers.pdb
+D:\GitHub\RandomProblems\OnlyEvenNumbers\obj\Debug\OnlyEvenNumbers.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\OnlyEvenNumbers\obj\Debug\OnlyEvenNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\OnlyEvenNumbers\obj\Debug\OnlyEvenNumbers.exe
+D:\GitHub\RandomProblems\OnlyEvenNumbers\obj\Debug\OnlyEvenNumbers.pdb

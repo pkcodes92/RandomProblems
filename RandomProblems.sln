@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxBlurring", "BoxBlurring\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeping", "Minesweeping\Minesweeping.csproj", "{68FE303E-E748-4B84-A523-13B31E350E4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlyEvenNumbers", "OnlyEvenNumbers\OnlyEvenNumbers.csproj", "{87ACA1C0-2157-4B45-B10A-F1B8FE04B530}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyBotStrategy", "CompanyBotStrategy\CompanyBotStrategy.csproj", "{711F1427-14DF-4531-8D6C-A13A9FFA941A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{68FE303E-E748-4B84-A523-13B31E350E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68FE303E-E748-4B84-A523-13B31E350E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68FE303E-E748-4B84-A523-13B31E350E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87ACA1C0-2157-4B45-B10A-F1B8FE04B530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87ACA1C0-2157-4B45-B10A-F1B8FE04B530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87ACA1C0-2157-4B45-B10A-F1B8FE04B530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87ACA1C0-2157-4B45-B10A-F1B8FE04B530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{711F1427-14DF-4531-8D6C-A13A9FFA941A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711F1427-14DF-4531-8D6C-A13A9FFA941A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711F1427-14DF-4531-8D6C-A13A9FFA941A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711F1427-14DF-4531-8D6C-A13A9FFA941A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
