@@ -22,6 +22,14 @@ namespace ArrayReplacement
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// This is the method that will be called in order to perform the 
+        /// operations
+        /// </summary>
+        /// <param name="inputArray"></param>
+        /// <param name="elemToReplace"></param>
+        /// <param name="substitutionElem"></param>
+        /// <returns></returns>
         static int[] ArrayReplace(int[] inputArray, int elemToReplace, int substitutionElem)
         {
             int[] temp = new int[inputArray.Length];
