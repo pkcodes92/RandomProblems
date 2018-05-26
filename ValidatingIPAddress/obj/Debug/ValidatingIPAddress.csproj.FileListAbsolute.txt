@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\ValidatingIPAddress\bin\Debug\ValidatingIPAddress.exe.config
+D:\GitHub\RandomProblems\ValidatingIPAddress\bin\Debug\ValidatingIPAddress.exe
+D:\GitHub\RandomProblems\ValidatingIPAddress\bin\Debug\ValidatingIPAddress.pdb
+D:\GitHub\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.exe
+D:\GitHub\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.pdb

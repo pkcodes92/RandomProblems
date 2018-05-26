@@ -26,9 +26,9 @@ namespace ArrayReplacement
         /// This is the method that will be called in order to perform the 
         /// operations
         /// </summary>
-        /// <param name="inputArray"></param>
-        /// <param name="elemToReplace"></param>
-        /// <param name="substitutionElem"></param>
+        /// <param name="inputArray">The input array containing integers</param>
+        /// <param name="elemToReplace">An element that will be replaced in the integers</param>
+        /// <param name="substitutionElem">What element is to be used for the substitution</param>
         /// <returns></returns>
         static int[] ArrayReplace(int[] inputArray, int elemToReplace, int substitutionElem)
         {
