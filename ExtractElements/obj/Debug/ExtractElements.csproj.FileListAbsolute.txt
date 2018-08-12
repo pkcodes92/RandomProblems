@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\ExtractElements\bin\Debug\ExtractElements.exe.config
+D:\GitHub\RandomProblems\ExtractElements\bin\Debug\ExtractElements.exe
+D:\GitHub\RandomProblems\ExtractElements\bin\Debug\ExtractElements.pdb
+D:\GitHub\RandomProblems\ExtractElements\obj\Debug\ExtractElements.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\ExtractElements\obj\Debug\ExtractElements.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\ExtractElements\obj\Debug\ExtractElements.exe
+D:\GitHub\RandomProblems\ExtractElements\obj\Debug\ExtractElements.pdb

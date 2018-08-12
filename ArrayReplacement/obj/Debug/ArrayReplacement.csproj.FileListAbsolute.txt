@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\ArrayReplacement\bin\Debug\ArrayReplacement.exe.config
+D:\GitHub\RandomProblems\ArrayReplacement\bin\Debug\ArrayReplacement.exe
+D:\GitHub\RandomProblems\ArrayReplacement\bin\Debug\ArrayReplacement.pdb
+D:\GitHub\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.exe
+D:\GitHub\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.pdb

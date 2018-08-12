@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayReplacement", "ArrayRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatingIPAddress", "ValidatingIPAddress\ValidatingIPAddress.csproj", "{9F9A17FE-CBAB-491A-A9B7-D52556051E6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractElements", "ExtractElements\ExtractElements.csproj", "{C6530A59-B22E-460F-A17B-E60DF176CE51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{9F9A17FE-CBAB-491A-A9B7-D52556051E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F9A17FE-CBAB-491A-A9B7-D52556051E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F9A17FE-CBAB-491A-A9B7-D52556051E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6530A59-B22E-460F-A17B-E60DF176CE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6530A59-B22E-460F-A17B-E60DF176CE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6530A59-B22E-460F-A17B-E60DF176CE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6530A59-B22E-460F-A17B-E60DF176CE51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
