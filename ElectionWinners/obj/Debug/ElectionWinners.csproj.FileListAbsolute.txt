@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\ElectionWinners\bin\Debug\ElectionWinners.exe.config
+D:\GitHub\RandomProblems\ElectionWinners\bin\Debug\ElectionWinners.exe
+D:\GitHub\RandomProblems\ElectionWinners\bin\Debug\ElectionWinners.pdb
+D:\GitHub\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.exe
+D:\GitHub\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.pdb

@@ -1,0 +1,6 @@
+D:\GitHub\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.exe.config
+D:\GitHub\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.exe
+D:\GitHub\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.pdb
+D:\GitHub\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.exe
+D:\GitHub\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.pdb

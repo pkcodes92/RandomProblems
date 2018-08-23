@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\DigitReplacement\bin\Debug\DigitReplacement.exe.config
+D:\GitHub\RandomProblems\DigitReplacement\bin\Debug\DigitReplacement.exe
+D:\GitHub\RandomProblems\DigitReplacement\bin\Debug\DigitReplacement.pdb
+D:\GitHub\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.exe
+D:\GitHub\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.pdb

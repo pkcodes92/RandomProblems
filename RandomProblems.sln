@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractElements", "ExtractE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitReplacement", "DigitReplacement\DigitReplacement.csproj", "{745084B6-559C-4BBF-8D22-E9D7828F911C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectionWinners", "ElectionWinners\ElectionWinners.csproj", "{E8F7133D-18A3-425A-BD6B-BF752B371FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharIsDigit", "CharIsDigit\CharIsDigit.csproj", "{11341B12-0C83-4284-9F3D-50BE287F1EE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{745084B6-559C-4BBF-8D22-E9D7828F911C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{745084B6-559C-4BBF-8D22-E9D7828F911C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{745084B6-559C-4BBF-8D22-E9D7828F911C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F7133D-18A3-425A-BD6B-BF752B371FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F7133D-18A3-425A-BD6B-BF752B371FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F7133D-18A3-425A-BD6B-BF752B371FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F7133D-18A3-425A-BD6B-BF752B371FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11341B12-0C83-4284-9F3D-50BE287F1EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11341B12-0C83-4284-9F3D-50BE287F1EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11341B12-0C83-4284-9F3D-50BE287F1EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11341B12-0C83-4284-9F3D-50BE287F1EE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
