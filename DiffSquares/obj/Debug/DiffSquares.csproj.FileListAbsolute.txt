@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\DiffSquares\bin\Debug\DiffSquares.exe.config
+D:\GitHub\RandomProblems\DiffSquares\bin\Debug\DiffSquares.exe
+D:\GitHub\RandomProblems\DiffSquares\bin\Debug\DiffSquares.pdb
+D:\GitHub\RandomProblems\DiffSquares\obj\Debug\DiffSquares.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\DiffSquares\obj\Debug\DiffSquares.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\DiffSquares\obj\Debug\DiffSquares.exe
+D:\GitHub\RandomProblems\DiffSquares\obj\Debug\DiffSquares.pdb

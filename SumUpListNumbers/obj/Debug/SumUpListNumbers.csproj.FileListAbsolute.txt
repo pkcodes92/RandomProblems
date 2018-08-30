@@ -1,0 +1,6 @@
+D:\GitHub\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.exe.config
+D:\GitHub\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.exe
+D:\GitHub\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.pdb
+D:\GitHub\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.exe
+D:\GitHub\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.pdb

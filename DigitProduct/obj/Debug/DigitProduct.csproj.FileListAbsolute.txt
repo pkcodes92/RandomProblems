@@ -1,0 +1,6 @@
+D:\GitHub\RandomProblems\DigitProduct\bin\Debug\DigitProduct.exe.config
+D:\GitHub\RandomProblems\DigitProduct\bin\Debug\DigitProduct.exe
+D:\GitHub\RandomProblems\DigitProduct\bin\Debug\DigitProduct.pdb
+D:\GitHub\RandomProblems\DigitProduct\obj\Debug\DigitProduct.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\DigitProduct\obj\Debug\DigitProduct.exe
+D:\GitHub\RandomProblems\DigitProduct\obj\Debug\DigitProduct.pdb
