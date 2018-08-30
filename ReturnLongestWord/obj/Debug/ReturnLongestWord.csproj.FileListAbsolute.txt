@@ -1,0 +1,6 @@
+D:\GitHub\RandomProblems\ReturnLongestWord\bin\Debug\ReturnLongestWord.exe.config
+D:\GitHub\RandomProblems\ReturnLongestWord\bin\Debug\ReturnLongestWord.exe
+D:\GitHub\RandomProblems\ReturnLongestWord\bin\Debug\ReturnLongestWord.pdb
+D:\GitHub\RandomProblems\ReturnLongestWord\obj\Debug\ReturnLongestWord.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\ReturnLongestWord\obj\Debug\ReturnLongestWord.exe
+D:\GitHub\RandomProblems\ReturnLongestWord\obj\Debug\ReturnLongestWord.pdb
