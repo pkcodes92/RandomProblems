@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumUpListNumbers", "SumUpLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitProduct", "DigitProduct\DigitProduct.csproj", "{662BB0F3-E336-4069-B52A-3BE8934DE268}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumDifference", "MaximumDifference\MaximumDifference.csproj", "{6958FE0D-EB48-4C4B-AEBE-44F68C75F332}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{662BB0F3-E336-4069-B52A-3BE8934DE268}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{662BB0F3-E336-4069-B52A-3BE8934DE268}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{662BB0F3-E336-4069-B52A-3BE8934DE268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6958FE0D-EB48-4C4B-AEBE-44F68C75F332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6958FE0D-EB48-4C4B-AEBE-44F68C75F332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6958FE0D-EB48-4C4B-AEBE-44F68C75F332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6958FE0D-EB48-4C4B-AEBE-44F68C75F332}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
