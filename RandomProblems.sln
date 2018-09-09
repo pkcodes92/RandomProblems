@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitProduct", "DigitProduc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumDifference", "MaximumDifference\MaximumDifference.csproj", "{6958FE0D-EB48-4C4B-AEBE-44F68C75F332}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatingSudoku", "ValidatingSudoku\ValidatingSudoku.csproj", "{B30FF09D-7EA8-4AE3-AF09-6AD09884B158}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{6958FE0D-EB48-4C4B-AEBE-44F68C75F332}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6958FE0D-EB48-4C4B-AEBE-44F68C75F332}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6958FE0D-EB48-4C4B-AEBE-44F68C75F332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30FF09D-7EA8-4AE3-AF09-6AD09884B158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30FF09D-7EA8-4AE3-AF09-6AD09884B158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30FF09D-7EA8-4AE3-AF09-6AD09884B158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30FF09D-7EA8-4AE3-AF09-6AD09884B158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

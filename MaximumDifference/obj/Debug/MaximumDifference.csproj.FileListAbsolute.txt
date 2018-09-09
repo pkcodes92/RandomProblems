@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\MaximumDifference\bin\Debug\MaximumDifference.exe.config
+D:\GitHub\RandomProblems\MaximumDifference\bin\Debug\MaximumDifference.exe
+D:\GitHub\RandomProblems\MaximumDifference\bin\Debug\MaximumDifference.pdb
+D:\GitHub\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.exe
+D:\GitHub\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.pdb
