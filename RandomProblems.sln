@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumDifference", "Maximu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidatingSudoku", "ValidatingSudoku\ValidatingSudoku.csproj", "{B30FF09D-7EA8-4AE3-AF09-6AD09884B158}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheHiddenNumber", "FindTheHiddenNumber\FindTheHiddenNumber.csproj", "{3DEA5E23-102B-4FBB-B179-B648A476733E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{B30FF09D-7EA8-4AE3-AF09-6AD09884B158}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B30FF09D-7EA8-4AE3-AF09-6AD09884B158}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B30FF09D-7EA8-4AE3-AF09-6AD09884B158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEA5E23-102B-4FBB-B179-B648A476733E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEA5E23-102B-4FBB-B179-B648A476733E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEA5E23-102B-4FBB-B179-B648A476733E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEA5E23-102B-4FBB-B179-B648A476733E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

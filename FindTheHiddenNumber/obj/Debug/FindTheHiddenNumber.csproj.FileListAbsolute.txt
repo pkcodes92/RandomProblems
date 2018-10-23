@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\FindTheHiddenNumber\bin\Debug\FindTheHiddenNumber.exe.config
+D:\GitHub\RandomProblems\FindTheHiddenNumber\bin\Debug\FindTheHiddenNumber.exe
+D:\GitHub\RandomProblems\FindTheHiddenNumber\bin\Debug\FindTheHiddenNumber.pdb
+D:\GitHub\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.exe
+D:\GitHub\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.pdb
