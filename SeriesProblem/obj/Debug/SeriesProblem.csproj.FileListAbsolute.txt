@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\SeriesProblem\bin\Debug\SeriesProblem.exe.config
+D:\GitHub\RandomProblems\SeriesProblem\bin\Debug\SeriesProblem.exe
+D:\GitHub\RandomProblems\SeriesProblem\bin\Debug\SeriesProblem.pdb
+D:\GitHub\RandomProblems\SeriesProblem\obj\Debug\SeriesProblem.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\SeriesProblem\obj\Debug\SeriesProblem.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\SeriesProblem\obj\Debug\SeriesProblem.exe
+D:\GitHub\RandomProblems\SeriesProblem\obj\Debug\SeriesProblem.pdb
