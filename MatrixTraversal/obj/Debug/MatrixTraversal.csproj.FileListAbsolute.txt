@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\MatrixTraversal\bin\Debug\MatrixTraversal.exe.config
+D:\GitHub\RandomProblems\MatrixTraversal\bin\Debug\MatrixTraversal.exe
+D:\GitHub\RandomProblems\MatrixTraversal\bin\Debug\MatrixTraversal.pdb
+D:\GitHub\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.exe
+D:\GitHub\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.pdb
