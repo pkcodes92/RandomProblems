@@ -6,18 +6,11 @@ namespace CompanyBotStrategy
     {
         static void Main(string[] args)
         {
-            //int[][] trainingData = new int[4][] { new int[] {3, 1},
-            //                                      new int[] {6, 1},
-            //                                      new int[] {4, 1},
-            //                                      new int[] {5, 1} };
-            int[][] trainingData2 = new int[6][] { new int[] {3, 1},
-                                                   new int[] {6, 1},
-                                                   new int[] {4, 1},
-                                                   new int[] {5, 1},
-                                                   new int[] {6, 0 },
-                                                   new int[] {1, 1 } };
-
-            double answerTime = BotStrategy(trainingData2);
+            int[][] trainingData = new int[4][] { new int[] {3, 1},
+                                                  new int[] {6, 1},
+                                                  new int[] {4, 1},
+                                                  new int[] {5, 1} };
+            double answerTime = BotStrategy(trainingData);
 
             Console.WriteLine($"The answer time is: {answerTime}");
 
