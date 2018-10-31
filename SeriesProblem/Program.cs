@@ -19,7 +19,11 @@ namespace SeriesProblem
                 int b = int.Parse(tokens[1]);
                 int n = int.Parse(tokens[2]);
 
-                DetermineSeriesNTerms(a, b, n);
+                for (int j = 0; j < n; j++)
+                {
+                    Console.Write(DetermineSeriesNTerms(a, b, n) + " ");
+                }
+
                 Console.WriteLine(); 
             }
 
@@ -27,30 +31,22 @@ namespace SeriesProblem
         }
 
         /// <summary>
-        /// Determines the full series for n-terms
+        /// Determines each term in the series that is specified by the user
+        /// when the user provides values for a, b, and n
         /// </summary>
         /// <param name="a">Input for the initial term</param>
         /// <param name="b">Input for a multiplier</param>
         /// <param name="n">Input to represent the number of terms to limit</param>
-        private static void DetermineSeriesNTerms(int a, int b, int n)
+        private static int DetermineSeriesNTerms(int a, int b, int n)
         {
-            int startTerm = 0;
-            int currentTerm = 0;
+            int sum = a;
 
-            for (int i = 0; i < n; i++)
-            {          
-                if (i == 0)
-                {
-                    currentTerm = a + (int)Math.Pow(2, 0) * b;
-                    startTerm = currentTerm; 
-                }
-                else
-                {
-                    currentTerm = startTerm + ((int)Math.Pow(2, i) * b); 
-                }
-
-                Console.Write(currentTerm + " "); 
+            for (int z = n; z >= 0; z--)
+            {
+                sum = sum + ((int)Math.Pow(2, z) * b); 
             }
+
+            return sum;
         }
     }
 }
