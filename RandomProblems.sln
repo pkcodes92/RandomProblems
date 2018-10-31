@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriesProblem", "SeriesProb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "DivisibleSumPairs\DivisibleSumPairs.csproj", "{BA89B1C1-2270-48AF-99AE-50722EE6BC9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestNumberPossible", "LargestNumberPossible\LargestNumberPossible.csproj", "{DD594C8F-44CA-477E-A319-7F3A22DDEF8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{BA89B1C1-2270-48AF-99AE-50722EE6BC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA89B1C1-2270-48AF-99AE-50722EE6BC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA89B1C1-2270-48AF-99AE-50722EE6BC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD594C8F-44CA-477E-A319-7F3A22DDEF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD594C8F-44CA-477E-A319-7F3A22DDEF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD594C8F-44CA-477E-A319-7F3A22DDEF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD594C8F-44CA-477E-A319-7F3A22DDEF8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
