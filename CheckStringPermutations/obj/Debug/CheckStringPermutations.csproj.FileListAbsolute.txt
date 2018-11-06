@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutations.exe.config
+D:\GitHub\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutations.exe
+D:\GitHub\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutations.pdb
+D:\GitHub\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.exe
+D:\GitHub\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.pdb

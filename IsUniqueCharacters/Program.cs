@@ -36,6 +36,7 @@ namespace IsUniqueCharacters
 
             // Having the charSet array to be 128 for ASCII encoding
             bool[] charSet = new bool[128];
+
             for (int i = 0; i < inputString.Length; i++)
             {
                 int val = inputString[i];
