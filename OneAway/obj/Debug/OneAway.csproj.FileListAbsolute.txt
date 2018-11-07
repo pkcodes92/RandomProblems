@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\OneAway\bin\Debug\OneAway.exe.config
+D:\GitHub\RandomProblems\OneAway\bin\Debug\OneAway.exe
+D:\GitHub\RandomProblems\OneAway\bin\Debug\OneAway.pdb
+D:\GitHub\RandomProblems\OneAway\obj\Debug\OneAway.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\OneAway\obj\Debug\OneAway.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\OneAway\obj\Debug\OneAway.exe
+D:\GitHub\RandomProblems\OneAway\obj\Debug\OneAway.pdb
