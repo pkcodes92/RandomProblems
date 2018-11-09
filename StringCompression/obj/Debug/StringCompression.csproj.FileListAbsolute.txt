@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\StringCompression\bin\Debug\StringCompression.exe.config
+D:\GitHub\RandomProblems\StringCompression\bin\Debug\StringCompression.exe
+D:\GitHub\RandomProblems\StringCompression\bin\Debug\StringCompression.pdb
+D:\GitHub\RandomProblems\StringCompression\obj\Debug\StringCompression.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\StringCompression\obj\Debug\StringCompression.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\StringCompression\obj\Debug\StringCompression.exe
+D:\GitHub\RandomProblems\StringCompression\obj\Debug\StringCompression.pdb
