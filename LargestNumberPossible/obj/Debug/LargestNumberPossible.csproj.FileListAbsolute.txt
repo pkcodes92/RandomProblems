@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\LargestNumberPossible\bin\Debug\LargestNumberPossible.exe.config
+D:\GitHub\RandomProblems\LargestNumberPossible\bin\Debug\LargestNumberPossible.exe
+D:\GitHub\RandomProblems\LargestNumberPossible\bin\Debug\LargestNumberPossible.pdb
+D:\GitHub\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.exe
+D:\GitHub\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.pdb

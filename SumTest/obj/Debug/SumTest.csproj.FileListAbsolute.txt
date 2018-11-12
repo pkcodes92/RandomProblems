@@ -1,0 +1,2 @@
+D:\GitHub\RandomProblems\SumTest\obj\Debug\SumTest.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\SumTest\obj\Debug\SumTest.csproj.CoreCompileInputs.cache

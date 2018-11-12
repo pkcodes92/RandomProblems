@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe.config
+D:\GitHub\RandomProblems\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe
+D:\GitHub\RandomProblems\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.pdb
+D:\GitHub\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.exe
+D:\GitHub\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.pdb
