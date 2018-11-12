@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\LinqBasicStructure\bin\Debug\LinqBasicStructure.exe.config
+D:\GitHub\RandomProblems\LinqBasicStructure\bin\Debug\LinqBasicStructure.exe
+D:\GitHub\RandomProblems\LinqBasicStructure\bin\Debug\LinqBasicStructure.pdb
+D:\GitHub\RandomProblems\LinqBasicStructure\obj\Debug\LinqBasicStructure.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\LinqBasicStructure\obj\Debug\LinqBasicStructure.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\LinqBasicStructure\obj\Debug\LinqBasicStructure.exe
+D:\GitHub\RandomProblems\LinqBasicStructure\obj\Debug\LinqBasicStructure.pdb
