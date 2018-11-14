@@ -22,6 +22,7 @@ namespace FibonacciNumbers
                 FibonacciRecursive(len); 
             }
 
+            Console.WriteLine("The program has completed execution, you may now press any key to quit"); 
             Console.ReadKey();
         }
 
