@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "Fibonac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousOperations", "VariousOperations\VariousOperations.csproj", "{E4935D38-18B3-4609-83DE-1500C077356A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteDifference", "AbsoluteDifference\AbsoluteDifference.csproj", "{C2C07A02-50D9-49F2-AC3F-6537CAB7B7CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{E4935D38-18B3-4609-83DE-1500C077356A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4935D38-18B3-4609-83DE-1500C077356A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4935D38-18B3-4609-83DE-1500C077356A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C07A02-50D9-49F2-AC3F-6537CAB7B7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C07A02-50D9-49F2-AC3F-6537CAB7B7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C07A02-50D9-49F2-AC3F-6537CAB7B7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C07A02-50D9-49F2-AC3F-6537CAB7B7CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
