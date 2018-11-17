@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\CheckSumOfThirty\bin\Debug\CheckSumOfThirty.exe.config
+D:\GitHub\RandomProblems\CheckSumOfThirty\bin\Debug\CheckSumOfThirty.exe
+D:\GitHub\RandomProblems\CheckSumOfThirty\bin\Debug\CheckSumOfThirty.pdb
+D:\GitHub\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.exe
+D:\GitHub\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.pdb

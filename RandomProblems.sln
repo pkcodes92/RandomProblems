@@ -113,6 +113,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousOperations", "Variou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteDifference", "AbsoluteDifference\AbsoluteDifference.csproj", "{C2C07A02-50D9-49F2-AC3F-6537CAB7B7CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckSumOfThirty", "CheckSumOfThirty\CheckSumOfThirty.csproj", "{E01B0E5B-E08E-45E1-95BA-0C504E296D37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckSumInRange", "CheckSumInRange\CheckSumInRange.csproj", "{CC2F802C-4B3B-4149-B568-293860764312}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -339,6 +343,14 @@ Global
 		{C2C07A02-50D9-49F2-AC3F-6537CAB7B7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2C07A02-50D9-49F2-AC3F-6537CAB7B7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2C07A02-50D9-49F2-AC3F-6537CAB7B7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E01B0E5B-E08E-45E1-95BA-0C504E296D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01B0E5B-E08E-45E1-95BA-0C504E296D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01B0E5B-E08E-45E1-95BA-0C504E296D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01B0E5B-E08E-45E1-95BA-0C504E296D37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2F802C-4B3B-4149-B568-293860764312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2F802C-4B3B-4149-B568-293860764312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2F802C-4B3B-4149-B568-293860764312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2F802C-4B3B-4149-B568-293860764312}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
