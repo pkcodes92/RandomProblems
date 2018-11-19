@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckSumInRange", "CheckSum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFirstDuplicates", "FindFirstDuplicates\FindFirstDuplicates.csproj", "{27E357B6-FDD6-4DD1-BB7C-11B61BC3FEDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRotation", "ImageRotation\ImageRotation.csproj", "{149B4DA4-3D0C-46F8-B0D6-E3FB9FE8F39D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +359,10 @@ Global
 		{27E357B6-FDD6-4DD1-BB7C-11B61BC3FEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27E357B6-FDD6-4DD1-BB7C-11B61BC3FEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27E357B6-FDD6-4DD1-BB7C-11B61BC3FEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149B4DA4-3D0C-46F8-B0D6-E3FB9FE8F39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149B4DA4-3D0C-46F8-B0D6-E3FB9FE8F39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149B4DA4-3D0C-46F8-B0D6-E3FB9FE8F39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149B4DA4-3D0C-46F8-B0D6-E3FB9FE8F39D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
