@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.exe.config
+D:\GitHub\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.exe
+D:\GitHub\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.pdb
+D:\GitHub\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.exe
+D:\GitHub\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.pdb
