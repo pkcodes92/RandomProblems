@@ -1,0 +1,7 @@
+D:\GitHub\RandomProblems\CountTheIslands\bin\Debug\CountTheIslands.exe.config
+D:\GitHub\RandomProblems\CountTheIslands\bin\Debug\CountTheIslands.exe
+D:\GitHub\RandomProblems\CountTheIslands\bin\Debug\CountTheIslands.pdb
+D:\GitHub\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.exe
+D:\GitHub\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.pdb
