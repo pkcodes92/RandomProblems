@@ -16,15 +16,37 @@
 namespace CountingSort
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     class Program
     {
         static void Main(string[] args)
         {
+            int[] array = new int[10] { 2, 5, -4, 11, 0, 8, 22, 67, 51, 6 };
+
+            Console.WriteLine("\n" + "Original Array : ");
+            foreach (int item in array)
+            {
+                Console.Write(item + " ");
+            }
+
+            int[] sortedArray = new int[array.Length];
+
+            // find the smallest and largest values
+            int minVal = array[0];
+            int maxVal = array[0];
+
+            for (int i = 1; i < array.Length; i++)
+            {
+                if (array[i] < minVal)
+                {
+                    minVal = array[i];
+                }
+                else if (array[i] > maxVal)
+                {
+                    maxVal = array[i];
+                }
+            }
         }
     }
 }
