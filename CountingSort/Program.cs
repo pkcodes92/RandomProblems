@@ -47,6 +47,38 @@ namespace CountingSort
                     maxVal = array[i];
                 }
             }
+
+            // Init the array of frequencies
+            int[] counts = new int[maxVal - minVal + 1];
+
+            // Properly initialize everything - related to frequencies
+            for (int i = 0; i < array.Length; i++)
+            {
+                counts[array[i] - minVal]++;
+            }
+
+            // Recalculate
+            counts[0]--;
+            for (int i = 1; i < counts.Length; i++)
+            {
+                counts[i] = counts[i] + counts[i - 1];
+            }
+
+            // Sort the array
+            for (int i = array.Length - 1; i >= 0; --i)
+            {
+                sortedArray[counts[array[i] - minVal]--] = array[i];
+            }
+
+            Console.WriteLine("\n" + "Sorted array :");
+            foreach (int sortedItem in sortedArray)
+            {
+                Console.Write(sortedItem + " ");
+            }
+
+            Console.Write(Environment.NewLine);
+
+            Console.ReadKey(); 
         }
     }
 }
