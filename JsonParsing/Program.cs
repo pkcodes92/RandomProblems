@@ -2,6 +2,8 @@ namespace JsonParsing
 {
     using System;
     using System.Collections.Generic;
+    using System.IO;
+    using Newtonsoft.Json;
 
     class RequiredResourceAccess
     {
@@ -20,6 +22,21 @@ namespace JsonParsing
     {
         static void Main(string[] args)
         {
+            // Reading the file into a string
+            var inputJsonText = File.ReadAllText(@"D:\\GitHub\\RandomProblems\\Test.json");
+
+            if (inputJsonText != null)
+            {
+                Console.WriteLine("Input JSON text detected"); 
+            }
+
+            using (StreamReader file = File.OpenText(@"D:\\GitHub\\RandomProblems\\Test.json"))
+            {
+                JsonSerializer serializer = new JsonSerializer();
+                RequiredResourceAccess requiredResourceAccess = (RequiredResourceAccess)serializer.Deserialize(file, typeof(RequiredResourceAccess));
+
+                Console.WriteLine(requiredResourceAccess);
+            }
         }
     }
 }

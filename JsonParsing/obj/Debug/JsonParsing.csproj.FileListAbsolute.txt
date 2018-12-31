@@ -1,0 +1,11 @@
+D:\GitHub\RandomProblems\JsonParsing\bin\Debug\JsonParsing.exe.config
+D:\GitHub\RandomProblems\JsonParsing\bin\Debug\JsonParsing.exe
+D:\GitHub\RandomProblems\JsonParsing\bin\Debug\JsonParsing.pdb
+D:\GitHub\RandomProblems\JsonParsing\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\RandomProblems\JsonParsing\bin\Debug\Newtonsoft.Json.pdb
+D:\GitHub\RandomProblems\JsonParsing\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\RandomProblems\JsonParsing\obj\Debug\JsonParsing.csprojAssemblyReference.cache
+D:\GitHub\RandomProblems\JsonParsing\obj\Debug\JsonParsing.csproj.CoreCompileInputs.cache
+D:\GitHub\RandomProblems\JsonParsing\obj\Debug\JsonParsing.csproj.CopyComplete
+D:\GitHub\RandomProblems\JsonParsing\obj\Debug\JsonParsing.exe
+D:\GitHub\RandomProblems\JsonParsing\obj\Debug\JsonParsing.pdb
