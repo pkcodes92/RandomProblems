@@ -135,7 +135,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParsing", "JsonParsing\JsonParsing.csproj", "{C64EA328-9CCD-4DE8-A33F-741FE2B48ADD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceCounting", "SpaceCounting\SpaceCounting.csproj", "{8B8953FD-790A-4E82-A488-5892E7F05872}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellSort", "ShellSort\ShellSort.csproj", "{B2130C30-5425-43EF-BAFF-F6B9E7DF2F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscriminantValue", "DiscriminantValue\DiscriminantValue.csproj", "{189678AA-987C-423F-A121-1D92B9DEB2BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -403,6 +406,10 @@ Global
 		{B2130C30-5425-43EF-BAFF-F6B9E7DF2F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2130C30-5425-43EF-BAFF-F6B9E7DF2F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2130C30-5425-43EF-BAFF-F6B9E7DF2F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189678AA-987C-423F-A121-1D92B9DEB2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189678AA-987C-423F-A121-1D92B9DEB2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189678AA-987C-423F-A121-1D92B9DEB2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189678AA-987C-423F-A121-1D92B9DEB2BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
