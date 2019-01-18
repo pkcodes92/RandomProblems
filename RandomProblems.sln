@@ -144,6 +144,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticSolver", "Quadrati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythagoreanSolver", "PythagoreanSolver\PythagoreanSolver.csproj", "{7FA4549C-371B-456B-95D7-DEE222D90EA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqInnerJoin", "LinqInnerJoin\LinqInnerJoin.csproj", "{C7517719-BAAF-4226-BA8F-355CBAEDC8C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -422,6 +424,10 @@ Global
 		{7FA4549C-371B-456B-95D7-DEE222D90EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FA4549C-371B-456B-95D7-DEE222D90EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FA4549C-371B-456B-95D7-DEE222D90EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7517719-BAAF-4226-BA8F-355CBAEDC8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7517719-BAAF-4226-BA8F-355CBAEDC8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7517719-BAAF-4226-BA8F-355CBAEDC8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7517719-BAAF-4226-BA8F-355CBAEDC8C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
