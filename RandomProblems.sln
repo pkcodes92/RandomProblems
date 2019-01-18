@@ -146,6 +146,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PythagoreanSolver", "Pythag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqInnerJoin", "LinqInnerJoin\LinqInnerJoin.csproj", "{C7517719-BAAF-4226-BA8F-355CBAEDC8C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestElementsProblem", "ClosestElementsProblem\ClosestElementsProblem.csproj", "{E8F41EE5-CBB4-4878-8199-D87FD431B842}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -428,6 +430,10 @@ Global
 		{C7517719-BAAF-4226-BA8F-355CBAEDC8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7517719-BAAF-4226-BA8F-355CBAEDC8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7517719-BAAF-4226-BA8F-355CBAEDC8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8F41EE5-CBB4-4878-8199-D87FD431B842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8F41EE5-CBB4-4878-8199-D87FD431B842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8F41EE5-CBB4-4878-8199-D87FD431B842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8F41EE5-CBB4-4878-8199-D87FD431B842}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
