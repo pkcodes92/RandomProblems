@@ -4,15 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E8F41EE5-CBB4-4878-8199-D87FD431B842}</ProjectGuid>
+    <ProjectGuid>{D19C8546-761E-496E-ACE3-7A24CE11769A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ClosestElementsProblem</RootNamespace>
-    <AssemblyName>ClosestElementsProblem</AssemblyName>
+    <RootNamespace>BogoSort</RootNamespace>
+    <AssemblyName>BogoSort</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
