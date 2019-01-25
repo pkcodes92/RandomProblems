@@ -154,6 +154,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadixSort", "RadixSort\Radi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationSort", "PermutationSort\PermutationSort.csproj", "{9E242D20-3A97-4957-983D-C4B3CC13D776}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{2C1CFD45-9B37-4AE1-BFED-9FF61D04ECF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -452,6 +454,10 @@ Global
 		{9E242D20-3A97-4957-983D-C4B3CC13D776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E242D20-3A97-4957-983D-C4B3CC13D776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E242D20-3A97-4957-983D-C4B3CC13D776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1CFD45-9B37-4AE1-BFED-9FF61D04ECF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1CFD45-9B37-4AE1-BFED-9FF61D04ECF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1CFD45-9B37-4AE1-BFED-9FF61D04ECF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1CFD45-9B37-4AE1-BFED-9FF61D04ECF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
