@@ -158,6 +158,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CorrelationCoefficient", "CorrelationCoefficient\CorrelationCoefficient.csproj", "{C0ADBB94-71EA-4DCE-81E2-EFE1DC0BEB9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{0B96E637-D491-463C-831D-FACE2A05DBB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -464,6 +466,10 @@ Global
 		{C0ADBB94-71EA-4DCE-81E2-EFE1DC0BEB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0ADBB94-71EA-4DCE-81E2-EFE1DC0BEB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0ADBB94-71EA-4DCE-81E2-EFE1DC0BEB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B96E637-D491-463C-831D-FACE2A05DBB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B96E637-D491-463C-831D-FACE2A05DBB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B96E637-D491-463C-831D-FACE2A05DBB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B96E637-D491-463C-831D-FACE2A05DBB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
