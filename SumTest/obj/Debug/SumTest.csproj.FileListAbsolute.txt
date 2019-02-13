@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\SumTest\bin\Debug\SumTest.exe
 D:\GitHub\RandomProblems\SumTest\bin\Debug\SumTest.pdb
 D:\GitHub\RandomProblems\SumTest\obj\Debug\SumTest.exe
 D:\GitHub\RandomProblems\SumTest\obj\Debug\SumTest.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\bin\Debug\SumTest.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\bin\Debug\SumTest.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\bin\Debug\SumTest.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.pdb

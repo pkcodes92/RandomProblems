@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.csprojAss
 D:\GitHub\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.exe
 D:\GitHub\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AllLongestStrings\bin\Debug\AllLongestStrings.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AllLongestStrings\bin\Debug\AllLongestStrings.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AllLongestStrings\bin\Debug\AllLongestStrings.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.pdb

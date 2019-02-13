@@ -12,3 +12,10 @@ D:\GitHub\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMult
 D:\GitHub\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.exe
 D:\GitHub\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.pdb
 D:\GitHub\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\bin\Debug\ArrayElementsMultiplication.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\bin\Debug\ArrayElementsMultiplication.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\bin\Debug\ArrayElementsMultiplication.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.pdb

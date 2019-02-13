@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutatio
 D:\GitHub\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutations.pdb
 D:\GitHub\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.exe
 D:\GitHub\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutations.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutations.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutations.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.pdb

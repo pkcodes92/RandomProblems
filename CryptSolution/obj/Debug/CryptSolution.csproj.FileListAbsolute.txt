@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\CryptSolution\obj\Debug\CryptSolution.csprojAssemblyRef
 D:\GitHub\RandomProblems\CryptSolution\obj\Debug\CryptSolution.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\CryptSolution\obj\Debug\CryptSolution.exe
 D:\GitHub\RandomProblems\CryptSolution\obj\Debug\CryptSolution.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\bin\Debug\CryptSolution.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\bin\Debug\CryptSolution.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\bin\Debug\CryptSolution.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.pdb

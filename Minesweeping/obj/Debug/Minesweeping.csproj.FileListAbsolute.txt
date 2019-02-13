@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\Minesweeping\obj\Debug\Minesweeping.csprojAssemblyRefer
 D:\GitHub\RandomProblems\Minesweeping\obj\Debug\Minesweeping.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\Minesweeping\obj\Debug\Minesweeping.exe
 D:\GitHub\RandomProblems\Minesweeping\obj\Debug\Minesweeping.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\Minesweeping\bin\Debug\Minesweeping.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\Minesweeping\bin\Debug\Minesweeping.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\Minesweeping\bin\Debug\Minesweeping.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\Minesweeping\obj\Debug\Minesweeping.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\Minesweeping\obj\Debug\Minesweeping.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\Minesweeping\obj\Debug\Minesweeping.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\Minesweeping\obj\Debug\Minesweeping.pdb

@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\bin\Debug\ClosestElementsProblem.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\bin\Debug\ClosestElementsProblem.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\bin\Debug\ClosestElementsProblem.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\obj\Debug\ClosestElementsProblem.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\obj\Debug\ClosestElementsProblem.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\obj\Debug\ClosestElementsProblem.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\obj\Debug\ClosestElementsProblem.pdb

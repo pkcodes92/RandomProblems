@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.cspro
 D:\GitHub\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.exe
 D:\GitHub\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.pdb

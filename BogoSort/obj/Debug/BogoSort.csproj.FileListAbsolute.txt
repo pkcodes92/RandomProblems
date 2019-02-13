@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\bin\Debug\BogoSort.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\bin\Debug\BogoSort.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\bin\Debug\BogoSort.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.pdb

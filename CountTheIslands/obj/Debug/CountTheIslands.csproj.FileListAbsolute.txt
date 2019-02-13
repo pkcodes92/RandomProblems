@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.csprojAssembl
 D:\GitHub\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.exe
 D:\GitHub\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CountTheIslands\bin\Debug\CountTheIslands.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CountTheIslands\bin\Debug\CountTheIslands.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CountTheIslands\bin\Debug\CountTheIslands.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CountTheIslands\obj\Debug\CountTheIslands.pdb

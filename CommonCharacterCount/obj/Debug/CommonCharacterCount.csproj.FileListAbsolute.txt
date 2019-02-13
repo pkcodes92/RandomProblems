@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.csp
 D:\GitHub\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.exe
 D:\GitHub\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CommonCharacterCount\bin\Debug\CommonCharacterCount.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CommonCharacterCount\bin\Debug\CommonCharacterCount.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CommonCharacterCount\bin\Debug\CommonCharacterCount.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.pdb

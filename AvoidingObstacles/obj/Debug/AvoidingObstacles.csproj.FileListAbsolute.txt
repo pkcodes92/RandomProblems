@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.csprojAss
 D:\GitHub\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.exe
 D:\GitHub\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AvoidingObstacles\bin\Debug\AvoidingObstacles.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AvoidingObstacles\bin\Debug\AvoidingObstacles.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AvoidingObstacles\bin\Debug\AvoidingObstacles.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.pdb

@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.csprojAssembl
 D:\GitHub\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.exe
 D:\GitHub\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ElectionWinners\bin\Debug\ElectionWinners.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ElectionWinners\bin\Debug\ElectionWinners.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ElectionWinners\bin\Debug\ElectionWinners.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.pdb

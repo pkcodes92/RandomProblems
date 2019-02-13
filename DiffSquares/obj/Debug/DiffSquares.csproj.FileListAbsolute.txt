@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\DiffSquares\obj\Debug\DiffSquares.csprojAssemblyReferen
 D:\GitHub\RandomProblems\DiffSquares\obj\Debug\DiffSquares.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\DiffSquares\obj\Debug\DiffSquares.exe
 D:\GitHub\RandomProblems\DiffSquares\obj\Debug\DiffSquares.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiffSquares\bin\Debug\DiffSquares.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiffSquares\bin\Debug\DiffSquares.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiffSquares\bin\Debug\DiffSquares.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.pdb

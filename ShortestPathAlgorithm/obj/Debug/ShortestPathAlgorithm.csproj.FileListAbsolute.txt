@@ -4,3 +4,9 @@ D:\GitHub\RandomProblems\ShortestPathAlgorithm\bin\Debug\ShortestPathAlgorithm.p
 D:\GitHub\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.exe
 D:\GitHub\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\bin\Debug\ShortestPathAlgorithm.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\bin\Debug\ShortestPathAlgorithm.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\bin\Debug\ShortestPathAlgorithm.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.pdb

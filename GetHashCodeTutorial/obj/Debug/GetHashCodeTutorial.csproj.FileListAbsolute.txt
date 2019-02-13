@@ -4,3 +4,9 @@ D:\GitHub\RandomProblems\GetHashCodeTutorial\bin\Debug\GetHashCodeTutorial.pdb
 D:\GitHub\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.exe
 D:\GitHub\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\bin\Debug\GetHashCodeTutorial.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\bin\Debug\GetHashCodeTutorial.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\bin\Debug\GetHashCodeTutorial.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.pdb

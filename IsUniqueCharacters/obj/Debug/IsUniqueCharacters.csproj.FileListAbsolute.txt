@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.csprojA
 D:\GitHub\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.exe
 D:\GitHub\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\bin\Debug\IsUniqueCharacters.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\bin\Debug\IsUniqueCharacters.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\bin\Debug\IsUniqueCharacters.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.pdb

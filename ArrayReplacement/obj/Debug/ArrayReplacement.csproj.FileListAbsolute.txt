@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.csprojAssem
 D:\GitHub\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.exe
 D:\GitHub\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayReplacement\bin\Debug\ArrayReplacement.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayReplacement\bin\Debug\ArrayReplacement.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayReplacement\bin\Debug\ArrayReplacement.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.pdb

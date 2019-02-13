@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.cspro
 D:\GitHub\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.exe
 D:\GitHub\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinearSearchProblem\bin\Debug\LinearSearchProblem.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinearSearchProblem\bin\Debug\LinearSearchProblem.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinearSearchProblem\bin\Debug\LinearSearchProblem.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.pdb

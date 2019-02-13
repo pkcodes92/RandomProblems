@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\VariousOperations\bin\Debug\VariousOperations.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\VariousOperations\bin\Debug\VariousOperations.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\VariousOperations\bin\Debug\VariousOperations.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\VariousOperations\obj\Debug\VariousOperations.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\VariousOperations\obj\Debug\VariousOperations.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\VariousOperations\obj\Debug\VariousOperations.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\VariousOperations\obj\Debug\VariousOperations.pdb

@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.csproj.CoreCompil
 D:\GitHub\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.exe
 D:\GitHub\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.pdb
 D:\GitHub\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\bin\Debug\PointsOnALine.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\bin\Debug\PointsOnALine.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\bin\Debug\PointsOnALine.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.pdb

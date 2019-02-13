@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.csprojAssemblyRefer
 D:\GitHub\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.exe
 D:\GitHub\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuckyNumbers\bin\Debug\LuckyNumbers.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuckyNumbers\bin\Debug\LuckyNumbers.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuckyNumbers\bin\Debug\LuckyNumbers.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.pdb

@@ -12,3 +12,10 @@ D:\GitHub\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csproj.CoreComp
 D:\GitHub\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.exe
 D:\GitHub\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.pdb
 D:\GitHub\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.pdb

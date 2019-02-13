@@ -4,3 +4,9 @@ D:\GitHub\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.pdb
 D:\GitHub\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.exe
 D:\GitHub\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.pdb

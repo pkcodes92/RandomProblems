@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.cspro
 D:\GitHub\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.exe
 D:\GitHub\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\bin\Debug\FindTheHiddenNumber.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\bin\Debug\FindTheHiddenNumber.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\bin\Debug\FindTheHiddenNumber.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.pdb

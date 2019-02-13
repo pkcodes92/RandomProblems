@@ -9,3 +9,14 @@ D:\GitHub\RandomProblems\JsonParsing\obj\Debug\JsonParsing.csproj.CoreCompileInp
 D:\GitHub\RandomProblems\JsonParsing\obj\Debug\JsonParsing.csproj.CopyComplete
 D:\GitHub\RandomProblems\JsonParsing\obj\Debug\JsonParsing.exe
 D:\GitHub\RandomProblems\JsonParsing\obj\Debug\JsonParsing.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\bin\Debug\JsonParsing.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\bin\Debug\JsonParsing.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\bin\Debug\JsonParsing.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\obj\Debug\JsonParsing.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\obj\Debug\JsonParsing.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\obj\Debug\JsonParsing.csproj.CopyComplete
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\obj\Debug\JsonParsing.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\JsonParsing\obj\Debug\JsonParsing.pdb

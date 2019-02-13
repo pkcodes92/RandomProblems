@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csprojAss
 D:\GitHub\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.exe
 D:\GitHub\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.pdb

@@ -4,3 +4,9 @@ D:\GitHub\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.pdb
 D:\GitHub\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.exe
 D:\GitHub\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.pdb

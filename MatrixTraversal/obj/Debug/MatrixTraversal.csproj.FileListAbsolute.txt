@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.csprojAssembl
 D:\GitHub\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.exe
 D:\GitHub\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MatrixTraversal\bin\Debug\MatrixTraversal.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MatrixTraversal\bin\Debug\MatrixTraversal.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MatrixTraversal\bin\Debug\MatrixTraversal.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.pdb

@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.csprojAssemblyRefer
 D:\GitHub\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.exe
 D:\GitHub\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\bin\Debug\DigitRemoval.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\bin\Debug\DigitRemoval.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\bin\Debug\DigitRemoval.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.pdb

@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.csprojAssem
 D:\GitHub\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.exe
 D:\GitHub\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\bin\Debug\CheckSumOfThirty.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\bin\Debug\CheckSumOfThirty.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\bin\Debug\CheckSumOfThirty.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.pdb

@@ -4,3 +4,9 @@ D:\GitHub\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.pdb
 D:\GitHub\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.exe
 D:\GitHub\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.pdb

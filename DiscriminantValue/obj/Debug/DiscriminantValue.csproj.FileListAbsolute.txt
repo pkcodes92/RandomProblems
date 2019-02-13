@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscriminantValue\bin\Debug\DiscriminantValue.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscriminantValue\bin\Debug\DiscriminantValue.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscriminantValue\bin\Debug\DiscriminantValue.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug\DiscriminantValue.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug\DiscriminantValue.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug\DiscriminantValue.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug\DiscriminantValue.pdb

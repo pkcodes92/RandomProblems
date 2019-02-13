@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.c
 D:\GitHub\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.exe
 D:\GitHub\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LargestNumberPossible\bin\Debug\LargestNumberPossible.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LargestNumberPossible\bin\Debug\LargestNumberPossible.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LargestNumberPossible\bin\Debug\LargestNumberPossible.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.pdb

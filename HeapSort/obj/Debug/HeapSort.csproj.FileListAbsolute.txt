@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\HeapSort\bin\Debug\HeapSort.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\HeapSort\bin\Debug\HeapSort.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\HeapSort\bin\Debug\HeapSort.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\HeapSort\obj\Debug\HeapSort.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\HeapSort\obj\Debug\HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\HeapSort\obj\Debug\HeapSort.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\HeapSort\obj\Debug\HeapSort.pdb

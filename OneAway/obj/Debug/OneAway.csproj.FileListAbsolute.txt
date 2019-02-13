@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\OneAway\obj\Debug\OneAway.csprojAssemblyReference.cache
 D:\GitHub\RandomProblems\OneAway\obj\Debug\OneAway.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\OneAway\obj\Debug\OneAway.exe
 D:\GitHub\RandomProblems\OneAway\obj\Debug\OneAway.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\OneAway\bin\Debug\OneAway.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\OneAway\bin\Debug\OneAway.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\OneAway\bin\Debug\OneAway.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\OneAway\obj\Debug\OneAway.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\OneAway\obj\Debug\OneAway.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\OneAway\obj\Debug\OneAway.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\OneAway\obj\Debug\OneAway.pdb

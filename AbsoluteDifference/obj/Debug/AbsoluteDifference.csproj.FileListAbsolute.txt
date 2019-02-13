@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AbsoluteDifference\bin\Debug\AbsoluteDifference.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AbsoluteDifference\bin\Debug\AbsoluteDifference.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AbsoluteDifference\bin\Debug\AbsoluteDifference.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AbsoluteDifference\obj\Debug\AbsoluteDifference.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AbsoluteDifference\obj\Debug\AbsoluteDifference.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AbsoluteDifference\obj\Debug\AbsoluteDifference.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AbsoluteDifference\obj\Debug\AbsoluteDifference.pdb

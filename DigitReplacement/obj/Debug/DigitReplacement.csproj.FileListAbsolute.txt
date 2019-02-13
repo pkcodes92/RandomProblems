@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.csprojAssem
 D:\GitHub\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.exe
 D:\GitHub\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitReplacement\bin\Debug\DigitReplacement.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitReplacement\bin\Debug\DigitReplacement.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitReplacement\bin\Debug\DigitReplacement.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.pdb

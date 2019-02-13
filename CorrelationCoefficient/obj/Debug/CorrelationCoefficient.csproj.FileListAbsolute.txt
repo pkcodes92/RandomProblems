@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\bin\Debug\CorrelationCoefficient.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\bin\Debug\CorrelationCoefficient.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\bin\Debug\CorrelationCoefficient.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.pdb

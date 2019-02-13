@@ -5,3 +5,7 @@ D:\GitHub\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.csproj.Core
 D:\GitHub\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.exe
 D:\GitHub\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.pdb
 D:\GitHub\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiscardsTutorial\obj\Debug\DiscardsTutorial.pdb

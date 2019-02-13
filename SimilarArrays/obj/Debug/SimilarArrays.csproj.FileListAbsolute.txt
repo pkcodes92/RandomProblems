@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.csprojAssemblyRef
 D:\GitHub\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.csproj.CoreCompileInputs.cache
 D:\GitHub\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.exe
 D:\GitHub\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\bin\Debug\SimilarArrays.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\bin\Debug\SimilarArrays.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\bin\Debug\SimilarArrays.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.pdb

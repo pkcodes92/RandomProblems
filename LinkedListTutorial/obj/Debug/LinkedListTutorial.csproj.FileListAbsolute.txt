@@ -5,3 +5,10 @@ D:\GitHub\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csproj.
 D:\GitHub\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.exe
 D:\GitHub\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.pdb
 D:\GitHub\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.pdb
