@@ -162,6 +162,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\Quic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInputs", "MultipleInputs\MultipleInputs.csproj", "{5545A7C2-DB85-41C5-98C7-CE74CDAA8314}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructBasicsProblem1", "StructBasicsProblem1\StructBasicsProblem1.csproj", "{B0A9F213-80F4-430D-B5E6-9EBBFFBC37F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructBasicsComplexSample", "StructBasicsComplexSample\StructBasicsComplexSample.csproj", "{CF959920-CB1E-43F3-A48D-77C9EB7191A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -476,6 +480,14 @@ Global
 		{5545A7C2-DB85-41C5-98C7-CE74CDAA8314}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5545A7C2-DB85-41C5-98C7-CE74CDAA8314}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5545A7C2-DB85-41C5-98C7-CE74CDAA8314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A9F213-80F4-430D-B5E6-9EBBFFBC37F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A9F213-80F4-430D-B5E6-9EBBFFBC37F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A9F213-80F4-430D-B5E6-9EBBFFBC37F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A9F213-80F4-430D-B5E6-9EBBFFBC37F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF959920-CB1E-43F3-A48D-77C9EB7191A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF959920-CB1E-43F3-A48D-77C9EB7191A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF959920-CB1E-43F3-A48D-77C9EB7191A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF959920-CB1E-43F3-A48D-77C9EB7191A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
