@@ -6,6 +6,9 @@
     {
         double a, b, c;
 
+        /// <summary>
+        /// This method will be having the inputs being recorded from the console!
+        /// </summary>
         public void Read()
         {
             Console.WriteLine("\n To find the roots of the To find the roots of a quadratic equation of the form a*x^2 + b*x + c = 0");
@@ -19,6 +22,10 @@
             c = double.Parse(Console.ReadLine());
         }
 
+        /// <summary>
+        /// Method that will now compute the various information that will be required for considering this as a solution
+        /// for the problem
+        /// </summary>
         public void Compute()
         {
             int m;
