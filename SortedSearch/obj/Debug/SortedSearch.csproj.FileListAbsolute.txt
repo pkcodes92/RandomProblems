@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SortedSearch\bin\Debug\SortedSearch.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SortedSearch\bin\Debug\SortedSearch.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SortedSearch\bin\Debug\SortedSearch.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SortedSearch\obj\Debug\SortedSearch.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SortedSearch\obj\Debug\SortedSearch.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SortedSearch\obj\Debug\SortedSearch.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SortedSearch\obj\Debug\SortedSearch.pdb

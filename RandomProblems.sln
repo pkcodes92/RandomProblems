@@ -17,8 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListTutorial", "Linke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSum", "MiniMaxSum\MiniMaxSum.csproj", "{8B33590B-90B4-4F77-A7D6-E2B0838D95F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscardsTutorial", "DiscardsTutorial\DiscardsTutorial.csproj", "{37A10E4B-CD14-43D5-AF1A-D0EE118A69F4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLeftRotation", "ArrayLeftRotation\ArrayLeftRotation.csproj", "{009A81B6-AA81-414B-86E4-7545AE48DA09}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortestPathAlgorithm", "ShortestPathAlgorithm\ShortestPathAlgorithm.csproj", "{9792D0A8-48E5-4BD8-9E91-B77E242BFBD2}"
@@ -168,6 +166,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructBasicsComplexSample",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedSearch", "SortedSearch\SortedSearch.csproj", "{F52F9BAE-C457-4F30-BCB6-86BEBB601E48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceRectangle", "InheritanceRectangle\InheritanceRectangle.csproj", "{8EDA8420-52B0-4736-BCA9-AC33FE7061A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -202,10 +202,6 @@ Global
 		{8B33590B-90B4-4F77-A7D6-E2B0838D95F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B33590B-90B4-4F77-A7D6-E2B0838D95F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B33590B-90B4-4F77-A7D6-E2B0838D95F3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{37A10E4B-CD14-43D5-AF1A-D0EE118A69F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37A10E4B-CD14-43D5-AF1A-D0EE118A69F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37A10E4B-CD14-43D5-AF1A-D0EE118A69F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37A10E4B-CD14-43D5-AF1A-D0EE118A69F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{009A81B6-AA81-414B-86E4-7545AE48DA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{009A81B6-AA81-414B-86E4-7545AE48DA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{009A81B6-AA81-414B-86E4-7545AE48DA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -494,6 +490,10 @@ Global
 		{F52F9BAE-C457-4F30-BCB6-86BEBB601E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F52F9BAE-C457-4F30-BCB6-86BEBB601E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F52F9BAE-C457-4F30-BCB6-86BEBB601E48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDA8420-52B0-4736-BCA9-AC33FE7061A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDA8420-52B0-4736-BCA9-AC33FE7061A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDA8420-52B0-4736-BCA9-AC33FE7061A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDA8420-52B0-4736-BCA9-AC33FE7061A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

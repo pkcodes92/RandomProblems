@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StructBasicsComplexSample\bin\Debug\StructBasicsComplexSample.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StructBasicsComplexSample\bin\Debug\StructBasicsComplexSample.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StructBasicsComplexSample\bin\Debug\StructBasicsComplexSample.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StructBasicsComplexSample\obj\Debug\StructBasicsComplexSample.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StructBasicsComplexSample\obj\Debug\StructBasicsComplexSample.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StructBasicsComplexSample\obj\Debug\StructBasicsComplexSample.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StructBasicsComplexSample\obj\Debug\StructBasicsComplexSample.pdb
