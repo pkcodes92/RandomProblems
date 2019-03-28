@@ -12,15 +12,52 @@
 namespace SpaceAge
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     class Program
     {
         static void Main(string[] args)
         {
+            int ageInSeconds = 1000000000;
+
+            // Initiating a new class for the space age calculations
+            var spaceCalc = new SpaceCalculations(ageInSeconds);
+
+            Console.WriteLine("Select a planet!");
+            string planetName = Console.ReadLine();
+            switch (planetName)
+            {
+                case "Earth":
+                    Console.WriteLine($"Your age on {planetName} = {spaceCalc.OnEarth()}");
+                    break;
+                case "Mercury":
+                    Console.WriteLine($"Your age on {planetName} = {spaceCalc.OnMercury()}");
+                    break;
+                case "Venus":
+                    Console.WriteLine($"Your age on {planetName} = {spaceCalc.OnVenus()}");
+                    break;
+                case "Mars":
+                    Console.WriteLine($"Your age on {planetName} = {spaceCalc.OnMars()}");
+                    break;
+                case "Jupiter":
+                    Console.WriteLine($"Your age on {planetName} = {spaceCalc.OnJupiter()}");
+                    break;
+                case "Neptune":
+                    Console.WriteLine($"Your age on {planetName} = {spaceCalc.OnNeptune()}");
+                    break;
+                case "Uranus":
+                    Console.WriteLine($"Your age on {planetName} = {spaceCalc.OnUranus()}");
+                    break;
+                case "Saturn":
+                    Console.WriteLine($"Your age on {planetName} = {spaceCalc.OnSaturn()}");
+                    break;
+                default:
+                    Console.WriteLine("No planet was chosen...blasting out of this solar system...goood bye!");
+                    Console.ReadKey(); 
+                    break;
+            }
+
+            // Making sure that the application can terminate gracefully
+            Console.ReadKey(); 
         }
     }
 }

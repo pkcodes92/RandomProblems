@@ -51,9 +51,53 @@
             Seconds = seconds;
         }
 
+        private double ApplyPeriod(double period)
+        {
+            return OnEarth() / period;
+        }
+
         public double OnEarth()
         {
             return Seconds / Constants.SECONDS_IN_EARTH_YEAR; 
+        }
+
+        /// <summary>
+        /// Calculates the age on Mercury
+        /// </summary>
+        /// <returns>A double value that will return the correct value</returns>
+        public double OnMercury()
+        {
+            return ApplyPeriod(Constants.MERCURY_PERIOD); 
+        }
+
+        public double OnVenus()
+        {
+            return ApplyPeriod(Constants.VENUS_PERIOD); 
+        }
+
+        public double OnMars()
+        {
+            return ApplyPeriod(Constants.MARS_PERIOD); 
+        }
+
+        public double OnJupiter()
+        {
+            return ApplyPeriod(Constants.JUPITER_PERIOD); 
+        }
+
+        public double OnSaturn()
+        {
+            return ApplyPeriod(Constants.SATURN_PERIOD);
+        }
+
+        public double OnUranus()
+        {
+            return ApplyPeriod(Constants.URANUS_PERIOD);
+        }
+
+        public double OnNeptune()
+        {
+            return ApplyPeriod(Constants.NEPTUNE_PERIOD);
         }
     }
 }
