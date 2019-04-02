@@ -170,6 +170,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceRectangle", "Inh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceAge", "SpaceAge\SpaceAge.csproj", "{8070EDE0-5843-4B84-9B70-0538085EEBE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetupFinder", "MeetupFinder\MeetupFinder.csproj", "{5A6A6BA8-0C47-4E4D-BAC9-36A0D5CE3C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuhnValidator", "LuhnValidator\LuhnValidator.csproj", "{8E39E873-975C-44F6-AE59-20B3BC774456}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -500,6 +504,14 @@ Global
 		{8070EDE0-5843-4B84-9B70-0538085EEBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8070EDE0-5843-4B84-9B70-0538085EEBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8070EDE0-5843-4B84-9B70-0538085EEBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6A6BA8-0C47-4E4D-BAC9-36A0D5CE3C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6A6BA8-0C47-4E4D-BAC9-36A0D5CE3C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6A6BA8-0C47-4E4D-BAC9-36A0D5CE3C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6A6BA8-0C47-4E4D-BAC9-36A0D5CE3C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E39E873-975C-44F6-AE59-20B3BC774456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E39E873-975C-44F6-AE59-20B3BC774456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E39E873-975C-44F6-AE59-20B3BC774456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E39E873-975C-44F6-AE59-20B3BC774456}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
