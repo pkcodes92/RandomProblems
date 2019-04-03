@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\bin\Debug\SpaceAge.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\bin\Debug\SpaceAge.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\bin\Debug\SpaceAge.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.pdb

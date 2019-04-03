@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\bin\Debug\WordProblemParser.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\bin\Debug\WordProblemParser.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\bin\Debug\WordProblemParser.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.pdb

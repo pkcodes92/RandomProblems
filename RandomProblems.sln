@@ -176,6 +176,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuhnValidator", "LuhnValida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatinTranslator", "PigLatinTranslator\PigLatinTranslator.csproj", "{083504C3-4420-46B8-B53C-B8129BB55F1D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcronymMaker", "AcronymMaker\AcronymMaker.csproj", "{89C47015-D09B-4219-831C-AF96D6EB2C22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProblemParser", "WordProblemParser\WordProblemParser.csproj", "{59F603EE-7122-4FAA-ACA6-732C061ABCDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -518,6 +522,14 @@ Global
 		{083504C3-4420-46B8-B53C-B8129BB55F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{083504C3-4420-46B8-B53C-B8129BB55F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{083504C3-4420-46B8-B53C-B8129BB55F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C47015-D09B-4219-831C-AF96D6EB2C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C47015-D09B-4219-831C-AF96D6EB2C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C47015-D09B-4219-831C-AF96D6EB2C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C47015-D09B-4219-831C-AF96D6EB2C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F603EE-7122-4FAA-ACA6-732C061ABCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F603EE-7122-4FAA-ACA6-732C061ABCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F603EE-7122-4FAA-ACA6-732C061ABCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F603EE-7122-4FAA-ACA6-732C061ABCDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

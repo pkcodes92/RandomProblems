@@ -1,0 +1,7 @@
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MeetupFinder\bin\Debug\MeetupFinder.exe.config
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MeetupFinder\bin\Debug\MeetupFinder.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MeetupFinder\bin\Debug\MeetupFinder.pdb
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MeetupFinder\obj\Debug\MeetupFinder.csprojAssemblyReference.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MeetupFinder\obj\Debug\MeetupFinder.csproj.CoreCompileInputs.cache
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MeetupFinder\obj\Debug\MeetupFinder.exe
+C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MeetupFinder\obj\Debug\MeetupFinder.pdb
