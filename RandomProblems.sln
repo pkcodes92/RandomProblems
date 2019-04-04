@@ -182,6 +182,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProblemParser", "WordPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddArraySum", "OddArraySum\OddArraySum.csproj", "{595AD37E-3232-40DA-92E8-D9F7A1C5933B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoiApp", "TowersOfHanoi\TowersOfHanoiApp.csproj", "{905ED57D-1719-49D5-9461-EE5DE8B650F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -536,6 +538,10 @@ Global
 		{595AD37E-3232-40DA-92E8-D9F7A1C5933B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{595AD37E-3232-40DA-92E8-D9F7A1C5933B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{595AD37E-3232-40DA-92E8-D9F7A1C5933B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905ED57D-1719-49D5-9461-EE5DE8B650F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905ED57D-1719-49D5-9461-EE5DE8B650F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905ED57D-1719-49D5-9461-EE5DE8B650F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905ED57D-1719-49D5-9461-EE5DE8B650F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
