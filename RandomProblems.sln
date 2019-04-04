@@ -180,6 +180,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcronymMaker", "AcronymMake
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordProblemParser", "WordProblemParser\WordProblemParser.csproj", "{59F603EE-7122-4FAA-ACA6-732C061ABCDE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddArraySum", "OddArraySum\OddArraySum.csproj", "{595AD37E-3232-40DA-92E8-D9F7A1C5933B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -530,6 +532,10 @@ Global
 		{59F603EE-7122-4FAA-ACA6-732C061ABCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59F603EE-7122-4FAA-ACA6-732C061ABCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59F603EE-7122-4FAA-ACA6-732C061ABCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595AD37E-3232-40DA-92E8-D9F7A1C5933B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595AD37E-3232-40DA-92E8-D9F7A1C5933B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595AD37E-3232-40DA-92E8-D9F7A1C5933B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595AD37E-3232-40DA-92E8-D9F7A1C5933B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
