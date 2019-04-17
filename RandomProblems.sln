@@ -188,6 +188,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOperations", "StackOpe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumpableDemo", "DumpableDemo\DumpableDemo.csproj", "{D484C9D1-177B-46D9-A3C0-E0E24F4CE813}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclideanGCD", "EuclideanGCD\EuclideanGCD.csproj", "{A45AB00A-0B45-4D81-8FD7-D931581862ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -554,6 +556,10 @@ Global
 		{D484C9D1-177B-46D9-A3C0-E0E24F4CE813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D484C9D1-177B-46D9-A3C0-E0E24F4CE813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D484C9D1-177B-46D9-A3C0-E0E24F4CE813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A45AB00A-0B45-4D81-8FD7-D931581862ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45AB00A-0B45-4D81-8FD7-D931581862ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45AB00A-0B45-4D81-8FD7-D931581862ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45AB00A-0B45-4D81-8FD7-D931581862ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
