@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace CharIsDigit
+﻿namespace CharIsDigit
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

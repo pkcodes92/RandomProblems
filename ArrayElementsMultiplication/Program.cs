@@ -1,16 +1,16 @@
-﻿/*
- * Author   : Pranav S. Krishnamurthy
- * 
- * Date     : 31st March 2018
- * 
- * Purpose  : To create a C# console application that will multiply elements
- *            of two arrays and print them out
- */
-
-using System;
-
-namespace ArrayElementsMultiplication
+﻿namespace ArrayElementsMultiplication
 {
+    /*
+     * Author   : Pranav S. Krishnamurthy
+     * 
+     * Date     : 31st March 2018
+     * 
+     * Purpose  : To create a C# console application that will multiply elements
+     *            of two arrays and print them out
+     */
+
+    using System;
+
     class Program
     {
         static void Main(string[] args)
@@ -30,7 +30,7 @@ namespace ArrayElementsMultiplication
 
             Console.WriteLine(Environment.NewLine);
 
-            Console.ReadKey(); 
+            Console.ReadKey();
         }
     }
 }

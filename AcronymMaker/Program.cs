@@ -14,6 +14,11 @@
             Console.ReadKey(); 
         }
 
+        /// <summary>
+        /// Method that will abbreviate the input and create an acronym
+        /// </summary>
+        /// <param name="input">The string to be converted into an acronym</param>
+        /// <returns>The compressed string - basically the acronym</returns>
         public static string Abbreviate(string input)
         {
             var parts = input.Split(new char[] { ' ', '-', '_' });

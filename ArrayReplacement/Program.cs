@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace ArrayReplacement
+﻿namespace ArrayReplacement
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

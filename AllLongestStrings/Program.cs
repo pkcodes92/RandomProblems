@@ -30,6 +30,11 @@ namespace AllLongestStrings
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Gets the longest strings inside of the input string
+        /// </summary>
+        /// <param name="inputArray">The string that the user enters</param>
+        /// <returns>An array (or even a list) of all the longest elements inside of the user input string</returns>
         static string[] AllLongestStrings(string[] inputArray)
         {
             int max = 0;
@@ -58,6 +63,11 @@ namespace AllLongestStrings
             return strL; 
         }
 
+        /// <summary>
+        /// The same purpose as <see cref="AllLongestStrings(string[])"/>
+        /// </summary>
+        /// <param name="inputArray">Returns the longest string inside of the user input string</param>
+        /// <returns>A string array</returns>
         static string[] AllLongStrings(string[] inputArray)
         {
             int max = 0;

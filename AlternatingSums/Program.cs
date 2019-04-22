@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace AlternatingSums
+﻿namespace AlternatingSums
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

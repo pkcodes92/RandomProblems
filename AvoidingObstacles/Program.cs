@@ -1,8 +1,8 @@
-﻿using System;
-using System.Linq;
-
-namespace AvoidingObstacles
+﻿namespace AvoidingObstacles
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
         static void Main(string[] args)

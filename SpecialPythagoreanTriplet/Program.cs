@@ -12,6 +12,10 @@
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Going through the brute force approach - seeing how there would be some
+        /// time taken for this solution to the problem
+        /// </summary>
         static void BruteForce()
         {
             DateTime startTime = DateTime.Now;
@@ -46,6 +50,10 @@
             Console.WriteLine($"Solution took {duration.Milliseconds} ms");
         }
 
+        /// <summary>
+        /// Approach using number theory and having the ability to see how
+        /// the solution can also be devised through a recursive approach
+        /// </summary>
         static void NumberTheory()
         {
             DateTime startTime = DateTime.Now;

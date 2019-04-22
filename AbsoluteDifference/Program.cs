@@ -1,7 +1,7 @@
-using System;
-
 namespace AbsoluteDifference
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

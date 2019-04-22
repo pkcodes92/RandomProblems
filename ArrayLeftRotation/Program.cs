@@ -14,10 +14,10 @@
  *  Project : ArrayLeftRotation
  */
 
-using System;
-
 namespace ArrayLeftRotation
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
