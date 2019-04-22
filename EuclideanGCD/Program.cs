@@ -1,13 +1,13 @@
 ﻿namespace EuclideanGCD
 {
     using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     class Program
     {
+        /// <summary>
+        /// This is the main point of execution for the program
+        /// </summary>
+        /// <param name="args">Any arguments that are required</param>
         static void Main(string[] args)
         {
             Console.Write("Provide a value for the first integer:");

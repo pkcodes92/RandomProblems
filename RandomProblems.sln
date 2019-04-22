@@ -190,6 +190,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumpableDemo", "DumpableDem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclideanGCD", "EuclideanGCD\EuclideanGCD.csproj", "{A45AB00A-0B45-4D81-8FD7-D931581862ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfSubarrays", "SumOfSubarrays\SumOfSubarrays.csproj", "{6980108D-D1AB-4FAB-9966-5E5AF19B2ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialPythagoreanTriplet", "SpecialPythagoreanTriplet\SpecialPythagoreanTriplet.csproj", "{4605C0F3-DFDB-4C69-90BB-06495714B399}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -560,6 +564,14 @@ Global
 		{A45AB00A-0B45-4D81-8FD7-D931581862ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A45AB00A-0B45-4D81-8FD7-D931581862ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A45AB00A-0B45-4D81-8FD7-D931581862ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6980108D-D1AB-4FAB-9966-5E5AF19B2ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6980108D-D1AB-4FAB-9966-5E5AF19B2ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6980108D-D1AB-4FAB-9966-5E5AF19B2ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6980108D-D1AB-4FAB-9966-5E5AF19B2ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4605C0F3-DFDB-4C69-90BB-06495714B399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4605C0F3-DFDB-4C69-90BB-06495714B399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4605C0F3-DFDB-4C69-90BB-06495714B399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4605C0F3-DFDB-4C69-90BB-06495714B399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
