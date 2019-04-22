@@ -16,6 +16,12 @@
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Method that would return a value making the determination whether or not
+        /// the string that the user provides is a digit or not
+        /// </summary>
+        /// <param name="symbol">The string put in by the user</param>
+        /// <returns>A true or false value</returns>
         static bool IsDigit(char symbol)
         {
             bool valid = true;

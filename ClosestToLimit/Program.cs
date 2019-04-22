@@ -8,10 +8,10 @@
  *            to the limit integer and prints out the limit integer
  */
 
-using System;
-
 namespace ClosestToLimit
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

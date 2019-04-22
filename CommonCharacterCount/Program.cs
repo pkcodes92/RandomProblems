@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace CommonCharacterCount
+﻿namespace CommonCharacterCount
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
@@ -16,6 +16,13 @@ namespace CommonCharacterCount
             Console.ReadKey(); 
         }
 
+        /// <summary>
+        /// Method to see how many characters are the same between
+        /// two strings that are provided
+        /// </summary>
+        /// <param name="s1">The first of two hardcoded strings</param>
+        /// <param name="s2">The second of two hardcoded strings</param>
+        /// <returns>An integer noting the number of common characters</returns>
         static int FindCommonCount(string s1, string s2)
         {
             int count = 0;

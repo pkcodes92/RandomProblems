@@ -1,7 +1,7 @@
-using System;
-
 namespace CheckSumOfThirty
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
@@ -15,6 +15,12 @@ namespace CheckSumOfThirty
             Console.ReadKey(); 
         }
 
+        /// <summary>
+        /// Checks the sum of the numbers to see if it's less than thirty
+        /// </summary>
+        /// <param name="x">The first integer</param>
+        /// <param name="y">The second integer</param>
+        /// <returns>A true or false value</returns>
         private static bool CheckSum(int x, int y)
         {
             if ((x + y == 30) || x == 30 || y == 30)
