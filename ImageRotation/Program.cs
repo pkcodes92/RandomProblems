@@ -1,7 +1,7 @@
-using System;
-
 namespace ImageRotation
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

@@ -7,10 +7,10 @@
  *            properly show the implementation of a LinkedList
  */
 
-using System;
-
 namespace LinkedListTutorial
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

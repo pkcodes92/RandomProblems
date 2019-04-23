@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace LuckyNumbers
+﻿namespace LuckyNumbers
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

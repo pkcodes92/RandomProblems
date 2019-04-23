@@ -2,11 +2,11 @@
  * Problem: Given array of integers, remove each kth element from it.
  */
 
-using System;
-using System.Linq;
-
 namespace ExtractElements
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
         static void Main(string[] args)

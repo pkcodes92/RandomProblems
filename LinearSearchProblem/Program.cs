@@ -1,7 +1,7 @@
-using System;
-
 namespace LinearSearchProblem
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

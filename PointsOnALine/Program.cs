@@ -8,10 +8,10 @@
  *            same line
  */
 
-using System;
-
 namespace PointsOnALine
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

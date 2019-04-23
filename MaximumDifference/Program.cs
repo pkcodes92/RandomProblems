@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace MaximumDifference
+﻿namespace MaximumDifference
 {
+    using System;
+
     class Program
     {
         /// <summary>

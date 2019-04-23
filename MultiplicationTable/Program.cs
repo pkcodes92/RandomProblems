@@ -7,10 +7,10 @@
  *            a user provided integer
  */
 
-using System;
-
 namespace MultiplicationTable
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

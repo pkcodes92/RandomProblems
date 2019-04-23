@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace Minesweeping
+﻿namespace Minesweeping
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

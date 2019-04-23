@@ -5,10 +5,10 @@
  *           in the language of C#
  */
 
-using System;
-
 namespace MiniMaxSum
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

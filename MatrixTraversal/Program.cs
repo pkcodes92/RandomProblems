@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace MatrixTraversal
+﻿namespace MatrixTraversal
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
@@ -21,6 +21,8 @@ namespace MatrixTraversal
             var isSquare = (m == n);
 
             Console.WriteLine($"Is the {m} x {n} matrix a square matrix? {isSquare}");
+
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
 
             Console.ReadKey(); 
         }

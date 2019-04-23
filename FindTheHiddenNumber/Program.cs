@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace FindTheHiddenNumber
+﻿namespace FindTheHiddenNumber
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

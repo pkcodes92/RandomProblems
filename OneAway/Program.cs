@@ -1,7 +1,7 @@
-using System;
-
 namespace OneAway
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace OnlyEvenNumbers
+﻿namespace OnlyEvenNumbers
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

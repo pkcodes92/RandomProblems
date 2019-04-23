@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace GetHashCodeTutorial
+﻿namespace GetHashCodeTutorial
 {
+    using System;
+
     public struct Number
     {
         private int n; 
