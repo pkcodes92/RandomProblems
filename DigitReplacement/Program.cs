@@ -3,11 +3,11 @@
  * how many digits are required to turn a multi-digit number into a single digit number. 
  */
 
-using System;
-using System.Linq;
-
 namespace DigitReplacement
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
         static void Main(string[] args)

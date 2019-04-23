@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace EqualStrength
+﻿namespace EqualStrength
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)

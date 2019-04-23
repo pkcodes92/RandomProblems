@@ -33,6 +33,13 @@
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// Function that will calculate the discriminant for a quadratic equation
+        /// </summary>
+        /// <param name="a">The coefficient for the variable of degree 2</param>
+        /// <param name="b">The coefficient for the variable of degree 1</param>
+        /// <param name="c">The constant value</param>
+        /// <returns>An integer value which can determine the type of roots for a quadratic equation</returns>
         private static int CalculateDiscriminant(int a, int b, int c)
         {
             int discriminant = (int)Math.Pow(b, 2) - (4 * a * c);

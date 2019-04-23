@@ -1,8 +1,8 @@
-﻿using System;
-using System.Linq;
-
-namespace ElectionWinners
+﻿namespace ElectionWinners
 {
+    using System;
+    using System.Linq;
+
     class Program
     {
         static void Main(string[] args)

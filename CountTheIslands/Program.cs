@@ -1,11 +1,12 @@
-using System;
-
 namespace CountTheIslands
 {
+    using System;
+
     class Program
     {
         // Number of rows and columns
-        static int ROW = 5, COL = 5; 
+        static readonly int ROW = 5;
+        static readonly int COL = 5; 
 
         /// <summary>
         /// A function to check if a given cell (row, col)
