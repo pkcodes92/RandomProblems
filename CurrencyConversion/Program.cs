@@ -25,7 +25,25 @@
                     break;
                 case 2:
                     double euro, inr, value;
-                    // TODO - finish off this later
+                    Console.WriteLine("Enter the EUR amount: ");
+                    euro = double.Parse(Console.ReadLine());
+
+                    Console.WriteLine("Enter the EUR value: ");
+                    value = double.Parse(Console.ReadLine());
+
+                    inr = euro * value;
+                    Console.WriteLine("{0} EUR equals to {1} INR", euro, inr);
+                    break;
+                case 3:
+                    double ringgit, rup, valu;
+                    Console.WriteLine("Enter the RM amount: ");
+                    ringgit = double.Parse(Console.ReadLine());
+
+                    Console.WriteLine("Enter the RM value: ");
+                    valu = double.Parse(Console.ReadLine());
+
+                    rup = ringgit * valu;
+                    Console.WriteLine("{0} RM equals to {1} INR", ringgit, valu); 
                     break;
             }
 
