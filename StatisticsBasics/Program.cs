@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace StatisticsBasics
+﻿namespace StatisticsBasics
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
@@ -9,18 +9,19 @@ namespace StatisticsBasics
             string[] a_temp = Console.ReadLine().Split(' ');
             int[] a = Array.ConvertAll(a_temp, int.Parse);
 
-            double mean = getMean(a);
-            double median = getMedian(a);
-            int mode = getMode(a);
+            double mean = GetMean(a);
+            double median = GetMedian(a);
+            int mode = GetMode(a);
 
             Console.WriteLine($"Mean is: {mean}");
             Console.WriteLine($"Median is: {median}");
             Console.WriteLine($"Mode is: {mode}");
 
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey(); 
         }
 
-        static double getMean(int[] a)
+        static double GetMean(int[] a)
         {
             int sum = 0;
             int size = a.Length;
@@ -34,7 +35,7 @@ namespace StatisticsBasics
             return mean;
         }
 
-        static double getMedian(int[] a)
+        static double GetMedian(int[] a)
         {
             double median;
             int size = a.Length;
@@ -57,7 +58,7 @@ namespace StatisticsBasics
             return median;
         }
 
-        static int getMode(int[] a)
+        static int GetMode(int[] a)
         {
             int mode = 0;
             int size = a.Length;

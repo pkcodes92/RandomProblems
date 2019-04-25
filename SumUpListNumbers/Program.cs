@@ -1,8 +1,8 @@
-﻿using System;
-using System.Text.RegularExpressions;
-
-namespace SumUpListNumbers
+﻿namespace SumUpListNumbers
 {
+    using System;
+    using System.Text.RegularExpressions;
+
     class Program
     {
         static void Main(string[] args)
@@ -11,6 +11,8 @@ namespace SumUpListNumbers
 
             int totalCount = SumUpNumbers(inputString);
             Console.WriteLine($"{inputString} = {totalCount}");
+
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey();
         }
 

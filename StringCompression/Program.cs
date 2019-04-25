@@ -1,7 +1,7 @@
-using System;
-
 namespace StringCompression
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
@@ -13,6 +13,7 @@ namespace StringCompression
 
             Console.WriteLine($"{inputString} compressed is: {outputString}");
 
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey();
         }
 

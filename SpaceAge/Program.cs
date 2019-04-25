@@ -56,6 +56,8 @@ namespace SpaceAge
                     break;
             }
 
+            Console.WriteLine("Program execution has completed, you may press any key to exit");
+
             // Making sure that the application can terminate gracefully
             Console.ReadKey(); 
         }

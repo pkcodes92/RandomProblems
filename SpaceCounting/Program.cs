@@ -12,7 +12,10 @@ namespace SpaceCounting
             Console.Write("Please provide a string: ");
             inputStr = Console.ReadLine();
 
-            Console.WriteLine("\"" + inputStr + "\"" + " contains {0} spaces", CountingSpaces(inputStr)); 
+            Console.WriteLine("\"" + inputStr + "\"" + " contains {0} spaces", CountingSpaces(inputStr));
+
+            Console.WriteLine("Program execution has completed, you may now press any key to exit.");
+            Console.ReadKey();
         }
 
         private static int CountingSpaces(string inputString)

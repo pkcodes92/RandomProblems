@@ -196,6 +196,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialPythagoreanTriplet",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyConversion", "CurrencyConversion\CurrencyConversion.csproj", "{CCC850B5-DF32-4BB5-A699-3F9565486523}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProgrammingFileDirectory", "ParallelProgrammingFileDirectory\ParallelProgrammingFileDirectory.csproj", "{BF2D3E75-2FB4-4A82-866E-AF1D24C4EC24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -578,6 +580,10 @@ Global
 		{CCC850B5-DF32-4BB5-A699-3F9565486523}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCC850B5-DF32-4BB5-A699-3F9565486523}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCC850B5-DF32-4BB5-A699-3F9565486523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2D3E75-2FB4-4A82-866E-AF1D24C4EC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2D3E75-2FB4-4A82-866E-AF1D24C4EC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2D3E75-2FB4-4A82-866E-AF1D24C4EC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2D3E75-2FB4-4A82-866E-AF1D24C4EC24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

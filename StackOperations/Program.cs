@@ -38,6 +38,8 @@
                         Environment.Exit(1);
                         break;
                 }
+
+                Console.WriteLine("Program execution has completed, you may now press any key to exit");
                 Console.ReadKey(); 
             }
         }
