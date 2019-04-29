@@ -1,14 +1,12 @@
 ﻿namespace ParallelProgrammingMatrixMultiplication
 {
     using System;
-    using System.Collections.Generic;
     using System.Diagnostics;
-    using System.Linq;
-    using System.Text;
     using System.Threading.Tasks;
 
     class Program
     {
+        #region Sequential manner
         static void MultiplyMatricesSequential(double[,] matA, double[,] matB, double[,] result)
         {
             int matACols = matA.GetLength(1);
@@ -28,7 +26,9 @@
                 }
             }
         }
+        #endregion
 
+        #region Parallel programming
         static void MultiplyMatricesParallel(double[,] matA, double[,] matB, double[,] result)
         {
             int matACols = matA.GetLength(1);
@@ -49,8 +49,10 @@
                     result[i, j] = temp;
                 }
             }); // Parallel.For
-        }
+        } 
+        #endregion
 
+        #region Main
         static void Main(string[] args)
         {
             // Set up matrices. Use small values to better view 
@@ -70,8 +72,7 @@
 
             MultiplyMatricesSequential(m1, m2, result);
             stopwatch.Stop();
-            Console.Error.WriteLine("Sequential loop time in milliseconds: {0}",
-                                    stopwatch.ElapsedMilliseconds);
+            Console.Error.WriteLine("Sequential loop time in milliseconds: {0}", stopwatch.ElapsedMilliseconds);
 
             // For the skeptics.
             OfferToPrint(rowCount, colCount2, result);
@@ -85,15 +86,16 @@
             stopwatch.Start();
             MultiplyMatricesParallel(m1, m2, result);
             stopwatch.Stop();
-            Console.Error.WriteLine("Parallel loop time in milliseconds: {0}",
-                                    stopwatch.ElapsedMilliseconds);
+            Console.Error.WriteLine("Parallel loop time in milliseconds: {0}", stopwatch.ElapsedMilliseconds);
             OfferToPrint(rowCount, colCount2, result);
 
             // Keep the console window open in debug mode.
             Console.Error.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
+        #endregion
 
+        #region Helper methods
         static double[,] InitializeMatrix(int rows, int cols)
         {
             double[,] matrix = new double[rows, cols];
@@ -128,6 +130,7 @@
                     Console.WriteLine();
                 }
             }
-        }
+        } 
+        #endregion
     }
 }

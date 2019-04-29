@@ -200,6 +200,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProgrammingFileDire
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProgrammingMatrixMultiplication", "ParallelProgrammingMatrixMultiplication\ParallelProgrammingMatrixMultiplication.csproj", "{E26AA79B-A35B-4FDB-BB25-BB0A7B62D3DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPartitions", "DynamicPartitions\DynamicPartitions.csproj", "{0B02F4F7-4E62-4D38-9E3F-194935211286}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -590,6 +592,10 @@ Global
 		{E26AA79B-A35B-4FDB-BB25-BB0A7B62D3DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E26AA79B-A35B-4FDB-BB25-BB0A7B62D3DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E26AA79B-A35B-4FDB-BB25-BB0A7B62D3DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B02F4F7-4E62-4D38-9E3F-194935211286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B02F4F7-4E62-4D38-9E3F-194935211286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B02F4F7-4E62-4D38-9E3F-194935211286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B02F4F7-4E62-4D38-9E3F-194935211286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
