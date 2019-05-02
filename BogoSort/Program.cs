@@ -57,6 +57,9 @@ namespace BogoSort
             Print_Iteration(list, iteration);
             Console.WriteLine();
             Console.WriteLine("Bogo_sort completed after {0} iterations", iteration);
+
+            Console.WriteLine("Program has completed execution, you may now press any key to exit");
+            Console.ReadKey();
         }
 
         /// <summary>

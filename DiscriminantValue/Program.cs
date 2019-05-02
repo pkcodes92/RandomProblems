@@ -30,6 +30,7 @@
                 Console.WriteLine($"Discriminant = {discriminant} and there are no real solutions");
             }
 
+            Console.WriteLine("Program execution is completed - you may now press any key to exit");
             Console.ReadKey();
         }
 

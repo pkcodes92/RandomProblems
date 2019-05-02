@@ -82,6 +82,7 @@ namespace ArrayLeftRotation
                 Console.Write(tempArray[i] + " ");
             }
 
+            Console.WriteLine("Program execution has terminated - you may now press any key to exit.");
             Console.ReadKey();
         }
     }

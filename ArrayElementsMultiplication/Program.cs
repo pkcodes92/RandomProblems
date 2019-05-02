@@ -8,7 +8,6 @@
      * Purpose  : To create a C# console application that will multiply elements
      *            of two arrays and print them out
      */
-
     using System;
 
     class Program
@@ -30,6 +29,7 @@
 
             Console.WriteLine(Environment.NewLine);
 
+            Console.WriteLine("Program execution has completed - you may now press any key to exit");
             Console.ReadKey();
         }
     }

@@ -15,6 +15,7 @@
                 Console.Write(weights[i] + " ");
             }
 
+            Console.WriteLine("Program execution has completed - you may know press any key to exit");
             Console.ReadKey(); 
         }
 

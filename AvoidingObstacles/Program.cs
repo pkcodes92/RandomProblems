@@ -13,6 +13,7 @@
 
             Console.WriteLine($"Final result: {result}");
 
+            Console.WriteLine("Program execution has completed - you may now press any key to exit");
             Console.ReadKey(); 
         }
 

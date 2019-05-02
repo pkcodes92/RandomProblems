@@ -11,6 +11,8 @@
 
             Console.WriteLine($"Input value is: {n}");
             Console.WriteLine($"Value is {maxValue}");
+
+            Console.WriteLine("Program execution has now completed - you may press any key to exit");
             Console.ReadKey();
         }
 

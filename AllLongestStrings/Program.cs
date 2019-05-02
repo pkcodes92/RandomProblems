@@ -1,9 +1,9 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-
-namespace AllLongestStrings
+﻿namespace AllLongestStrings
 {
+    using System;
+    using System.Collections;
+    using System.Collections.Generic;
+
     class Program
     {
         static void Main(string[] args)
@@ -26,6 +26,8 @@ namespace AllLongestStrings
             {
                 Console.Write(outputArray[j] + " ");
             }
+
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
 
             Console.ReadKey();
         }

@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace TreeTutorial
+﻿namespace TreeTutorial
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
@@ -20,6 +20,8 @@ namespace TreeTutorial
             // Traverse and print the tree
             // using Depth-First-Search
             tree.TraverseDFS();
+
+            Console.WriteLine("Program execution as finished - you may now press any key to exit");
 
             Console.ReadKey();
         }

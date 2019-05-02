@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Sudoku
+﻿namespace Sudoku
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
@@ -35,6 +31,7 @@ namespace Sudoku
             bool result = Sudoku2(grid);
 
             Console.WriteLine("Final result: {0}", result);
+            Console.WriteLine("Program execution has finished - you may now press any key to exit");
 
             Console.ReadKey();
         }

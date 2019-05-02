@@ -18,6 +18,7 @@ namespace DigitReplacement
 
             Console.WriteLine($"Result: {result}");
 
+            Console.WriteLine("Program execution has completed - you may now press any key to exit");
             Console.ReadKey();
         }
 

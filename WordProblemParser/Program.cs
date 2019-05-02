@@ -2,8 +2,7 @@
 {
     using System;
     using System.Text.RegularExpressions; 
-
-
+    
     class Program
     {
         static void Main(string[] args)
@@ -17,6 +16,12 @@
             Console.ReadKey(); 
         }
 
+        /// <summary>
+        /// Parser to be able to get the necessary answer provided the 
+        /// actual word problem
+        /// </summary>
+        /// <param name="question">The full on question being asked</param>
+        /// <returns>An integer that represents the answer</returns>
         public static int Answer(string question)
         {
             var answer = 0; 

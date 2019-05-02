@@ -19,6 +19,7 @@
                 Console.Write(finalArray[i] + " ");
             }
 
+            Console.WriteLine("Program execution has now terminated - you may press any key to exit.");
             Console.ReadKey();
         }
 

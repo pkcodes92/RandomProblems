@@ -1,11 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace DivisibleSumPairs
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
+
     class Program
     {
         static void Main(string[] args)
@@ -21,7 +21,7 @@ namespace DivisibleSumPairs
             int result = FindDivisiblePairs(n, k, ar);
 
             Console.WriteLine($"There are {result} pairs for the provided array");
-
+            Console.WriteLine("Program execution has completed - you may press any key to exit");
             Console.ReadKey(); 
         }
 
