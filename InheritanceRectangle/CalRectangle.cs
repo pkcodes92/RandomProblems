@@ -28,7 +28,7 @@
 
     class TableTop : Rectangle
     {
-        private double cost;
+        private readonly double cost;
         public TableTop(double l, double w): base(l, w)
         {
 
@@ -54,7 +54,9 @@
         {
             TableTop t = new TableTop(7.5, 8.04);
             t.Display();
-            Console.ReadLine(); 
+
+            Console.WriteLine("Program execution has finished, you may now press any key to exit");
+            Console.ReadKey(); 
         }
     }
 }

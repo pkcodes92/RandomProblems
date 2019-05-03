@@ -18,6 +18,7 @@ namespace IsUniqueCharacters
 
             Console.WriteLine($"Does the provided string => {inputString} contain unique characters? {isUnique}");
 
+            Console.WriteLine("Program execution has finished, you may now press any key to exit");
             Console.ReadKey();
         }
 

@@ -13,6 +13,7 @@
 
             Console.WriteLine(duplicates);
 
+            Console.WriteLine("Progam execution has finished, you may now press any key to exit");
             Console.ReadKey(); 
         }
 

@@ -14,6 +14,7 @@
 
             Console.WriteLine($"The answer time is: {answerTime}");
 
+            Console.WriteLine("The program execution has finished. You may now press any key to exit");
             Console.ReadKey(); 
         }
 

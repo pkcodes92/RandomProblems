@@ -11,6 +11,8 @@
 
             int digProd = DigitsProduct(product);
             Console.WriteLine($"For {product} = {digProd}");
+
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey();
         }
 

@@ -13,6 +13,7 @@
 
             Console.WriteLine("There are {0} common characters between {1} and {2}", commonCharacterCount, s1, s2);
 
+            Console.WriteLine("Program has finished executing, you may now press any key to exit");
             Console.ReadKey(); 
         }
 

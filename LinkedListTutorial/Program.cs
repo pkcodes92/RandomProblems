@@ -33,6 +33,7 @@ namespace LinkedListTutorial
             lnkList.RemoveFromStart();
             lnkList.PrintAllNodes();
 
+            Console.WriteLine("Program execution has completed, press any key to exit");
             Console.ReadKey();
         }
     }

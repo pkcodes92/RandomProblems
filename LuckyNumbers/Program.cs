@@ -24,6 +24,7 @@
 
             Console.WriteLine(sumFirstHalf == sumSecHalf);
 
+            Console.WriteLine("Program execution has completed, you can press any key to exit");
             Console.ReadKey(); 
         }
     }

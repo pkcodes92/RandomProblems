@@ -15,6 +15,8 @@
 
             int diffSquaresCount = DifferentSquares(matrix);
             Console.WriteLine($"There are {diffSquaresCount} inside the provided matrix");
+
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey();
         }
 

@@ -15,6 +15,7 @@
 
             Console.WriteLine($"The hidden number in the array: {hiddenNumber}");
 
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey();
         }
 

@@ -14,6 +14,7 @@ namespace LargestNumberPossible
 
             Console.WriteLine($"Given the value of {n}, the largest number possible is {largestNumber}");
 
+            Console.WriteLine("Program execution has completed, press any key to exit");
             Console.ReadKey(); 
         }
 

@@ -21,7 +21,7 @@
             bool isCryptSolution = IsCryptSol(crypt, solution);
 
             Console.WriteLine("Crypt Solution? {0}", isCryptSolution);
-
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey(); 
         }
 

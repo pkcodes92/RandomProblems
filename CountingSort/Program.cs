@@ -78,6 +78,7 @@ namespace CountingSort
 
             Console.Write(Environment.NewLine);
 
+            Console.WriteLine("The program execution has completed, you may now press any key to exit");
             Console.ReadKey(); 
         }
     }

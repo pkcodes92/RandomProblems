@@ -21,7 +21,6 @@ namespace ImageRotation
             PrintArray(rotatedImage);
 
             Console.WriteLine("The program has finished executing, please press any key to exit");
-
             Console.ReadKey();
         }
 

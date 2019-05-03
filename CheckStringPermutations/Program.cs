@@ -29,7 +29,7 @@ namespace CheckStringPermutations
             }
 
             Console.WriteLine($"Are the strings {s} and {t} permutations of each other? {isPermutation}");
-
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey();
         }
 
