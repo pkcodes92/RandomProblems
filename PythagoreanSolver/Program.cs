@@ -19,6 +19,7 @@ namespace PythagoreanSolver
                 Console.WriteLine("The input list is too large to calculate the hypotenuse! Try again later.");
             }
 
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey();
         }
 

@@ -28,6 +28,8 @@ namespace RadixSort
             }
 
             Console.WriteLine("\n");
+
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey();
         }
 

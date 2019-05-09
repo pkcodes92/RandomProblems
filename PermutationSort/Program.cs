@@ -22,7 +22,7 @@ namespace PermutationSort
             char[] arr = str.ToCharArray();
             GetPermutation(arr);
 
-            Console.WriteLine("The program execution has completed");
+            Console.WriteLine("The program execution has completed, you may press any key to exit");
             Console.ReadKey();
         }
 

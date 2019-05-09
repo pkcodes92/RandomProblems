@@ -10,6 +10,7 @@ namespace QuadraticSolver
             qr.Read();
             qr.Compute();
 
+            Console.WriteLine("Program execution has completed, press any key to exit");
             Console.ReadKey(); 
         }
     }

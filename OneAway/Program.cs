@@ -30,6 +30,7 @@ namespace OneAway
 
             Console.WriteLine($"Are {first} and {second} one edit away? {isOneEditAway}");
 
+            Console.WriteLine("Program execution has finished, you may now press any key to exit");
             Console.ReadKey();
         }
 

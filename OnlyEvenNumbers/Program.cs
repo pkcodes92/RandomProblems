@@ -12,6 +12,7 @@
 
             Console.WriteLine($"Does {n} contain only even digits? {result}");
 
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey();
         }
 

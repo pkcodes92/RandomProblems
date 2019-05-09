@@ -44,6 +44,7 @@ namespace PointsOnALine
                 Console.WriteLine("All points DO NOT fall on the same line");
             }
 
+            Console.WriteLine("Program execution has completed, you may now press any key to exit");
             Console.ReadKey();
         }
 
