@@ -11,3 +11,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\bin\
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\bin\Debug\CorrelationCoefficient.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.csprojAssemblyReference.cache

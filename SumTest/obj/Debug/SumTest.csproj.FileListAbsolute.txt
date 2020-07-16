@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\bin\Debug\SumTest.p
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\bin\Debug\SumTest.xml

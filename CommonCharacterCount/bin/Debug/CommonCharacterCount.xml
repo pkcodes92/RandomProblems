@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CommonCharacterCount</name>
+    </assembly>
+    <members>
+        <member name="M:CommonCharacterCount.Program.FindCommonCount(System.String,System.String)">
+            <summary>
+            Method to see how many characters are the same between
+            two strings that are provided
+            </summary>
+            <param name="s1">The first of two hardcoded strings</param>
+            <param name="s2">The second of two hardcoded strings</param>
+            <returns>An integer noting the number of common characters</returns>
+        </member>
+    </members>
+</doc>

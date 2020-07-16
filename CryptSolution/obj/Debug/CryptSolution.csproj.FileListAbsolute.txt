@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\bin\Debug\Cry
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\bin\Debug\CryptSolution.xml

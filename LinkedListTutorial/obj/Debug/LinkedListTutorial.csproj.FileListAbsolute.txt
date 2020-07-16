@@ -18,3 +18,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\bin\Debu
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csprojAssemblyReference.cache

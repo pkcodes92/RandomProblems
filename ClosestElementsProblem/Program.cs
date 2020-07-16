@@ -1,15 +1,13 @@
-﻿namespace ClosestElementsProblem
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace ClosestElementsProblem
 {
     using System;
 
     /// <summary>
-    /// Given a sorted array arr[] and a value X, find the k closest elements to X in arr[].
-    /// 
-    /// A simple solution is to do linear search for k closest elements.
-    /// 1.  Start from the first element and search for the crossover point (The point before which elements
-    /// are smaller than or equal to X and after which elements are greater). This takes O(n) time
-    /// 2.  Once we find the crossover point, we can compare elements on both sides of the crossover point to
-    /// print k closest elements. This step takes O(k) time.
+    /// This is the main driver class.
     /// </summary>
     class Program
     {

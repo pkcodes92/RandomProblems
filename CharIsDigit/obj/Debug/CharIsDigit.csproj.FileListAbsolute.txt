@@ -16,3 +16,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\bin\Debug\CharI
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.xml

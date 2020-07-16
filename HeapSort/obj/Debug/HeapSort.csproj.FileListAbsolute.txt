@@ -11,3 +11,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\HeapSort\bin\Debug\HeapSort
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\HeapSort\obj\Debug\HeapSort.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\HeapSort\obj\Debug\HeapSort.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\HeapSort\obj\Debug\HeapSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\HeapSort\bin\Debug\HeapSort.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\HeapSort\obj\Debug\HeapSort.csprojAssemblyReference.cache

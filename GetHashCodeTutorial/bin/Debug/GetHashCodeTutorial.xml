@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GetHashCodeTutorial</name>
+    </assembly>
+    <members>
+        <member name="M:GetHashCodeTutorial.Number.GetHashCode">
+            <summary>
+            GetHashCode() method must be overridden along with 
+            the Equals() method
+            </summary>
+            <returns>Integer</returns>
+        </member>
+    </members>
+</doc>

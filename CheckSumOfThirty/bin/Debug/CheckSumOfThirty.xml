@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CheckSumOfThirty</name>
+    </assembly>
+    <members>
+        <member name="M:CheckSumOfThirty.Program.CheckSum(System.Int32,System.Int32)">
+            <summary>
+            Checks the sum of the numbers to see if it's less than thirty
+            </summary>
+            <param name="x">The first integer</param>
+            <param name="y">The second integer</param>
+            <returns>A true or false value</returns>
+        </member>
+    </members>
+</doc>

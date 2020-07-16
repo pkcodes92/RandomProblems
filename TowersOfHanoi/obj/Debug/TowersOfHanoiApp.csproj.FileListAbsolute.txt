@@ -4,3 +4,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\TowersOfHanoi\bin\Debug\Tow
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\TowersOfHanoi\obj\Debug\TowersOfHanoiApp.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\TowersOfHanoi\obj\Debug\TowersOfHanoiApp.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\TowersOfHanoi\obj\Debug\TowersOfHanoiApp.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\TowersOfHanoi\bin\Debug\TowersOfHanoiApp.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\TowersOfHanoi\obj\Debug\TowersOfHanoiApp.csprojAssemblyReference.cache

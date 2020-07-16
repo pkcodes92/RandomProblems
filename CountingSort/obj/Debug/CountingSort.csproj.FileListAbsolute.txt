@@ -10,3 +10,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\CountingSort\bin\Debug\Coun
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CountingSort\obj\Debug\CountingSort.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CountingSort\obj\Debug\CountingSort.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CountingSort\obj\Debug\CountingSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CountingSort\bin\Debug\CountingSort.xml

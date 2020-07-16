@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SpecialPythagoreanTriplet</name>
+    </assembly>
+    <members>
+        <member name="M:SpecialPythagoreanTriplet.Program.BruteForce">
+            <summary>
+            Going through the brute force approach - seeing how there would be some
+            time taken for this solution to the problem
+            </summary>
+        </member>
+        <member name="M:SpecialPythagoreanTriplet.Program.NumberTheory">
+            <summary>
+            Approach using number theory and having the ability to see how
+            the solution can also be devised through a recursive approach
+            </summary>
+        </member>
+    </members>
+</doc>

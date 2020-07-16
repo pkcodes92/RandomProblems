@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\EqualStrength\bin\Debug\Equ
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\EqualStrength\obj\Debug\EqualStrength.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\EqualStrength\obj\Debug\EqualStrength.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\EqualStrength\obj\Debug\EqualStrength.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\EqualStrength\bin\Debug\EqualStrength.xml

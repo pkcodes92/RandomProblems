@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\bin\Deb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\bin\Debug\ValidatingIPAddress.xml

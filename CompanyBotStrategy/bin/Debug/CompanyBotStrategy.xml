@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CompanyBotStrategy</name>
+    </assembly>
+    <members>
+        <member name="T:CompanyBotStrategy.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:CompanyBotStrategy.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">The project specific command line arguments.</param>
+        </member>
+    </members>
+</doc>

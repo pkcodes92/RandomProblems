@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StructBasicsProblem1</name>
+    </assembly>
+    <members>
+        <member name="T:StructBasicsProblem1.ValuesStruct">
+            <summary>
+            Having the ability to set values as part of a struct data
+            type in C# - where the members are public by default
+            </summary>
+        </member>
+        <member name="T:StructBasicsProblem1.Program">
+            <summary>
+            With the classes, you can have members in a class, however
+            by default they are private as opposed to structs where the
+            members of structs are actually public by default
+            </summary>
+        </member>
+    </members>
+</doc>

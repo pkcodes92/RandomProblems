@@ -11,3 +11,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\bin\Debug\Lin
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\bin\Debug\LinqInnerJoin.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IsUniqueCharacters</name>
+    </assembly>
+    <members>
+        <member name="T:IsUniqueCharacters.Program">
+            <summary>
+            Problem - Implement an algorithm to determine if a string has all unique
+            characters. What if you cannot use additional data structures?
+            </summary>
+        </member>
+        <member name="M:IsUniqueCharacters.Program.ContainsUniqueChars(System.String)">
+            <summary>
+            Looks at the characters in the provided string to see if the entire string
+            contains unique characters
+            </summary>
+            <param name="inputString">The string that was provided by the user</param>
+            <returns>A boolean value to determine if the string contains unique characters or not</returns>
+        </member>
+    </members>
+</doc>

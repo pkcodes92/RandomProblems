@@ -11,3 +11,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiscriminantValue\bin\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug\DiscriminantValue.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug\DiscriminantValue.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug\DiscriminantValue.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiscriminantValue\bin\Debug\DiscriminantValue.xml

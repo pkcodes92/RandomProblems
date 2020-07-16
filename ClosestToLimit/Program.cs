@@ -1,12 +1,6 @@
-﻿/*
- * Author   : Pranav S. Krishnamurthy
- * 
- * Date     : 31st March 2018
- * 
- * Purpose  : To create a C# console application that will take three integers:
- *            x, y, and limit; and then determine which number x or y is closest
- *            to the limit integer and prints out the limit integer
- */
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace ClosestToLimit
 {

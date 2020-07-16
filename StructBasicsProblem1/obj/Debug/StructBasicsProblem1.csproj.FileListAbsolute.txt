@@ -11,3 +11,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\bin\De
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\obj\Debug\StructBasicsProblem1.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\obj\Debug\StructBasicsProblem1.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\obj\Debug\StructBasicsProblem1.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\bin\Debug\StructBasicsProblem1.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\obj\Debug\StructBasicsProblem1.csprojAssemblyReference.cache

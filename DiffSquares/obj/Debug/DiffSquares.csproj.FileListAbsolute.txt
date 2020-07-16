@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\bin\Debug\DiffS
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\bin\Debug\DiffSquares.xml

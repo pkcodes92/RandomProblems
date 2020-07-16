@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TreeTutorial</name>
+    </assembly>
+    <members>
+        <member name="M:TreeTutorial.Tree`1.#ctor(`0)">
+            <summary>
+            Constructs the tree
+            </summary>
+            <param name="value">The value of the node</param>
+        </member>
+        <member name="M:TreeTutorial.Tree`1.#ctor(`0,TreeTutorial.Tree{`0}[])">
+            <summary>
+            Constructs the tree
+            </summary>
+            <param name="value">The value of the root node</param>
+            <param name="children">The children of the root node</param>
+        </member>
+        <member name="P:TreeTutorial.Tree`1.Root">
+            <summary>
+            The root node or null if the tree is empty
+            </summary>
+        </member>
+        <member name="M:TreeTutorial.Tree`1.PrintDFS(TreeTutorial.TreeNode{`0},System.String)">
+            <summary>
+            Traverses and prints tree in Depth-First-Search
+            (DFS) manner
+            </summary>
+            <param name="root">The root of the tre to be traversed</param>
+            <param name="spaces">The spaces used for representation of the parent-child relation</param>
+        </member>
+        <member name="F:TreeTutorial.TreeNode`1.value">
+            <summary>
+            This contains the value of the node
+            </summary>
+        </member>
+        <member name="F:TreeTutorial.TreeNode`1.hasParent">
+            <summary>
+            Shows whether the current node has a
+            parent or not
+            </summary>
+        </member>
+        <member name="F:TreeTutorial.TreeNode`1.children">
+            <summary>
+            Contains the children of the node (zero or more)
+            </summary>
+        </member>
+        <member name="M:TreeTutorial.TreeNode`1.#ctor(`0)">
+            <summary>
+            Constructs a tree node
+            </summary>
+            <param name="value">The value of the node</param>
+        </member>
+        <member name="P:TreeTutorial.TreeNode`1.Value">
+            <summary>
+            The value of the node
+            </summary>
+        </member>
+        <member name="P:TreeTutorial.TreeNode`1.ChildrenCount">
+            <summary>
+            The number of the children of the nodes
+            </summary>
+        </member>
+        <member name="M:TreeTutorial.TreeNode`1.AddChild(TreeTutorial.TreeNode{`0})">
+            <summary>
+            Adds child to the node
+            </summary>
+            <param name="child">The child to be added</param>
+        </member>
+        <member name="M:TreeTutorial.TreeNode`1.GetChild(System.Int32)">
+            <summary>
+            Gets the child of the node at a given
+            index
+            </summary>
+            <param name="index">The index of the desired child</param>
+            <returns>The child on the given position</returns>
+        </member>
+    </members>
+</doc>

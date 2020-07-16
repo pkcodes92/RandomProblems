@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\CommonCharacterCount\bin\De
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CommonCharacterCount\obj\Debug\CommonCharacterCount.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CommonCharacterCount\bin\Debug\CommonCharacterCount.xml

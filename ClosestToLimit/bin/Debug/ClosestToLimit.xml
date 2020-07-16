@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClosestToLimit</name>
+    </assembly>
+    <members>
+        <member name="M:ClosestToLimit.Program.CalcDifference(System.Int32,System.Int32)">
+            <summary>
+            This is to find the difference between two numbers
+            </summary>
+            <param name="x">User provided input for the first number</param>
+            <param name="limit">User provided input for the limit integer</param>
+            <returns>A difference of limit from the variable x</returns>
+        </member>
+        <member name="M:ClosestToLimit.Program.FindResult(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Finding which number was closest to the limit that was provided by the
+            user at the time that this console application runs
+            </summary>
+            <param name="val1">Result between the first integer and the limit</param>
+            <param name="val2">Result between the second integer and the limit</param>
+            <param name="x">The first integer provided by the user</param>
+            <param name="y">The second integer provided by the user</param>
+            <returns>An integer which is the number that is closest to the limit</returns>
+        </member>
+    </members>
+</doc>

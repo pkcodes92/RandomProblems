@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\bin\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\bin\Debug\MaximumDifference.xml

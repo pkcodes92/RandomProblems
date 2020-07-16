@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CheckSumInRange</name>
+    </assembly>
+    <members>
+        <member name="M:CheckSumInRange.Program.CheckSum(System.Int32,System.Int32)">
+            <summary>
+            Finding the sum of two numbers and checking if the sum
+            falls in between two numbers, 10 and 20 inclusive
+            </summary>
+            <param name="a">The first number</param>
+            <param name="b">The second number</param>
+            <returns>The actual sum, or the number 30</returns>
+        </member>
+    </members>
+</doc>

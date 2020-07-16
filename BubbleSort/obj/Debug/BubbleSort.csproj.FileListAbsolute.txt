@@ -16,3 +16,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\bin\Debug\Bubble
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\obj\Debug\BubbleSort.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\bin\Debug\BubbleSort.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache

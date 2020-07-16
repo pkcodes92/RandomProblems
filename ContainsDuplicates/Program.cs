@@ -1,4 +1,8 @@
-﻿namespace ContainsDuplicates
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace ContainsDuplicates
 {
     using System;
     using System.Collections.Generic;

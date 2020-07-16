@@ -30,3 +30,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\JsonParsing\obj\Debug\JsonP
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\JsonParsing\obj\Debug\JsonParsing.csproj.CopyComplete
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\JsonParsing\obj\Debug\JsonParsing.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\JsonParsing\obj\Debug\JsonParsing.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\JsonParsing\bin\Debug\JsonParsing.xml

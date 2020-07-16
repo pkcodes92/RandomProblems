@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\bin\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.xml

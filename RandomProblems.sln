@@ -125,11 +125,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearchProblem", "Line
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort", "CountingSort\CountingSort.csproj", "{44E8F7C8-3ADE-4613-85BF-2CA2629BA0B7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C1E6E36A-5ECE-4CA8-A7C8-85E7E74C5CFC}"
-	ProjectSection(SolutionItems) = preProject
-		.editorconfig = .editorconfig
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParsing", "JsonParsing\JsonParsing.csproj", "{C64EA328-9CCD-4DE8-A33F-741FE2B48ADD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceCounting", "SpaceCounting\SpaceCounting.csproj", "{8B8953FD-790A-4E82-A488-5892E7F05872}"

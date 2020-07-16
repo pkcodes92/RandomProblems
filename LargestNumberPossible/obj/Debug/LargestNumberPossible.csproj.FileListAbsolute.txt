@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\LargestNumberPossible\bin\D
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LargestNumberPossible\obj\Debug\LargestNumberPossible.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LargestNumberPossible\bin\Debug\LargestNumberPossible.xml

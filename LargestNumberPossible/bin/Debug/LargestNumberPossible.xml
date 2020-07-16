@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LargestNumberPossible</name>
+    </assembly>
+    <members>
+        <member name="M:LargestNumberPossible.Program.FindLargestNumber(System.Int32)">
+            <summary>
+            Ability to find the largest number
+            </summary>
+            <param name="n">The number of digits in length</param>
+            <returns>The largest number, given the length of n-digits</returns>
+        </member>
+    </members>
+</doc>

@@ -1,4 +1,8 @@
-﻿namespace BubbleSort
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace BubbleSort
 {
     using System;
     using System.Linq;

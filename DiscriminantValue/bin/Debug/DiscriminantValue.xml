@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DiscriminantValue</name>
+    </assembly>
+    <members>
+        <member name="M:DiscriminantValue.Program.CalculateDiscriminant(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Function that will calculate the discriminant for a quadratic equation
+            </summary>
+            <param name="a">The coefficient for the variable of degree 2</param>
+            <param name="b">The coefficient for the variable of degree 1</param>
+            <param name="c">The constant value</param>
+            <returns>An integer value which can determine the type of roots for a quadratic equation</returns>
+        </member>
+    </members>
+</doc>

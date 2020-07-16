@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SpaceAge</name>
+    </assembly>
+    <members>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.SECONDS_IN_EARTH_YEAR">
+            <summary>
+            The number of seconds in a year on Earth
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.MERCURY_PERIOD">
+            <summary>
+            The orbital period of Mercury as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.VENUS_PERIOD">
+            <summary>
+            The orbital period of Venus as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.MARS_PERIOD">
+            <summary>
+            The orbital period of Mars as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.JUPITER_PERIOD">
+            <summary>
+            The orbital period of Jupiter as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.SATURN_PERIOD">
+            <summary>
+            The orbital period of Saturn as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.URANUS_PERIOD">
+            <summary>
+            The orbital period of Uranus as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.NEPTUNE_PERIOD">
+            <summary>
+            The orbital period of Neptune as measured in Earth years
+            </summary>
+        </member>
+        <member name="M:SpaceAge.SpaceCalculations.OnMercury">
+            <summary>
+            Calculates the age on Mercury
+            </summary>
+            <returns>A double value that will return the correct value</returns>
+        </member>
+    </members>
+</doc>

@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitReplacement\bin\Debug\
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitReplacement\bin\Debug\DigitReplacement.xml

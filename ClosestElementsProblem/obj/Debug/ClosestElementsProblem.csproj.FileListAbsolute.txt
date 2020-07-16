@@ -11,3 +11,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\bin\
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\obj\Debug\ClosestElementsProblem.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\obj\Debug\ClosestElementsProblem.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\obj\Debug\ClosestElementsProblem.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestElementsProblem\bin\Debug\ClosestElementsProblem.xml

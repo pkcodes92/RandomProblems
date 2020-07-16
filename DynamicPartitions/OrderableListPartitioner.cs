@@ -1,10 +1,18 @@
-﻿namespace DynamicPartitions
+﻿// <copyright file="ObservableListPartitioner.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace DynamicPartitions
 {
     using System.Collections;
     using System.Collections.Concurrent;
     using System.Collections.Generic;
     using System.Threading;
 
+    /// <summary>
+    /// This is the class for the observable list partitioner.
+    /// </summary>
+    /// <typeparam name="TSource">A generic type parameter.</typeparam>
     public class OrderableListPartitioner<TSource> : OrderablePartitioner<TSource>
     {
         private readonly IList<TSource> m_input; 

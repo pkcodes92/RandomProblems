@@ -4,3 +4,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\DumpableDemo\bin\Debug\Dump
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DumpableDemo\obj\Debug\DumpableDemo.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DumpableDemo\obj\Debug\DumpableDemo.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DumpableDemo\obj\Debug\DumpableDemo.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DumpableDemo\bin\Debug\DumpableDemo.xml

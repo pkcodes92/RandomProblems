@@ -11,3 +11,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\bin\Debug\Spa
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\SpaceCounting.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\SpaceCounting.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\SpaceCounting.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\bin\Debug\SpaceCounting.xml

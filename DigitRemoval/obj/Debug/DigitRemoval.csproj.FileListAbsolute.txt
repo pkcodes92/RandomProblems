@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\bin\Debug\Digi
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\bin\Debug\DigitRemoval.xml

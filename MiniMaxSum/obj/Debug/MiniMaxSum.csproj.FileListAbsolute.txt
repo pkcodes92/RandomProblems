@@ -18,3 +18,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\MiniMaxSum\bin\Debug\MiniMa
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MiniMaxSum\obj\Debug\MiniMaxSum.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MiniMaxSum\obj\Debug\MiniMaxSum.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MiniMaxSum\obj\Debug\MiniMaxSum.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MiniMaxSum\bin\Debug\MiniMaxSum.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MiniMaxSum\obj\Debug\MiniMaxSum.csprojAssemblyReference.cache

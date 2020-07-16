@@ -11,3 +11,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\bin\Debug\C
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\obj\Debug\CheckSumInRange.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\obj\Debug\CheckSumInRange.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\obj\Debug\CheckSumInRange.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\bin\Debug\CheckSumInRange.xml
