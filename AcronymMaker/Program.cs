@@ -2,9 +2,12 @@
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter a phrase to abbreviate: ");
             string inputString = Console.ReadLine();

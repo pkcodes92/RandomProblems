@@ -29,10 +29,10 @@ namespace AbsoluteDifference
 
         /// <summary>
         /// Method that will calculate the absolute difference btween n and 51. 
-        /// If n is greater than 51 return triple the absolute difference
+        /// If n is greater than 51 return triple the absolute difference.
         /// </summary>
-        /// <param name="n">Value passed through the console</param>
-        /// <returns>Absolute difference</returns>
+        /// <param name="n">Value passed through the console.</param>
+        /// <returns>Absolute difference.</returns>
         private static int FindDifference(int n)
         {
             const int x = 51;

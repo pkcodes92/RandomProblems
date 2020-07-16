@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AbsoluteDifference</name>
+    </assembly>
+    <members>
+        <member name="T:AbsoluteDifference.Program">
+            <summary>
+            The main class for this project.
+            </summary>
+        </member>
+        <member name="M:AbsoluteDifference.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:AbsoluteDifference.Program.FindDifference(System.Int32)">
+            <summary>
+            Method that will calculate the absolute difference btween n and 51. 
+            If n is greater than 51 return triple the absolute difference.
+            </summary>
+            <param name="n">Value passed through the console.</param>
+            <returns>Absolute difference.</returns>
+        </member>
+    </members>
+</doc>
