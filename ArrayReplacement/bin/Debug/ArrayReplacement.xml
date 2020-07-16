@@ -4,7 +4,18 @@
         <name>ArrayReplacement</name>
     </assembly>
     <members>
-        <member name="M:ArrayReplacement.Program.ArrayReplace(System.Int32[],System.Int32,System.Int32)">
+        <member name="T:ArrayReplacement.Program">
+            <summary>
+            This is the program class.
+            </summary>
+        </member>
+        <member name="M:ArrayReplacement.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific based.</param>
+        </member>
+        <member name="M:ArrayReplacement.Program.ArrayReplace(System.Int32[],System.Nullable{System.Int32},System.Nullable{System.Int32})">
             <summary>
             This is the method that will be called in order to perform the 
             operations

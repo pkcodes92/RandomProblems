@@ -9,6 +9,12 @@
             The main class for this console application.
             </summary>
         </member>
+        <member name="M:BogoSort.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
         <member name="M:BogoSort.Program.Bogo_Sort(System.Collections.Generic.List{System.Int32},System.Boolean,System.Int32)">
             <summary>
             This is the main method for the Bogo_sort algorithm implementation.

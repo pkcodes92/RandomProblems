@@ -4,5 +4,23 @@
         <name>AvoidingObstacles</name>
     </assembly>
     <members>
+        <member name="T:AvoidingObstacles.Program">
+            <summary>
+            This is the program class.
+            </summary>
+        </member>
+        <member name="M:AvoidingObstacles.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:AvoidingObstacles.Program.AvoidObstacles(System.Int32[])">
+            <summary>
+            This method will be able to avoid necessary obstacles.
+            </summary>
+            <param name="inputArray">The incoming input array.</param>
+            <returns>An integer being returned.</returns>
+        </member>
     </members>
 </doc>

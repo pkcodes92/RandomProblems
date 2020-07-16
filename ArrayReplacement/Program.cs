@@ -6,9 +6,16 @@ namespace ArrayReplacement
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the program class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific based.</param>
+        public static void Main(string[] args)
         {
             int[] inputArray = new int[] { 1, 2, 1 };
 
@@ -35,15 +42,30 @@ namespace ArrayReplacement
         /// <param name="elemToReplace">An element that will be replaced in the integers</param>
         /// <param name="substitutionElem">What element is to be used for the substitution</param>
         /// <returns></returns>
-        static int[] ArrayReplace(int[] inputArray, int elemToReplace, int substitutionElem)
+        public static int[] ArrayReplace(int[] inputArray, int? elemToReplace, int? substitutionElem)
         {
+            if (inputArray is null)
+            {
+                throw new ArgumentNullException(nameof(inputArray));
+            }
+
+            if (elemToReplace is null)
+            {
+                throw new ArgumentNullException(nameof(elemToReplace));
+            }
+
+            if (substitutionElem is null)
+            {
+                throw new ArgumentNullException(nameof(substitutionElem));
+            }
+
             int[] temp = new int[inputArray.Length];
 
             for (int i = 0; i < inputArray.Length; i++)
             {
-                if (inputArray[i] == elemToReplace)
+                if (inputArray[i] == (int)elemToReplace)
                 {
-                    temp[i] += substitutionElem;
+                    temp[i] += (int)substitutionElem;
                 }
                 else
                 {

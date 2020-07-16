@@ -37,6 +37,11 @@ namespace AlternatingSums
         /// <returns>An integer array of sums.</returns>
         public static int[] FindAltSums(int[] a)
         {
+            if (a is null)
+            {
+                throw new ArgumentNullException(nameof(a));
+            }
+
             int[] weights = new int[2];
 
             for (int i = 0; i < a.Length; i++)

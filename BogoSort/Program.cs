@@ -11,9 +11,13 @@ namespace BogoSort
     /// <summary>
     /// The main class for this console application.
     /// </summary>
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             List<int> inputList = new List<int>() { 2, 1, 3, 0, 5 };
             Console.WriteLine("Sorting...");
