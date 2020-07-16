@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VariousOperations</name>
+    </assembly>
+    <members>
+        <member name="M:VariousOperations.Program.GetSum(System.Int32,System.Int32)">
+            <summary>
+            Adds the two numbers
+            </summary>
+            <param name="x">The first input</param>
+            <param name="y">The second input</param>
+            <returns>Sum</returns>
+        </member>
+        <member name="M:VariousOperations.Program.GetDiff(System.Int32,System.Int32)">
+            <summary>
+            Subtracts the two numbers
+            </summary>
+            <param name="x">The first input</param>
+            <param name="y">The second input</param>
+            <returns>Difference</returns>
+        </member>
+        <member name="M:VariousOperations.Program.GetProduct(System.Int32,System.Int32)">
+            <summary>
+            Multiplies the two numbers
+            </summary>
+            <param name="x">The first input</param>
+            <param name="y">The second input</param>
+            <returns>Product</returns>
+        </member>
+        <member name="M:VariousOperations.Program.GetQuotient(System.Int32,System.Int32)">
+            <summary>
+            Divides the two numbers
+            </summary>
+            <param name="x">The first input</param>
+            <param name="y">The second input</param>
+            <returns>Quotient</returns>
+        </member>
+        <member name="M:VariousOperations.Program.GetRemainder(System.Int32,System.Int32)">
+            <summary>
+            Computes the remainder between the two numbers
+            </summary>
+            <param name="x">The first input</param>
+            <param name="y">The second input</param>
+            <returns>Remainder</returns>
+        </member>
+    </members>
+</doc>

@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingSudoku\obj\Debug\
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingSudoku\obj\Debug\ValidatingSudoku.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingSudoku\obj\Debug\ValidatingSudoku.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingSudoku\obj\Debug\ValidatingSudoku.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingSudoku\bin\Debug\ValidatingSudoku.xml

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ValidatingSudoku</name>
+    </assembly>
+    <members>
+        <member name="M:ValidatingSudoku.Program.ValidatePuzzle(System.Int32[][])">
+            <summary>
+            This method will actually validate the
+            provided Sudoku puzzle
+            </summary>
+            <param name="grid">The 9 x 9 sudoku puzzle to validate</param>
+            <returns>A final boolean value either true or false</returns>
+        </member>
+    </members>
+</doc>
