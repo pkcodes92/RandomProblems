@@ -32,7 +32,13 @@ namespace AcronymMaker
         /// <returns>The compressed string - basically the acronym.</returns>
         public static string Abbreviate(string input)
         {
+            if (input is null)
+            {
+                throw new ArgumentNullException(nameof(input));
+            }
+
             var parts = input.Split(new char[] { ' ', '-', '_' });
+
             Console.WriteLine("parts: ");
             string res = "";
             foreach (var p in parts)
@@ -45,6 +51,7 @@ namespace AcronymMaker
             }
 
             Console.WriteLine("res: {0}", res);
+
             return res; 
         }
     }

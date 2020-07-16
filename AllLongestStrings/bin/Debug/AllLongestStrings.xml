@@ -4,6 +4,17 @@
         <name>AllLongestStrings</name>
     </assembly>
     <members>
+        <member name="T:AllLongestStrings.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:AllLongestStrings.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">The project specific arguments.</param>
+        </member>
         <member name="M:AllLongestStrings.Program.AllLongestStrings(System.String[])">
             <summary>
             Gets the longest strings inside of the input string

@@ -6,48 +6,37 @@
     <members>
         <member name="T:BogoSort.Program">
             <summary>
-            Write a C# program to sort a list of elements using Bogosort. 
-            
-            In computer science, bogosor is a particularly ineffective sorting algorithm based on the
-            generate and test paradigm. The algorithm successively generates permutations of its input
-            until it finds one that is sorted. It is not useful for sorting, but may be used for educational
-            purposes, to contrast it with other more realistic algorithms. 
-            
-            Two versions of the algorithm exist: a deterministic version that enumerates all permutations
-            until it hits a sorted one, and a randomized version that randomly permutes its input. An analogy
-            for the working of the latter version is to sort a deck of cards by throwing the deck into the air, 
-            picking the cards up at randmo, and repeating the process until the deck is sorted. Its name comes
-            from the word bogus
+            The main class for this console application.
             </summary>
         </member>
         <member name="M:BogoSort.Program.Bogo_Sort(System.Collections.Generic.List{System.Int32},System.Boolean,System.Int32)">
             <summary>
-            This is the main method for the Bogo_sort algorithm implementation
+            This is the main method for the Bogo_sort algorithm implementation.
             </summary>
-            <param name="list">The input list</param>
-            <param name="announce">Boolean determining whether or not console output should be displayed</param>
-            <param name="delay">What is the delay in between each time there is console output</param>
+            <param name="list">The input list.</param>
+            <param name="announce">Boolean determining whether or not console output should be displayed.</param>
+            <param name="delay">What is the delay in between each time there is console output.</param>
         </member>
         <member name="M:BogoSort.Program.Print_Iteration(System.Collections.Generic.List{System.Int32},System.Int32)">
             <summary>
-            This is to print the current iteration of the algorithm
+            This is to print the current iteration of the algorithm.
             </summary>
-            <param name="list">The input list of numbers</param>
-            <param name="iteration">The current iteration</param>
+            <param name="list">The input list of numbers.</param>
+            <param name="iteration">The current iteration.</param>
         </member>
         <member name="M:BogoSort.Program.IsSorted(System.Collections.Generic.List{System.Int32})">
             <summary>
-            This function would check whether or not the list is being sorted correctly
+            This function would check whether or not the list is being sorted correctly.
             </summary>
-            <param name="list">The input list</param>
-            <returns>A standard boolean value true or false</returns>
+            <param name="list">The input list.</param>
+            <returns>A standard boolean value true or false.</returns>
         </member>
         <member name="M:BogoSort.Program.Remap(System.Collections.Generic.List{System.Int32})">
             <summary>
-            This function generates a new list that will remap the permutations
+            This function generates a new list that will remap the permutations.
             </summary>
-            <param name="list">The input list</param>
-            <returns>A list of integer values</returns>
+            <param name="list">The input list.</param>
+            <returns>A list of integer values.</returns>
         </member>
     </members>
 </doc>

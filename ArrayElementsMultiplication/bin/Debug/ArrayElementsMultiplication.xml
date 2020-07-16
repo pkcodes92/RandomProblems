@@ -9,5 +9,11 @@
             This is the necessary driver class.
             </summary>
         </member>
+        <member name="M:ArrayElementsMultiplication.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
     </members>
 </doc>

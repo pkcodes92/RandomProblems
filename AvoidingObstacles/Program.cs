@@ -1,4 +1,8 @@
-﻿namespace AvoidingObstacles
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace AvoidingObstacles
 {
     using System;
     using System.Linq;

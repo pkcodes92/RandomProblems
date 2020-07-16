@@ -22,5 +22,23 @@
             <param name="serializationInfo">The serialization information.</param>
             <param name="streamingContext">The streaming context.</param>
         </member>
+        <member name="T:ArrayLeftRotation.LeftRotationQuantityException">
+            <summary>
+            This class is the array quantity exception class.
+            </summary>
+        </member>
+        <member name="M:ArrayLeftRotation.LeftRotationQuantityException.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message">The message to render on the screen.</param>
+        </member>
+        <member name="M:ArrayLeftRotation.LeftRotationQuantityException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            This is the protected constructor.
+            </summary>
+            <param name="serializationInfo">The serialization info.</param>
+            <param name="streamingContext">The current streaming context.</param>
+        </member>
     </members>
 </doc>

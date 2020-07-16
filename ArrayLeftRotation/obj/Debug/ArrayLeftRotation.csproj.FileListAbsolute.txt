@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\bin\Debug\ArrayLeftRotation.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.csprojAssemblyReference.cache

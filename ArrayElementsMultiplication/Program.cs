@@ -7,6 +7,10 @@
     /// </summary>
     public static class Program
     {
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
         public static void Main(string[] args)
         {
             int[] first_array = { 1, 3, -5, 4 };

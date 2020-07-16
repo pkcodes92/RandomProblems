@@ -1,4 +1,8 @@
-﻿namespace ArrayLeftRotation
+﻿// <copyright file="ArrayInputSizeException.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace ArrayLeftRotation
 {
     using System;
     using System.Runtime.Serialization;

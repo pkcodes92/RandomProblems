@@ -12,3 +12,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\AcronymMaker\obj\Debug\Acro
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AcronymMaker\obj\Debug\AcronymMaker.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AcronymMaker\obj\Debug\AcronymMaker.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AcronymMaker\bin\Debug\AcronymMaker.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AcronymMaker\obj\Debug\AcronymMaker.csprojAssemblyReference.cache

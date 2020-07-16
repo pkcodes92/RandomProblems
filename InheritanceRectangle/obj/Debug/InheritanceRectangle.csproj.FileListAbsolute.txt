@@ -11,3 +11,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\bin\De
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\obj\Debug\InheritanceRectangle.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\obj\Debug\InheritanceRectangle.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\obj\Debug\InheritanceRectangle.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\obj\Debug\InheritanceRectangle.csprojAssemblyReference.cache
