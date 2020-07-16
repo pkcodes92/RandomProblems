@@ -12,3 +12,10 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\ExtractElements.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\ExtractElements.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\ExtractElements.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\bin\Debug\ExtractElements.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\bin\Debug\ExtractElements.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\bin\Debug\ExtractElements.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\ExtractElements.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\ExtractElements.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\ExtractElements.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\ExtractElements.pdb

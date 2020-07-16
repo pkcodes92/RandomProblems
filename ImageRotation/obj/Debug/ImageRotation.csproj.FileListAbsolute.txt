@@ -4,3 +4,9 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ImageRotation\bin\Debug\Im
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ImageRotation\obj\Debug\ImageRotation.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ImageRotation\obj\Debug\ImageRotation.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ImageRotation\obj\Debug\ImageRotation.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\bin\Debug\ImageRotation.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\bin\Debug\ImageRotation.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\bin\Debug\ImageRotation.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\obj\Debug\ImageRotation.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\obj\Debug\ImageRotation.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\obj\Debug\ImageRotation.pdb

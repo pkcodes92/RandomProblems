@@ -1,0 +1,7 @@
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\bin\Debug\ParallelProgrammingMatrixMultiplication.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\bin\Debug\ParallelProgrammingMatrixMultiplication.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\bin\Debug\ParallelProgrammingMatrixMultiplication.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\obj\Debug\ParallelProgrammingMatrixMultiplication.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\obj\Debug\ParallelProgrammingMatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\obj\Debug\ParallelProgrammingMatrixMultiplication.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\obj\Debug\ParallelProgrammingMatrixMultiplication.pdb

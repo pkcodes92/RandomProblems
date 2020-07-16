@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtP4O3/Xk0sgu9RXqTj1bEd3oyMn4eFvwfgzhaBXfwaZ5PuEKlvQkOjHU7L6qAh65k9GlRthCBtW1s6nGbbFCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\DigitRemoval\\DigitRemoval.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -10,3 +10,9 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BubbleSort\bin\Debug\Bubbl
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BubbleSort\obj\Debug\BubbleSort.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BubbleSort\obj\Debug\BubbleSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BubbleSort\obj\Debug\BubbleSort.pdb

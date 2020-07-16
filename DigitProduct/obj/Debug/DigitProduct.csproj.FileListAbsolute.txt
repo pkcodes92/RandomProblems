@@ -10,3 +10,9 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitProduct\bin\Debug\Dig
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitProduct\obj\Debug\DigitProduct.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitProduct\obj\Debug\DigitProduct.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitProduct\obj\Debug\DigitProduct.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitProduct\bin\Debug\DigitProduct.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitProduct\bin\Debug\DigitProduct.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitProduct\bin\Debug\DigitProduct.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitProduct\obj\Debug\DigitProduct.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitProduct\obj\Debug\DigitProduct.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitProduct\obj\Debug\DigitProduct.pdb

@@ -11,3 +11,10 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debu
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.pdb
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\bin\Debug\ArrayLeftRotation.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\bin\Debug\ArrayLeftRotation.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\bin\Debug\ArrayLeftRotation.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayLeftRotation\obj\Debug\ArrayLeftRotation.pdb

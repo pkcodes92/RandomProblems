@@ -12,3 +12,10 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\Si
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SimilarArrays\bin\Debug\SimilarArrays.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SimilarArrays\bin\Debug\SimilarArrays.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SimilarArrays\bin\Debug\SimilarArrays.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SimilarArrays\obj\Debug\SimilarArrays.pdb

@@ -1,0 +1,6 @@
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\bin\Debug\SpecialPythagoreanTriplet.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\bin\Debug\SpecialPythagoreanTriplet.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\bin\Debug\SpecialPythagoreanTriplet.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.pdb

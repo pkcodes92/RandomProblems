@@ -12,3 +12,10 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debu
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\bin\Debug\DivisibleSumPairs.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DivisibleSumPairs\obj\Debug\DivisibleSumPairs.pdb

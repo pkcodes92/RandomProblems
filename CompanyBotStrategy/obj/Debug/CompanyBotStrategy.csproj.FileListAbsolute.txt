@@ -12,3 +12,10 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\obj\Deb
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\bin\Debug\CompanyBotStrategy.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\bin\Debug\CompanyBotStrategy.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\bin\Debug\CompanyBotStrategy.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CompanyBotStrategy\obj\Debug\CompanyBotStrategy.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5pUiQWz7c1vWu9U3II1KD5CA8u0hpGdtf5QmIYV2MYrfUoIctJOh/YRY1JdbNMgB4yDZtP5+aU65+SbVlmJ9yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\SpecialPythagoreanTriplet\\SpecialPythagoreanTriplet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

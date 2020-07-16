@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7r4fZdoM8t509WbF62896vXjQnCbqSsNQJc/Ws3AGF9/s/312dFXdagB94MvHzCwP0WcPVCg18i4LirhN2UShQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\BoxBlurring\\BoxBlurring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -5,3 +5,10 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debu
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\bin\Debug\WordProblemParser.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\bin\Debug\WordProblemParser.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\bin\Debug\WordProblemParser.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.pdb

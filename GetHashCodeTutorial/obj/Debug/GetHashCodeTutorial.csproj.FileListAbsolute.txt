@@ -10,3 +10,9 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\bin\De
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\bin\Debug\GetHashCodeTutorial.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\bin\Debug\GetHashCodeTutorial.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\bin\Debug\GetHashCodeTutorial.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\GetHashCodeTutorial\obj\Debug\GetHashCodeTutorial.pdb

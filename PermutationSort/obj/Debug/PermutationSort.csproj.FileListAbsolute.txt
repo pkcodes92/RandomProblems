@@ -5,3 +5,10 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PermutationSort\obj\Debug\
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PermutationSort\obj\Debug\PermutationSort.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PermutationSort\obj\Debug\PermutationSort.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PermutationSort\obj\Debug\PermutationSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PermutationSort\bin\Debug\PermutationSort.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PermutationSort\bin\Debug\PermutationSort.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PermutationSort\bin\Debug\PermutationSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PermutationSort\obj\Debug\PermutationSort.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PermutationSort\obj\Debug\PermutationSort.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PermutationSort\obj\Debug\PermutationSort.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PermutationSort\obj\Debug\PermutationSort.pdb
