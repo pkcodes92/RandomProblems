@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitReplacement\bin\Debug\DigitReplacement.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitReplacement\obj\Debug\DigitReplacement.csprojAssemblyReference.cache

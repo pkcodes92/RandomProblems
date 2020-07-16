@@ -17,3 +17,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debu
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\bin\Debug\ContainsDuplicates.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.csprojAssemblyReference.cache

@@ -5,3 +5,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\DynamicPartitions\obj\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DynamicPartitions\obj\Debug\DynamicPartitions.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DynamicPartitions\obj\Debug\DynamicPartitions.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DynamicPartitions\bin\Debug\DynamicPartitions.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DynamicPartitions\obj\Debug\DynamicPartitions.csprojAssemblyReference.cache

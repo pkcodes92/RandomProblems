@@ -620,6 +620,9 @@
         "net461": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true
       }
     },
     "frameworks": {

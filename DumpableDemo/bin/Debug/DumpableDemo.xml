@@ -4,5 +4,52 @@
         <name>DumpableDemo</name>
     </assembly>
     <members>
+        <member name="T:DumpableDemo.Fraction">
+            <summary>
+            This is the fraction class.
+            </summary>
+        </member>
+        <member name="F:DumpableDemo.Fraction.z">
+            <summary>
+            Public integers.
+            </summary>
+        </member>
+        <member name="F:DumpableDemo.Fraction.n">
+            <summary>
+            Public integers.
+            </summary>
+        </member>
+        <member name="M:DumpableDemo.Fraction.#ctor(System.Int32,System.Int32)">
+            <summary>
+            The default constructor.
+            </summary>
+            <param name="a">A random integer value.</param>
+            <param name="b">Another random integer value.</param>
+        </member>
+        <member name="P:DumpableDemo.Fraction.Name">
+            <summary>
+            Gets or sets the name.
+            </summary>
+        </member>
+        <member name="M:DumpableDemo.Fraction.Dump">
+            <summary>
+            This method writes to the console.
+            </summary>
+        </member>
+        <member name="T:DumpableDemo.IDumpable">
+            <summary>
+            This interface defines the various methods and properties which can be inherited.
+            </summary>
+        </member>
+        <member name="P:DumpableDemo.IDumpable.Name">
+            <summary>
+            Gets or sets the name.
+            </summary>
+        </member>
+        <member name="M:DumpableDemo.IDumpable.Dump">
+            <summary>
+            This method will be printing to the console.
+            </summary>
+        </member>
     </members>
 </doc>

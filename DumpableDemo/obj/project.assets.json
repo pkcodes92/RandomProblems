@@ -620,6 +620,9 @@
         "net472": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true
       }
     },
     "frameworks": {
