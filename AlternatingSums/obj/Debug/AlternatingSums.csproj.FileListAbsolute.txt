@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\A
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\AlternatingSums.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\AlternatingSums.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\AlternatingSums.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\bin\Debug\AlternatingSums.xml
