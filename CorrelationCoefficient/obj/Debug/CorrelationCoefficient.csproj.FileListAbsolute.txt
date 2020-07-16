@@ -8,7 +8,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\bin\Debug\CorrelationCoefficient.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\bin\Debug\CorrelationCoefficient.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\bin\Debug\CorrelationCoefficient.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CorrelationCoefficient\obj\Debug\CorrelationCoefficient.pdb

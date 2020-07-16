@@ -2,6 +2,9 @@
 {
     using System;
 
+    /// <summary>
+    /// This is the necessary driver class.
+    /// </summary>
     public static class Program
     {
         public static void Main(string[] args)

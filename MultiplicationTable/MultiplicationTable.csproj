@@ -51,6 +51,7 @@
       <Link>.editorconfig</Link>
     </None>
     <None Include="App.config" />
+    <AdditionalFiles Include="stylecop.json" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers">

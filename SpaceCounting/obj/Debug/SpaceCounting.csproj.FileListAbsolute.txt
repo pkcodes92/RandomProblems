@@ -8,7 +8,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\Sp
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\bin\Debug\SpaceCounting.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\bin\Debug\SpaceCounting.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\bin\Debug\SpaceCounting.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\SpaceCounting.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\SpaceCounting.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\SpaceCounting.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\SpaceCounting.pdb

@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debu
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\bin\Debug\AvoidingObstacles.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\bin\Debug\AvoidingObstacles.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\bin\Debug\AvoidingObstacles.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.pdb

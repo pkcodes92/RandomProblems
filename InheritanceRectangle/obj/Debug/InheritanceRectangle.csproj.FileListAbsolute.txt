@@ -8,7 +8,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\InheritanceRectangle\obj\D
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\bin\Debug\InheritanceRectangle.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\bin\Debug\InheritanceRectangle.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\bin\Debug\InheritanceRectangle.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\obj\Debug\InheritanceRectangle.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\obj\Debug\InheritanceRectangle.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\obj\Debug\InheritanceRectangle.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\InheritanceRectangle\obj\Debug\InheritanceRectangle.pdb

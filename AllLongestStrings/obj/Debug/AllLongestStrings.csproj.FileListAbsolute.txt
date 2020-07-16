@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AllLongestStrings\obj\Debu
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AllLongestStrings\bin\Debug\AllLongestStrings.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AllLongestStrings\bin\Debug\AllLongestStrings.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AllLongestStrings\bin\Debug\AllLongestStrings.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AllLongestStrings\obj\Debug\AllLongestStrings.pdb

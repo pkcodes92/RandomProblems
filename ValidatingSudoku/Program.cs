@@ -1,12 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace ValidatingSudoku
+﻿namespace ValidatingSudoku
 {
-    class Program
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    /// <summary>
+    /// This is the main driver class for the project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[][] grid = 
             {

@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\obj\De
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\bin\Debug\ValidatingIPAddress.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\bin\Debug\ValidatingIPAddress.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\bin\Debug\ValidatingIPAddress.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ValidatingIPAddress\obj\Debug\ValidatingIPAddress.pdb

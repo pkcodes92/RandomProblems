@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\bin\Debug\MatrixTraversal.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\bin\Debug\MatrixTraversal.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\bin\Debug\MatrixTraversal.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.pdb

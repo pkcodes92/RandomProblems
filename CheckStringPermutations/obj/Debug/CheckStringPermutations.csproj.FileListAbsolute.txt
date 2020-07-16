@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckStringPermutations\ob
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutations.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutations.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckStringPermutations\bin\Debug\CheckStringPermutations.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckStringPermutations\obj\Debug\CheckStringPermutations.pdb

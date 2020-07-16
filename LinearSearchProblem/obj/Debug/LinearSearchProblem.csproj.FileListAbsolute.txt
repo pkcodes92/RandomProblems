@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\De
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\bin\Debug\LinearSearchProblem.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\bin\Debug\LinearSearchProblem.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\bin\Debug\LinearSearchProblem.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.pdb

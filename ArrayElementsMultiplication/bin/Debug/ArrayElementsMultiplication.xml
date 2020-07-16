@@ -4,5 +4,10 @@
         <name>ArrayElementsMultiplication</name>
     </assembly>
     <members>
+        <member name="T:ArrayElementsMultiplication.Program">
+            <summary>
+            This is the necessary driver class.
+            </summary>
+        </member>
     </members>
 </doc>

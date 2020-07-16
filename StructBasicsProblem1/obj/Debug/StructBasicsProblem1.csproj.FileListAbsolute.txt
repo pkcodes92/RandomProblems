@@ -8,7 +8,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\obj\D
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\bin\Debug\StructBasicsProblem1.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\bin\Debug\StructBasicsProblem1.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\bin\Debug\StructBasicsProblem1.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\obj\Debug\StructBasicsProblem1.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\obj\Debug\StructBasicsProblem1.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\obj\Debug\StructBasicsProblem1.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StructBasicsProblem1\obj\Debug\StructBasicsProblem1.pdb

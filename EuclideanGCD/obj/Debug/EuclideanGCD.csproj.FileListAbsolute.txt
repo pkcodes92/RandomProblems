@@ -1,7 +1,6 @@
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\EuclideanGCD\bin\Debug\EuclideanGCD.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\EuclideanGCD\bin\Debug\EuclideanGCD.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\EuclideanGCD\bin\Debug\EuclideanGCD.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\EuclideanGCD\obj\Debug\EuclideanGCD.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\EuclideanGCD\obj\Debug\EuclideanGCD.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\EuclideanGCD\obj\Debug\EuclideanGCD.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\EuclideanGCD\obj\Debug\EuclideanGCD.pdb

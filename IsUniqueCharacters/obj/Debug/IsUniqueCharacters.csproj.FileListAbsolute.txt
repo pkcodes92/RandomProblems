@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Deb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\bin\Debug\IsUniqueCharacters.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\bin\Debug\IsUniqueCharacters.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\bin\Debug\IsUniqueCharacters.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.pdb

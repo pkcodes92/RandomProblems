@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MaximumDifference\obj\Debu
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\bin\Debug\MaximumDifference.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\bin\Debug\MaximumDifference.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\bin\Debug\MaximumDifference.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MaximumDifference\obj\Debug\MaximumDifference.pdb

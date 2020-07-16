@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\De
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\bin\Debug\FindTheHiddenNumber.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\bin\Debug\FindTheHiddenNumber.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\bin\Debug\FindTheHiddenNumber.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.pdb

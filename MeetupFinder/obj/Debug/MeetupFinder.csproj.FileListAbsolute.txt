@@ -8,7 +8,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MeetupFinder\obj\Debug\Mee
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MeetupFinder\bin\Debug\MeetupFinder.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MeetupFinder\bin\Debug\MeetupFinder.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MeetupFinder\bin\Debug\MeetupFinder.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\MeetupFinder\obj\Debug\MeetupFinder.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MeetupFinder\obj\Debug\MeetupFinder.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MeetupFinder\obj\Debug\MeetupFinder.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MeetupFinder\obj\Debug\MeetupFinder.pdb

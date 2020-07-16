@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\Diff
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\bin\Debug\DiffSquares.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\bin\Debug\DiffSquares.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\bin\Debug\DiffSquares.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiffSquares\obj\Debug\DiffSquares.pdb

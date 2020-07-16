@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\bin\Debug\FirstNotRepeatingCharacter.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\bin\Debug\FirstNotRepeatingCharacter.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\bin\Debug\FirstNotRepeatingCharacter.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.pdb

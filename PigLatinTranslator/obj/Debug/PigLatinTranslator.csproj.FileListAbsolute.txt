@@ -8,7 +8,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PigLatinTranslator\obj\Deb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\bin\Debug\PigLatinTranslator.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\bin\Debug\PigLatinTranslator.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\bin\Debug\PigLatinTranslator.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\obj\Debug\PigLatinTranslator.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\obj\Debug\PigLatinTranslator.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\obj\Debug\PigLatinTranslator.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\obj\Debug\PigLatinTranslator.pdb

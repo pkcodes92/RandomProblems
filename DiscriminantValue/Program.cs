@@ -1,13 +1,14 @@
 ﻿namespace DiscriminantValue
 {
     using System;
+    using System.Globalization;
 
     class Program
     {
         static void Main(string[] args)
         {
             Console.Write("Enter a value for A = ");
-            int a = int.Parse(Console.ReadLine());
+            int a = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.Write("Enter a value for B = ");
             int b = int.Parse(Console.ReadLine());

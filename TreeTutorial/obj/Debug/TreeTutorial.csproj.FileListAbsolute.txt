@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\TreeTutorial\obj\Debug\Tre
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\TreeTutorial\bin\Debug\TreeTutorial.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\TreeTutorial\bin\Debug\TreeTutorial.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\TreeTutorial\bin\Debug\TreeTutorial.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\TreeTutorial\obj\Debug\TreeTutorial.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\TreeTutorial\obj\Debug\TreeTutorial.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\TreeTutorial\obj\Debug\TreeTutorial.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\TreeTutorial\obj\Debug\TreeTutorial.pdb

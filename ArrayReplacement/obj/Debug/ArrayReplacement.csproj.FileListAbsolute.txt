@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ArrayReplacement\obj\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayReplacement\bin\Debug\ArrayReplacement.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayReplacement\bin\Debug\ArrayReplacement.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayReplacement\bin\Debug\ArrayReplacement.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayReplacement\obj\Debug\ArrayReplacement.pdb

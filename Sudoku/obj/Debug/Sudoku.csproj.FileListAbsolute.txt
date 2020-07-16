@@ -15,7 +15,6 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\Sudoku\obj\Debug\Sudoku.pd
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\Sudoku\bin\Debug\Sudoku.exe.config
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\Sudoku\bin\Debug\Sudoku.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\Sudoku\bin\Debug\Sudoku.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\Sudoku\obj\Debug\Sudoku.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\Sudoku\obj\Debug\Sudoku.pdb
