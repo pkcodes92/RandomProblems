@@ -7,6 +7,10 @@
     /// </summary>
     public static class Program
     {
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">The project specific arguments.</param>
         public static void Main(string[] args)
         {
             Console.WriteLine("Enter a phrase to abbreviate: ");
@@ -18,10 +22,10 @@
         }
 
         /// <summary>
-        /// Method that will abbreviate the input and create an acronym
+        /// Method that will abbreviate the input and create an acronym.
         /// </summary>
-        /// <param name="input">The string to be converted into an acronym</param>
-        /// <returns>The compressed string - basically the acronym</returns>
+        /// <param name="input">The string to be converted into an acronym.</param>
+        /// <returns>The compressed string - basically the acronym.</returns>
         public static string Abbreviate(string input)
         {
             var parts = input.Split(new char[] { ' ', '-', '_' });
