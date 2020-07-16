@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "M5CY2l3erffO4arClGtvOsDZq8feVGJ+01C76lLHDQx7Q7wwCVkaag2prdUwGkjctmLAG3uFod+lSFxOr0f7yA==",
+  "dgSpecHash": "PeCZ2jfsLvO4/5Ai0ShupLxXFcTrNRcNSKPUz4BoqV7buHhtRPzMmos3H3ICE6q+N6LIfEmaR76c0EkFoSW4hA==",
   "success": true,
   "projectFilePath": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\ArrayReplacement\\ArrayReplacement.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,8 @@
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
-    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512"
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
   "logs": []
 }

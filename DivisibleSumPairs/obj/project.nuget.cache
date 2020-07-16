@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N04HWApehCXMPdPaPHrfKukKEM9QKF7BP6BFh6Qpa0gUouAqIAQVd/vnKstyonyMCrsG8/mQm/fO0x9RB6eqqA==",
+  "dgSpecHash": "peo34KlVDv9Oc39AOScXgnX4E/EcV5VRokNwKGXslnX31r30DZDxly+Fpv4WmjA+FEFlKNXP8vOKwRNB6M5QpA==",
   "success": true,
   "projectFilePath": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\DivisibleSumPairs\\DivisibleSumPairs.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,8 @@
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
-    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512"
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
   "logs": []
 }

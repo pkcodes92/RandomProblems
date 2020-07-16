@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TxjC5OsLByHjH0Lc/ID22ENN+R+RPaQc60zifFAFWKD0qGd7tGDmAoJRAPb+E03KEamrht3VSg3p7Mx6g+OPLw==",
+  "dgSpecHash": "Mg19F2UyXT79qaX/KgFB1w8XS0HZbEg7TKh1H36utrZzu9qgL2Fqantb7uWELk5KfKJsswX//+ux6droge1jkw==",
   "success": true,
   "projectFilePath": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\ReturnLongestWord\\ReturnLongestWord.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,8 @@
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
-    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512"
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
   "logs": []
 }

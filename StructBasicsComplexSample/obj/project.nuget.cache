@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "59jOpeDqs4k9YtU9LDQO6110ehx4oEuImKiUnICH7wLCtnVymR75m9M0Lq9N2cjteDP8M9PveZZD5o6ORSO8uQ==",
+  "dgSpecHash": "xIQ+m04NzS1CIxLRpmSuOhJNwFs1IqmkZAoWBoIKk7VGYz6C6b0rvTOURsphDIPah7ekQ2n2+ldntDSrlLz+Gg==",
   "success": true,
   "projectFilePath": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\StructBasicsComplexSample\\StructBasicsComplexSample.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,8 @@
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
     "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
-    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512"
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
   ],
   "logs": []
 }

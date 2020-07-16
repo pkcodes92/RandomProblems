@@ -1,18 +1,6 @@
-﻿/*
- * Problem : A left rotation operation an array of size n shifts
- *           each of the array's elements 1 unit to the left. For
- *           example, if 2 left rotations are performed on [1, 2, 3, 4, 5],
- *           then the array would become [3, 4, 5, 1, 2]. Given
- *           an array of n integers and a number d, perform d left rotations
- *           on the array.  Then print the updated array as a single line
- *           of space-separated integers. 
- *           
- *  Source  : HackerRank/Cracking The Coding Interview
- *  
- *  Date    : 15th April 2018
- *  
- *  Project : ArrayLeftRotation
- */
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace ArrayLeftRotation
 {
@@ -46,13 +34,17 @@ namespace ArrayLeftRotation
             if(n >= 100000 || n < 1)
             {
                 throw new ArrayInputSizeException(string.Format("Cannot perform left rotations with the array size of: {0}", n));
-                Environment.Exit(1); 
+#pragma warning disable CS0162 // Unreachable code detected
+                Environment.Exit(1);
+#pragma warning restore CS0162 // Unreachable code detected
             }
 
             if(k > n || n < 1)
             {
                 throw new LeftRotationQuantityException(string.Format("Cannot perform {0} left rotations on the array length of {1}", k, n));
-                Environment.Exit(1); 
+#pragma warning disable CS0162 // Unreachable code detected
+                Environment.Exit(1);
+#pragma warning restore CS0162 // Unreachable code detected
             }
 
             for(i = 0; i < n; i++)

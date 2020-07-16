@@ -12,3 +12,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\obj\Debug\WordProblemParser.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\WordProblemParser\bin\Debug\WordProblemParser.xml

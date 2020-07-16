@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\obj\Debug\AvoidingObstacles.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AvoidingObstacles\bin\Debug\AvoidingObstacles.xml

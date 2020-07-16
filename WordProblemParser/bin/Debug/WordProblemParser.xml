@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WordProblemParser</name>
+    </assembly>
+    <members>
+        <member name="M:WordProblemParser.Program.Answer(System.String)">
+            <summary>
+            Parser to be able to get the necessary answer provided the 
+            actual word problem
+            </summary>
+            <param name="question">The full on question being asked</param>
+            <returns>An integer that represents the answer</returns>
+        </member>
+    </members>
+</doc>

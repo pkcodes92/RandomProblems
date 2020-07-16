@@ -26,3 +26,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\obj\Debug\ArrayElementsMultiplication.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ArrayElementsMultiplication\bin\Debug\ArrayElementsMultiplication.xml
