@@ -1,6 +1,6 @@
-﻿/*
- * Problem: Given array of integers, remove each kth element from it.
- */
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace ExtractElements
 {

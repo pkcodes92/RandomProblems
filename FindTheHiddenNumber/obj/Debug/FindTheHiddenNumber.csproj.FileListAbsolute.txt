@@ -18,3 +18,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\bin\Deb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindTheHiddenNumber\obj\Debug\FindTheHiddenNumber.csprojAssemblyReference.cache
