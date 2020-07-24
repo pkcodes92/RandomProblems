@@ -4,6 +4,9 @@
     using System.Collections.Generic;
     using System.Linq;
 
+    /// <summary>
+    /// This is the main driver class
+    /// </summary>
     public static class Program
     {
         public static void Main(string[] args)
@@ -32,6 +35,11 @@
             }
         }
 
+        /// <summary>
+        /// This method will be leveraging the System.Linq namespace to be able to sort the list of tuples.
+        /// </summary>
+        /// <param name="originalTupleList">The original list of tuples.</param>
+        /// <returns>A list of tuples gets returned.</returns>
         private static List<Tuple<int, string>> SortThroughLinq(List<Tuple<int, string>> originalTupleList)
         {
             return originalTupleList.OrderByDescending(x => x.Item1).ToList();

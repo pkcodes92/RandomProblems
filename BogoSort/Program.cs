@@ -36,6 +36,11 @@ namespace BogoSort
         /// <param name="delay">What is the delay in between each time there is console output.</param>
         static void Bogo_Sort(List<int> list, bool announce, int delay)
         {
+            if (list is null)
+            {
+                throw new ArgumentNullException(nameof(list));
+            }
+
             int iteration = 0;
             while (!IsSorted(list))
             {
@@ -106,6 +111,11 @@ namespace BogoSort
         /// <returns>A list of integer values.</returns>
         static List<int> Remap(List<int> list)
         {
+            if (list is null)
+            {
+                throw new ArgumentNullException(nameof(list));
+            }
+
             int temp;
             List<int> newList = new List<int>();
             Random r = new Random();
