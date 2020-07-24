@@ -4,9 +4,15 @@
         <name>FactoryDesignPattern</name>
     </assembly>
     <members>
+        <member name="T:FactoryDesignPattern.CardFactory">
+            <summary>
+            This is the abstract class that will create credit cards.
+            </summary>
+        </member>
         <member name="T:FactoryDesignPattern.CreditCard">
             <summary>
             This class represents the 'Product' class which is to be generated.
+            This is the main base abstraction that all card types would be created from.
             </summary>
         </member>
         <member name="P:FactoryDesignPattern.CreditCard.CardType">
@@ -24,6 +30,17 @@
             Gets or sets the annual charge.
             </summary>
         </member>
+        <member name="T:FactoryDesignPattern.MoneyBackCreditCard">
+            <summary>
+            This class models the money back credit card - a 'ConcreteProduct' class.
+            This class basically is one of the types that can be created.
+            </summary>
+        </member>
+        <member name="T:FactoryDesignPattern.PlatinumCreditCard">
+            <summary>
+            Another 'ConcreteProduct' class which can be created on its own.
+            </summary>
+        </member>
         <member name="T:FactoryDesignPattern.Program">
             <summary>
             This is the main driver class.
@@ -34,6 +51,11 @@
             This is the main driver method.
             </summary>
             <param name="args">Project specific, command line arguments.</param>
+        </member>
+        <member name="T:FactoryDesignPattern.TitaniumCreditCard">
+            <summary>
+            Another 'ConcreteProduct' class.
+            </summary>
         </member>
     </members>
 </doc>
