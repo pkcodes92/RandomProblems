@@ -1,10 +1,21 @@
-﻿namespace DigitRemoval
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace DigitRemoval
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specifc arguments.</param>
+        public static void Main(string[] args)
         {
             var n = 152;
             int maxValue = DeleteDigit(n);
@@ -16,7 +27,12 @@
             Console.ReadKey();
         }
 
-        static int DeleteDigit(int n)
+        /// <summary>
+        /// This method will delete the digit.
+        /// </summary>
+        /// <param name="n">Digit deleted.</param>
+        /// <returns>A final integer which is the maximum value.</returns>
+        public static int DeleteDigit(int n)
         {
             string s = n.ToString();
             int i; 

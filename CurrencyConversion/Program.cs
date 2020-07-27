@@ -1,10 +1,21 @@
-﻿namespace CurrencyConversion
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace CurrencyConversion
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific commmand line arguments.</param>
+        public static void Main(string[] args)
         {
             int choice;
             Console.WriteLine("Enter your choice: \n 1- Dollar to Rupee \n 2- Euro to Rupee \n 3- Malaysian Ringgit to Rupee ");

@@ -4,5 +4,16 @@
         <name>DiffSquares</name>
     </assembly>
     <members>
+        <member name="T:DiffSquares.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:DiffSquares.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
     </members>
 </doc>

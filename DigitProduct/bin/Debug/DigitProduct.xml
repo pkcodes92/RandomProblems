@@ -4,5 +4,16 @@
         <name>DigitProduct</name>
     </assembly>
     <members>
+        <member name="T:DigitProduct.Program">
+            <summary>
+            This is the main class for the project.
+            </summary>
+        </member>
+        <member name="M:DigitProduct.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
     </members>
 </doc>

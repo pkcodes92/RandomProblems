@@ -5,3 +5,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\obj\Debu
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\obj\Debug\CurrencyConversion.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\obj\Debug\CurrencyConversion.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\bin\Debug\CurrencyConversion.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\obj\Debug\CurrencyConversion.csprojAssemblyReference.cache

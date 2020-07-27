@@ -4,5 +4,26 @@
         <name>DigitReplacement</name>
     </assembly>
     <members>
+        <member name="T:DigitReplacement.Program">
+            <summary>
+            This is the main driver class.
+            
+            Problem: digitDegree is all about taking the number of digits required in a number and finding out
+            how many digits are required to turn a multi-digit number into a single digit number.
+            </summary>
+        </member>
+        <member name="M:DigitReplacement.Program.Main(System.String[])">
+            <summary>
+            The main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:DigitReplacement.Program.DigitDegree(System.Int32)">
+            <summary>
+            The method which finds out the number of digits required to turn a multi-digit number into a single digit number.
+            </summary>
+            <param name="n">The number of condense.</param>
+            <returns>The total number of moves.</returns>
+        </member>
     </members>
 </doc>

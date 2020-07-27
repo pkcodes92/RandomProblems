@@ -4,5 +4,23 @@
         <name>DigitRemoval</name>
     </assembly>
     <members>
+        <member name="T:DigitRemoval.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:DigitRemoval.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specifc arguments.</param>
+        </member>
+        <member name="M:DigitRemoval.Program.DeleteDigit(System.Int32)">
+            <summary>
+            This method will delete the digit.
+            </summary>
+            <param name="n">Digit deleted.</param>
+            <returns>A final integer which is the maximum value.</returns>
+        </member>
     </members>
 </doc>
