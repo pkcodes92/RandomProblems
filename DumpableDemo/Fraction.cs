@@ -13,7 +13,7 @@
         public int z, n;
         
         /// <summary>
-        /// The default constructor.
+        /// The default constructor to create an instance of <see cref="Fraction"/>.
         /// </summary>
         /// <param name="a">A random integer value.</param>
         /// <param name="b">Another random integer value.</param>

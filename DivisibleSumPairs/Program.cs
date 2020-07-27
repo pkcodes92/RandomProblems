@@ -1,3 +1,7 @@
+// <copyright file = "Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace DivisibleSumPairs
 {
     using System;
@@ -6,9 +10,16 @@ namespace DivisibleSumPairs
     using System.Text;
     using System.Threading.Tasks;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             string[] nk = Console.ReadLine().Split(' ');
 
@@ -25,7 +36,14 @@ namespace DivisibleSumPairs
             Console.ReadKey(); 
         }
 
-        static int FindDivisiblePairs(int n, int k, int[] ar)
+        /// <summary>
+        /// This method will find the divisible pairs.
+        /// </summary>
+        /// <param name="n">The value of n.</param>
+        /// <param name="k">The value of k.</param>
+        /// <param name="ar">The array of integers.</param>
+        /// <returns>The number of divisible pairs.</returns>
+        public static int FindDivisiblePairs(int n, int k, int[] ar)
         {
             var divisiblePairCnt = 0;
 

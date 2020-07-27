@@ -12,3 +12,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug\DiscriminantValue.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug\DiscriminantValue.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiscriminantValue\bin\Debug\DiscriminantValue.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DiscriminantValue\obj\Debug\DiscriminantValue.csprojAssemblyReference.cache

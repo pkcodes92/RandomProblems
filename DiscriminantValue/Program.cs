@@ -1,4 +1,8 @@
-﻿namespace DiscriminantValue
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace DiscriminantValue
 {
     using System;
     using System.Globalization;

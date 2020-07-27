@@ -21,7 +21,7 @@
         </member>
         <member name="M:DumpableDemo.Fraction.#ctor(System.Int32,System.Int32)">
             <summary>
-            The default constructor.
+            The default constructor to create an instance of <see cref="T:DumpableDemo.Fraction"/>.
             </summary>
             <param name="a">A random integer value.</param>
             <param name="b">Another random integer value.</param>
@@ -50,6 +50,30 @@
             <summary>
             This method will be printing to the console.
             </summary>
+        </member>
+        <member name="M:DumpableDemo.Person.#ctor(System.String,System.String,System.Int32)">
+            <summary>
+            Creates an instance of the <see cref="T:DumpableDemo.Person"/> class.
+            </summary>
+            <param name="name">The name of the person.</param>
+            <param name="address">The address of the person.</param>
+            <param name="phone">The phone of the person.</param>
+        </member>
+        <member name="P:DumpableDemo.Person.Name">
+            <summary>
+            Gets or sets the name.
+            </summary>
+        </member>
+        <member name="T:DumpableDemo.Program">
+            <summary>
+            This is the main driver class for the project.
+            </summary>
+        </member>
+        <member name="M:DumpableDemo.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
         </member>
     </members>
 </doc>
