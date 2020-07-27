@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\obj\Debug\
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\bin\Debug\CheckSumOfThirty.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumOfThirty\obj\Debug\CheckSumOfThirty.csprojAssemblyReference.cache

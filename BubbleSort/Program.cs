@@ -7,9 +7,16 @@ namespace BubbleSort
     using System;
     using System.Linq;
 
-    class Program
+    /// <summary>
+    /// This is the main class for the program.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int n = Convert.ToInt32(Console.ReadLine());
             string[] a_temp = Console.ReadLine().Split(' ');
@@ -22,8 +29,24 @@ namespace BubbleSort
             Console.WriteLine("Last Element: {0}", a.Last());
         }
 
-        static int BubbleSortArray(int[] arr, int n)
+        /// <summary>
+        /// This method performs the bubble sort algorithm implementation.
+        /// </summary>
+        /// <param name="arr">The input array.</param>
+        /// <param name="n">The length of the array.</param>
+        /// <returns>Having the number of swaps taken to sort the array.</returns>
+        public static int BubbleSortArray(int[] arr, int n)
         {
+            if (arr is null)
+            {
+                throw new ArgumentNullException(nameof(arr));
+            }
+
+            if (n == 0)
+            {
+                throw new ArgumentNullException(nameof(n));
+            }
+
             int i, j, temp;
             int swappedCount = 0;
             bool swapped;

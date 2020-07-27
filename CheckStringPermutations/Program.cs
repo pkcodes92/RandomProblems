@@ -6,9 +6,16 @@ namespace CheckStringPermutations
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Please provide a value for a string, s: ");
             string s = Console.ReadLine();

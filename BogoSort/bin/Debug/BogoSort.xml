@@ -23,7 +23,7 @@
             <param name="announce">Boolean determining whether or not console output should be displayed.</param>
             <param name="delay">What is the delay in between each time there is console output.</param>
         </member>
-        <member name="M:BogoSort.Program.Print_Iteration(System.Collections.Generic.List{System.Int32},System.Int32)">
+        <member name="M:BogoSort.Program.PrintIteration(System.Collections.Generic.List{System.Int32},System.Int32)">
             <summary>
             This is to print the current iteration of the algorithm.
             </summary>

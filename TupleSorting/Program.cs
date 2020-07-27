@@ -9,6 +9,10 @@
     /// </summary>
     public static class Program
     {
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">The project specific arguments.</param>
         public static void Main(string[] args)
         {
             var originalTupleList = new List<Tuple<int, string>>

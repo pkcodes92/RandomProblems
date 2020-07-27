@@ -4,6 +4,17 @@
         <name>CheckSumInRange</name>
     </assembly>
     <members>
+        <member name="T:CheckSumInRange.Program">
+            <summary>
+            This is the main class for this project.
+            </summary>
+        </member>
+        <member name="M:CheckSumInRange.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
         <member name="M:CheckSumInRange.Program.CheckSum(System.Int32,System.Int32)">
             <summary>
             Finding the sum of two numbers and checking if the sum

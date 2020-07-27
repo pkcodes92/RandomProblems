@@ -9,9 +9,13 @@ namespace ClosestElementsProblem
     /// <summary>
     /// This is the main driver class.
     /// </summary>
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[] arr = { 12, 16, 22, 30, 35, 39, 42, 45, 48, 50, 53, 55, 56 };
 
@@ -25,7 +29,14 @@ namespace ClosestElementsProblem
             Console.ReadKey();
         }
 
-        static void PrintKClosest(int[] arr, int x, int k, int n)
+        /// <summary>
+        /// This method will get the k closest elements together.
+        /// </summary>
+        /// <param name="arr">The array of numbers.</param>
+        /// <param name="x">The integer to find.</param>
+        /// <param name="k">The number of the closest numbers.</param>
+        /// <param name="n">The length of the array.</param>
+        public static void PrintKClosest(int[] arr, int x, int k, int n)
         {
             // Finding the crossover point
             int l = FindCrossOver(arr, 0, n - 1, x);
@@ -76,7 +87,15 @@ namespace ClosestElementsProblem
             }
         }
 
-        static int FindCrossOver(int[] arr, int low, int high, int x)
+        /// <summary>
+        /// This method gets the crossover.
+        /// </summary>
+        /// <param name="arr">The array.</param>
+        /// <param name="low">The lower bound.</param>
+        /// <param name="high">The upper bound.</param>
+        /// <param name="x">The integer to find.</param>
+        /// <returns>The integer value of the crossover.</returns>
+        public static int FindCrossOver(int[] arr, int low, int high, int x)
         {
             // Base cases
             // x is greater than all

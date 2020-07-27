@@ -46,7 +46,7 @@ namespace BogoSort
             {
                 if (announce)
                 {
-                    Print_Iteration(list, iteration);
+                    PrintIteration(list, iteration);
                 }
 
                 if (delay != 0)
@@ -58,7 +58,7 @@ namespace BogoSort
                 iteration++;
             }
 
-            Print_Iteration(list, iteration);
+            PrintIteration(list, iteration);
             Console.WriteLine();
             Console.WriteLine("Bogo_sort completed after {0} iterations", iteration);
 
@@ -71,7 +71,7 @@ namespace BogoSort
         /// </summary>
         /// <param name="list">The input list of numbers.</param>
         /// <param name="iteration">The current iteration.</param>
-        static void Print_Iteration(List<int> list, int iteration)
+        static void PrintIteration(List<int> list, int iteration)
         {
             Console.Write("Bogo_sort iteration {0}: ", iteration);
             for (int i = 0; i < list.Count; i++)

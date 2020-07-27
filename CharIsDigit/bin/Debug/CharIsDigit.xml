@@ -4,6 +4,17 @@
         <name>CharIsDigit</name>
     </assembly>
     <members>
+        <member name="T:CharIsDigit.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:CharIsDigit.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
         <member name="M:CharIsDigit.Program.IsDigit(System.Char)">
             <summary>
             Method that would return a value making the determination whether or not

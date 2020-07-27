@@ -6,9 +6,16 @@ namespace CheckSumOfThirty
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine(CheckSum(15, 15));
             Console.WriteLine(CheckSum(10, 20));

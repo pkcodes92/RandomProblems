@@ -4,5 +4,24 @@
         <name>BubbleSort</name>
     </assembly>
     <members>
+        <member name="T:BubbleSort.Program">
+            <summary>
+            This is the main class for the program.
+            </summary>
+        </member>
+        <member name="M:BubbleSort.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:BubbleSort.Program.BubbleSortArray(System.Int32[],System.Int32)">
+            <summary>
+            This method performs the bubble sort algorithm implementation.
+            </summary>
+            <param name="arr">The input array.</param>
+            <param name="n">The length of the array.</param>
+            <returns>Having the number of swaps taken to sort the array.</returns>
+        </member>
     </members>
 </doc>

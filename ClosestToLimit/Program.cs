@@ -6,9 +6,16 @@ namespace ClosestToLimit
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("\nInput first integer: ");
             int x = Convert.ToInt32(Console.ReadLine());
@@ -35,7 +42,7 @@ namespace ClosestToLimit
         /// <param name="x">User provided input for the first number</param>
         /// <param name="limit">User provided input for the limit integer</param>
         /// <returns>A difference of limit from the variable x</returns>
-        static int CalcDifference(int x, int limit)
+        public static int CalcDifference(int x, int limit)
         {
             return Math.Abs(x - limit); 
         }
@@ -49,7 +56,7 @@ namespace ClosestToLimit
         /// <param name="x">The first integer provided by the user</param>
         /// <param name="y">The second integer provided by the user</param>
         /// <returns>An integer which is the number that is closest to the limit</returns>
-        static int FindResult(int val1, int val2, int x, int y)
+        public static int FindResult(int val1, int val2, int x, int y)
         {
             if (val1 == val2)
             {

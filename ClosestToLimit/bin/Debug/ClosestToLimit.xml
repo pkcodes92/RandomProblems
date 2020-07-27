@@ -4,6 +4,17 @@
         <name>ClosestToLimit</name>
     </assembly>
     <members>
+        <member name="T:ClosestToLimit.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:ClosestToLimit.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
         <member name="M:ClosestToLimit.Program.CalcDifference(System.Int32,System.Int32)">
             <summary>
             This is to find the difference between two numbers

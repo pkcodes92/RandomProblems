@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBl
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\bin\Debug\BoxBlurring.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.csprojAssemblyReference.cache

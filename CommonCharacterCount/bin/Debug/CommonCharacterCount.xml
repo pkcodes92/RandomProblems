@@ -4,6 +4,17 @@
         <name>CommonCharacterCount</name>
     </assembly>
     <members>
+        <member name="T:CommonCharacterCount.Program">
+            <summary>
+            This is the driver class.
+            </summary>
+        </member>
+        <member name="M:CommonCharacterCount.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
         <member name="M:CommonCharacterCount.Program.FindCommonCount(System.String,System.String)">
             <summary>
             Method to see how many characters are the same between

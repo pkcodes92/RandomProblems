@@ -4,6 +4,17 @@
         <name>CheckSumOfThirty</name>
     </assembly>
     <members>
+        <member name="T:CheckSumOfThirty.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:CheckSumOfThirty.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
         <member name="M:CheckSumOfThirty.Program.CheckSum(System.Int32,System.Int32)">
             <summary>
             Checks the sum of the numbers to see if it's less than thirty

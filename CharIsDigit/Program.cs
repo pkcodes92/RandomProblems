@@ -6,9 +6,16 @@ namespace CharIsDigit
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter an input to find out if it is a number: ");
             char symbol = Convert.ToChar(Console.ReadLine());

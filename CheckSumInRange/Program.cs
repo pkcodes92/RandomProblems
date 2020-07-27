@@ -6,9 +6,16 @@ namespace CheckSumInRange
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine(CheckSum(10, 19));
             Console.WriteLine(CheckSum(10, 2));

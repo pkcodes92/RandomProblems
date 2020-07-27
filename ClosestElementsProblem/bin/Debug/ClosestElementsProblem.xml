@@ -9,5 +9,30 @@
             This is the main driver class.
             </summary>
         </member>
+        <member name="M:ClosestElementsProblem.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:ClosestElementsProblem.Program.PrintKClosest(System.Int32[],System.Int32,System.Int32,System.Int32)">
+            <summary>
+            This method will get the k closest elements together.
+            </summary>
+            <param name="arr">The array of numbers.</param>
+            <param name="x">The integer to find.</param>
+            <param name="k">The number of the closest numbers.</param>
+            <param name="n">The length of the array.</param>
+        </member>
+        <member name="M:ClosestElementsProblem.Program.FindCrossOver(System.Int32[],System.Int32,System.Int32,System.Int32)">
+            <summary>
+            This method gets the crossover.
+            </summary>
+            <param name="arr">The array.</param>
+            <param name="low">The lower bound.</param>
+            <param name="high">The upper bound.</param>
+            <param name="x">The integer to find.</param>
+            <returns>The integer value of the crossover.</returns>
+        </member>
     </members>
 </doc>

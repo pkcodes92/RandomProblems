@@ -1,8 +1,15 @@
+// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace CountTheIslands
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
         // Number of rows and columns
         static readonly int ROW = 5;
@@ -10,13 +17,13 @@ namespace CountTheIslands
 
         /// <summary>
         /// A function to check if a given cell (row, col)
-        /// can be included in the DFS (Depth-First-Search)
+        /// can be included in the DFS (Depth-First-Search).
         /// </summary>
-        /// <param name="map">The map for the islands to be counted</param>
-        /// <param name="row">The row to look at</param>
-        /// <param name="col">The column to look at</param>
-        /// <param name="visited">The 2D array to see if an island was previously visited</param>
-        /// <returns>A boolean variable marking a cell safe</returns>
+        /// <param name="map">The map for the islands to be counted.</param>
+        /// <param name="row">The row to look at.</param>
+        /// <param name="col">The column to look at.</param>
+        /// <param name="visited">The 2D array to see if an island was previously visited.</param>
+        /// <returns>A boolean variable marking a cell safe.</returns>
         static bool IsSafe(int[,] map, int row, int col, bool[,] visited)
         {
             // Row number is in range,
@@ -29,12 +36,12 @@ namespace CountTheIslands
         /// <summary>
         /// A utility function to conduct the Depth-First-Search for a
         /// 2D boolean matrix. It only considers the 8 neighbors as
-        /// adjacent vertices
+        /// adjacent vertices.
         /// </summary>
-        /// <param name="map">The map of the islands to be counted</param>
-        /// <param name="row">The row to look at</param>
-        /// <param name="col">The column to look at</param>
-        /// <param name="visted">The 2D boolean array to see if an island was previously visited</param>
+        /// <param name="map">The map of the islands to be counted.</param>
+        /// <param name="row">The row to look at.</param>
+        /// <param name="col">The column to look at.</param>
+        /// <param name="visited">The 2D boolean array to see if an island was previously visited.</param>
         static void DFS(int[,] map, int row, int col, bool[,] visited)
         {
             // These arrays are used to get row and column numbers
@@ -84,7 +91,11 @@ namespace CountTheIslands
             return count;
         }
 
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[,] map = new int[,]
             {
