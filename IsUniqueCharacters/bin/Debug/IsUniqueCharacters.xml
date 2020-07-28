@@ -6,9 +6,14 @@
     <members>
         <member name="T:IsUniqueCharacters.Program">
             <summary>
-            Problem - Implement an algorithm to determine if a string has all unique
-            characters. What if you cannot use additional data structures?
+            This is the main class for the project.
             </summary>
+        </member>
+        <member name="M:IsUniqueCharacters.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
         </member>
         <member name="M:IsUniqueCharacters.Program.ContainsUniqueChars(System.String)">
             <summary>

@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debu
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\bin\Debug\IsUniqueCharacters.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\IsUniqueCharacters\obj\Debug\IsUniqueCharacters.csprojAssemblyReference.cache

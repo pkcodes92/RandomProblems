@@ -11,3 +11,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\obj\Debug\Ima
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\obj\Debug\ImageRotation.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\obj\Debug\ImageRotation.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\bin\Debug\ImageRotation.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ImageRotation\obj\Debug\ImageRotation.csprojAssemblyReference.cache

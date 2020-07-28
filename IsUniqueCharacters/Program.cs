@@ -1,14 +1,21 @@
+// <copyright file = "Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace IsUniqueCharacters
 {
     using System;
 
     /// <summary>
-    /// Problem - Implement an algorithm to determine if a string has all unique
-    /// characters. What if you cannot use additional data structures?
+    /// This is the main class for the project.
     /// </summary>
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Please provide a string to analyze: ");
 

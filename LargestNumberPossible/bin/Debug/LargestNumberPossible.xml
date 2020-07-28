@@ -4,6 +4,17 @@
         <name>LargestNumberPossible</name>
     </assembly>
     <members>
+        <member name="T:LargestNumberPossible.Program">
+            <summary>
+            This is the main class for the project.
+            </summary>
+        </member>
+        <member name="M:LargestNumberPossible.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">The project specific arguments.</param>
+        </member>
         <member name="M:LargestNumberPossible.Program.FindLargestNumber(System.Int32)">
             <summary>
             Ability to find the largest number
