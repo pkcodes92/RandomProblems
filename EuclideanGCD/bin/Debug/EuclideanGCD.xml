@@ -4,6 +4,11 @@
         <name>EuclideanGCD</name>
     </assembly>
     <members>
+        <member name="T:EuclideanGCD.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
         <member name="M:EuclideanGCD.Program.Main(System.String[])">
             <summary>
             This is the main point of execution for the program

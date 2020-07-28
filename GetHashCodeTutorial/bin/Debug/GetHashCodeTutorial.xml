@@ -4,12 +4,68 @@
         <name>GetHashCodeTutorial</name>
     </assembly>
     <members>
+        <member name="T:GetHashCodeTutorial.Number">
+            <summary>
+            This is the definition of our struct.
+            </summary>
+        </member>
+        <member name="M:GetHashCodeTutorial.Number.#ctor(System.Int32)">
+            <summary>
+            This is the number constructor.
+            </summary>
+            <param name="value">The number to construct the struct from.</param>
+        </member>
+        <member name="P:GetHashCodeTutorial.Number.Value">
+            <summary>
+            Gets the numerical value.
+            </summary>
+        </member>
+        <member name="M:GetHashCodeTutorial.Number.Equals(System.Object)">
+            <summary>
+            Method to check if the values are equal.
+            </summary>
+            <param name="obj">The object to check.</param>
+            <returns>A boolean value that determines whether or not the entities are equal.</returns>
+        </member>
         <member name="M:GetHashCodeTutorial.Number.GetHashCode">
             <summary>
             GetHashCode() method must be overridden along with 
             the Equals() method
             </summary>
             <returns>Integer</returns>
+        </member>
+        <member name="M:GetHashCodeTutorial.Number.ToString">
+            <summary>
+            This method outputs to a string.
+            </summary>
+            <returns>The string of the value.</returns>
+        </member>
+        <member name="M:GetHashCodeTutorial.Number.op_Equality(GetHashCodeTutorial.Number,GetHashCodeTutorial.Number)">
+            <summary>
+            This method will check if the entities are equal.
+            </summary>
+            <param name="left">The left value.</param>
+            <param name="right">The right value.</param>
+            <returns>A boolean value that will note if the left and right are equal.</returns>
+        </member>
+        <member name="M:GetHashCodeTutorial.Number.op_Inequality(GetHashCodeTutorial.Number,GetHashCodeTutorial.Number)">
+            <summary>
+            This method will tell if the left and right entities are not equal.
+            </summary>
+            <param name="left">The left value.</param>
+            <param name="right">The right value.</param>
+            <returns>A boolean value result.</returns>
+        </member>
+        <member name="T:GetHashCodeTutorial.Program">
+            <summary>
+            This is the main class for execution.
+            </summary>
+        </member>
+        <member name="M:GetHashCodeTutorial.Program.Main(System.String[])">
+            <summary>
+            This is the main method/point of execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
         </member>
     </members>
 </doc>

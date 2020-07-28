@@ -18,3 +18,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\FibonacciNumbers\bin\Debug\
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FibonacciNumbers\obj\Debug\FibonacciNumbers.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FibonacciNumbers\obj\Debug\FibonacciNumbers.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FibonacciNumbers\bin\Debug\FibonacciNumbers.xml

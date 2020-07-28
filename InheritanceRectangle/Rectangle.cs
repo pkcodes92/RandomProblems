@@ -1,4 +1,8 @@
-﻿namespace InheritanceRectangle
+﻿// <copyright file = "Rectangle.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace InheritanceRectangle
 {
     using System;
 

@@ -18,3 +18,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\bin\Deb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.csprojAssemblyReference.cache

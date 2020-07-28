@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FindTheHiddenNumber</name>
+    </assembly>
+    <members>
+        <member name="T:FindTheHiddenNumber.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:FindTheHiddenNumber.Program.Main(System.String[])">
+            <summary>
+            The main driver method.
+            </summary>
+            <param name="args">Project specific command line arguments.</param>
+        </member>
+        <member name="M:FindTheHiddenNumber.Program.FindHiddenNumber(System.Int32[],System.Int32)">
+            <summary>
+            This method finds the hidden number.
+            </summary>
+            <param name="a">An array of integers.</param>
+            <param name="n">An integer value to find.</param>
+            <returns>An integer value when the value is being found.</returns>
+        </member>
+    </members>
+</doc>

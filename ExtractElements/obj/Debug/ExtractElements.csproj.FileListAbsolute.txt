@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\E
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\ExtractElements.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\ExtractElements.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\bin\Debug\ExtractElements.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ExtractElements\obj\Debug\ExtractElements.csprojAssemblyReference.cache

@@ -1,4 +1,8 @@
-﻿namespace DumpableDemo
+﻿// <copyright file = "Fraction.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace DumpableDemo
 {
     using System;
 

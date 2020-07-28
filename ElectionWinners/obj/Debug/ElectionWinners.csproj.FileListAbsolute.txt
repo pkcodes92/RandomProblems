@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ElectionWinners\obj\Debug\E
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ElectionWinners\bin\Debug\ElectionWinners.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ElectionWinners\obj\Debug\ElectionWinners.csprojAssemblyReference.cache

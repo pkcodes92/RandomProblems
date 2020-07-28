@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FibonacciNumbers</name>
+    </assembly>
+    <members>
+        <member name="T:FibonacciNumbers.Program">
+            <summary>
+            This is the main class for this project.
+            </summary>
+        </member>
+        <member name="M:FibonacciNumbers.Program.Main(System.String[])">
+            <summary>
+            This is the main point of entry when it comes to the execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

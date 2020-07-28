@@ -1,10 +1,21 @@
+// <copyright file = "Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace ImageRotation
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method/main point of execution.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[][] inputArray = new int[][]
             {
