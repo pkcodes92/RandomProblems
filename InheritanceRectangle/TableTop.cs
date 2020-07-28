@@ -14,7 +14,6 @@
         /// <param name="w">This is the width.</param>
         public TableTop(double l, double w): base(l, w)
         {
-
         }
 
         /// <summary>
