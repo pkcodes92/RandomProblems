@@ -1,13 +1,16 @@
-﻿namespace ParallelProgrammingMatrixMultiplication
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace ParallelProgrammingMatrixMultiplication
 {
     using System;
     using System.Diagnostics;
     using System.Threading.Tasks;
 
-    class Program
+    public static class Program
     {
-        #region Sequential manner
-        static void MultiplyMatricesSequential(double[,] matA, double[,] matB, double[,] result)
+        public static void MultiplyMatricesSequential(double[,] matA, double[,] matB, double[,] result)
         {
             int matACols = matA.GetLength(1);
             int matBCols = matB.GetLength(1);
@@ -26,10 +29,8 @@
                 }
             }
         }
-        #endregion
 
-        #region Parallel programming
-        static void MultiplyMatricesParallel(double[,] matA, double[,] matB, double[,] result)
+        public static void MultiplyMatricesParallel(double[,] matA, double[,] matB, double[,] result)
         {
             int matACols = matA.GetLength(1);
             int matBCols = matB.GetLength(1);
@@ -49,11 +50,9 @@
                     result[i, j] = temp;
                 }
             }); // Parallel.For
-        } 
-        #endregion
+        }
 
-        #region Main
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             // Set up matrices. Use small values to better view 
             // result matrix. Increase the counts to see greater 
@@ -93,10 +92,8 @@
             Console.Error.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
-        #endregion
 
-        #region Helper methods
-        static double[,] InitializeMatrix(int rows, int cols)
+        public static double[,] InitializeMatrix(int rows, int cols)
         {
             double[,] matrix = new double[rows, cols];
 
@@ -131,6 +128,5 @@
                 }
             }
         } 
-        #endregion
     }
 }

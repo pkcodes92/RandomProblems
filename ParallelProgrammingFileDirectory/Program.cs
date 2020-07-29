@@ -1,13 +1,23 @@
-﻿namespace ParallelProgrammingFileDirectory
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace ParallelProgrammingFileDirectory
 {
     using System;
     using System.IO;
     using System.Threading;
     using System.Threading.Tasks;
 
-    class Program
+    /// <summary>
+    /// This is the main class.
+    /// </summary>
+    public static class Program
     {
-        static void Main()
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        public static void Main()
         {
             long totalSize = 0;
 

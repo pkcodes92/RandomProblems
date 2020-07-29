@@ -18,3 +18,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\OnlyEvenNumbers\bin\Debug\O
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\OnlyEvenNumbers\obj\Debug\OnlyEvenNumbers.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\OnlyEvenNumbers\obj\Debug\OnlyEvenNumbers.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\OnlyEvenNumbers\obj\Debug\OnlyEvenNumbers.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\OnlyEvenNumbers\obj\Debug\OnlyEvenNumbers.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\OnlyEvenNumbers\bin\Debug\OnlyEvenNumbers.xml

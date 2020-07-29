@@ -18,3 +18,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\OneAway\bin\Debug\OneAway.p
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\OneAway\obj\Debug\OneAway.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\OneAway\obj\Debug\OneAway.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\OneAway\obj\Debug\OneAway.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\OneAway\obj\Debug\OneAway.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\OneAway\bin\Debug\OneAway.xml

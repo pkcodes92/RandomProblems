@@ -4,3 +4,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\OddArraySum\bin\Debug\OddAr
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\OddArraySum\obj\Debug\OddArraySum.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\OddArraySum\obj\Debug\OddArraySum.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\OddArraySum\obj\Debug\OddArraySum.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\OddArraySum\obj\Debug\OddArraySum.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\OddArraySum\bin\Debug\OddArraySum.xml

@@ -1,4 +1,8 @@
-﻿namespace OddArraySum
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace OddArraySum
 {
     using System;
     using System.Linq;

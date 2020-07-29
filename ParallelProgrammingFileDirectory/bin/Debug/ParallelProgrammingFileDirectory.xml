@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ParallelProgrammingFileDirectory</name>
+    </assembly>
+    <members>
+        <member name="T:ParallelProgrammingFileDirectory.Program">
+            <summary>
+            This is the main class.
+            </summary>
+        </member>
+        <member name="M:ParallelProgrammingFileDirectory.Program.Main">
+            <summary>
+            This is the driver method.
+            </summary>
+        </member>
+    </members>
+</doc>

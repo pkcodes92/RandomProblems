@@ -4,3 +4,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\NumberGuessingGame\bin\Debu
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\NumberGuessingGame\obj\Debug\NumberGuessingGame.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\NumberGuessingGame\bin\Debug\NumberGuessingGame.xml

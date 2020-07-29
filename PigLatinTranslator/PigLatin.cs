@@ -1,7 +1,12 @@
-﻿namespace PigLatinTranslator
+﻿// <copyright file="PigLatinTranslator.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace PigLatinTranslator
 {
     using System.Text.RegularExpressions;
     using System.Linq;
+    using System.Globalization;
 
     public static class PigLatin
     {
@@ -10,7 +15,7 @@
 
         public static string Translate(string english)
         {
-            return string.Join(" ", Regex.Split(english, "\\s+").Select(word => TranslateWord(word))); 
+            return string.Join(" ", Regex.Split(english, "\\s+").Select(word => TranslateWord(word)), CultureInfo.InvariantCulture); 
         }
 
         private static string TranslateWord(string word)
