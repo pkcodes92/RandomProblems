@@ -1,13 +1,20 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace SeriesProblem
 {
-    class Program
+    using System;
+
+    /// <summary>
+    /// This is the driver class for this project.
+    /// </summary>
+    public static class Program
     {
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter the number of queries, q: ");
