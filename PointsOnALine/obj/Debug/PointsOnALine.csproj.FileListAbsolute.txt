@@ -18,3 +18,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\bin\Debug\Poi
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\bin\Debug\PointsOnALine.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.csprojAssemblyReference.cache

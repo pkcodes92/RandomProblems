@@ -12,3 +12,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\obj\Debu
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\obj\Debug\PigLatinTranslator.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\obj\Debug\PigLatinTranslator.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\obj\Debug\PigLatinTranslator.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PigLatinTranslator\bin\Debug\PigLatinTranslator.xml

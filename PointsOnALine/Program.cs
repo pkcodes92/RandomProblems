@@ -1,20 +1,24 @@
-﻿/*
- * Author   : Pranav S. Krishnamurthy
- * 
- * Date     : 2nd April 2018
- * 
- * Purpose  : To create a program that determines whether or not
- *            3 points that are entered by the user fall on the
- *            same line
- */
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace PointsOnALine
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// Author   : Pranav S. Krishnamurthy
+    /// Date     : 2nd April 2018
+    /// Purpose  : To create a program that determines whether or not
+    /// 3 points that are entered by the user fall on the same line.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method of this project.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int x1, y1, x2, y2, x3, y3;
             double slope1, slope2, slope3;

@@ -2,14 +2,17 @@
 {
     using System;
 
-    public class QuadraticRoots
+    /// <summary>
+    /// This is the driver class.
+    /// </summary>
+    public static class QuadraticRoots
     {
-        double a, b, c;
+        static double a, b, c;
 
         /// <summary>
         /// This method will be having the inputs being recorded from the console!
         /// </summary>
-        public void Read()
+        public static void Read()
         {
             Console.WriteLine("\n To find the roots of the To find the roots of a quadratic equation of the form a*x^2 + b*x + c = 0");
             Console.Write("\n Enter value for a : ");
@@ -26,7 +29,7 @@
         /// Method that will now compute the various information that will be required for considering this as a solution
         /// for the problem
         /// </summary>
-        public void Compute()
+        public static void Compute()
         {
             int m;
             double r1, r2, discriminant;

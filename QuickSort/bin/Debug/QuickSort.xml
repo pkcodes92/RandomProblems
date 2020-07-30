@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QuickSort</name>
+    </assembly>
+    <members>
+        <member name="T:QuickSort.Program">
+            <summary>
+            This is the driver class.
+            </summary>
+        </member>
+        <member name="M:QuickSort.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

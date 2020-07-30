@@ -11,3 +11,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\PythagoreanSolver\bin\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PythagoreanSolver\obj\Debug\PythagoreanSolver.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PythagoreanSolver\obj\Debug\PythagoreanSolver.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\PythagoreanSolver\obj\Debug\PythagoreanSolver.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PythagoreanSolver\bin\Debug\PythagoreanSolver.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PythagoreanSolver\obj\Debug\PythagoreanSolver.csprojAssemblyReference.cache

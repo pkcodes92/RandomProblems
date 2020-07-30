@@ -11,3 +11,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\RadixSort\bin\Debug\RadixSo
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\RadixSort\obj\Debug\RadixSort.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\RadixSort\obj\Debug\RadixSort.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\RadixSort\obj\Debug\RadixSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\RadixSort\bin\Debug\RadixSort.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\RadixSort\obj\Debug\RadixSort.csprojAssemblyReference.cache

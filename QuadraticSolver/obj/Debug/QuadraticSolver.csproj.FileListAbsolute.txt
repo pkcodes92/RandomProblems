@@ -11,3 +11,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\QuadraticSolver\bin\Debug\Q
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\QuadraticSolver\obj\Debug\QuadraticSolver.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\QuadraticSolver\obj\Debug\QuadraticSolver.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\QuadraticSolver\obj\Debug\QuadraticSolver.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\QuadraticSolver\bin\Debug\QuadraticSolver.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\QuadraticSolver\obj\Debug\QuadraticSolver.csprojAssemblyReference.cache

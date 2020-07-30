@@ -8,11 +8,19 @@ namespace PigLatinTranslator
     using System.Linq;
     using System.Globalization;
 
+    /// <summary>
+    /// This class helps to translate from English to PigLatin.
+    /// </summary>
     public static class PigLatin
     {
         private static readonly string StarterVowelPattern = "[aeiou]|xr|yt";
         private static readonly string VowelPattern = "[aeiou]";
 
+        /// <summary>
+        /// This method conducts the translation.
+        /// </summary>
+        /// <param name="english">The original phrase/sentence to translate.</param>
+        /// <returns>A PigtLatin equivalent of the English phrase.</returns>
         public static string Translate(string english)
         {
             return string.Join(" ", Regex.Split(english, "\\s+").Select(word => TranslateWord(word)), CultureInfo.InvariantCulture); 
