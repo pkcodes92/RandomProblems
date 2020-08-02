@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SeriesProblem</name>
+    </assembly>
+    <members>
+        <member name="T:SeriesProblem.Program">
+            <summary>
+            This is the driver class for this project.
+            </summary>
+        </member>
+        <member name="M:SeriesProblem.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:SeriesProblem.Program.DetermineSeriesNTerms(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Determines each term in the series that is specified by the user
+            when the user provides values for a, b, and n
+            </summary>
+            <param name="a">Input for the initial term</param>
+            <param name="b">Input for a multiplier</param>
+            <param name="n">Input to represent the number of terms to limit</param>
+        </member>
+    </members>
+</doc>

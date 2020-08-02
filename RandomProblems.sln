@@ -203,6 +203,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern", "Fac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleSorting", "TupleSorting\TupleSorting.csproj", "{7776CD72-AE5A-46D5-818D-F35C3E547686}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker", "PalindromeChecker\PalindromeChecker.csproj", "{6F29E0AF-81A3-40AD-921E-BA530FC21390}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -609,6 +611,10 @@ Global
 		{7776CD72-AE5A-46D5-818D-F35C3E547686}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7776CD72-AE5A-46D5-818D-F35C3E547686}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7776CD72-AE5A-46D5-818D-F35C3E547686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F29E0AF-81A3-40AD-921E-BA530FC21390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F29E0AF-81A3-40AD-921E-BA530FC21390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F29E0AF-81A3-40AD-921E-BA530FC21390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F29E0AF-81A3-40AD-921E-BA530FC21390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

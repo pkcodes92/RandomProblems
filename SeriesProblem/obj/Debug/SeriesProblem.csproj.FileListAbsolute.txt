@@ -18,3 +18,5 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\SeriesProblem\bin\Debug\Ser
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SeriesProblem\obj\Debug\SeriesProblem.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SeriesProblem\obj\Debug\SeriesProblem.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SeriesProblem\obj\Debug\SeriesProblem.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SeriesProblem\bin\Debug\SeriesProblem.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SeriesProblem\obj\Debug\SeriesProblem.csprojAssemblyReference.cache
