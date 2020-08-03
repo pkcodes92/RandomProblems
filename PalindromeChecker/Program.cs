@@ -17,6 +17,7 @@ namespace PalindromeChecker
         /// <param name="args">Project specific arguments.</param>
         public static void Main(string[] args)
         {
+            Console.WriteLine("Please enter a string to check whether or not it is a palindrome:");
             string inputString = GetInputString();
             bool isPalindrome = CheckIfPalindrome(inputString);
             Console.WriteLine($"Is {inputString} a palindrome? {isPalindrome}");
@@ -31,6 +32,11 @@ namespace PalindromeChecker
 
         private static bool CheckIfPalindrome(string incomingString)
         {
+            if (incomingString is null)
+            {
+                throw new ArgumentNullException(nameof(incomingString));
+            }
+
             string first = incomingString.Substring(0, incomingString.Length / 2);
             char[] arr = incomingString.ToCharArray();
             Array.Reverse(arr);

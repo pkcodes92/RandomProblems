@@ -8,8 +8,17 @@ namespace ParallelProgrammingMatrixMultiplication
     using System.Diagnostics;
     using System.Threading.Tasks;
 
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
     public static class Program
     {
+        /// <summary>
+        /// This method will use a sequential method to multiply the matrices.
+        /// </summary>
+        /// <param name="matA">The first matrix.</param>
+        /// <param name="matB">The second matrix.</param>
+        /// <param name="result">The product of the two matrices.</param>
         public static void MultiplyMatricesSequential(double[,] matA, double[,] matB, double[,] result)
         {
             int matACols = matA.GetLength(1);
@@ -30,6 +39,12 @@ namespace ParallelProgrammingMatrixMultiplication
             }
         }
 
+        /// <summary>
+        /// This is the method that will use the Parallel.For loop.
+        /// </summary>
+        /// <param name="matA">The first matrix.</param>
+        /// <param name="matB">The second matrix.</param>
+        /// <param name="result">The resulting matrix.</param>
         public static void MultiplyMatricesParallel(double[,] matA, double[,] matB, double[,] result)
         {
             int matACols = matA.GetLength(1);
@@ -52,6 +67,10 @@ namespace ParallelProgrammingMatrixMultiplication
             }); // Parallel.For
         }
 
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
         public static void Main(string[] args)
         {
             // Set up matrices. Use small values to better view 
@@ -93,6 +112,12 @@ namespace ParallelProgrammingMatrixMultiplication
             Console.ReadKey();
         }
 
+        /// <summary>
+        /// This method will create the matrices.
+        /// </summary>
+        /// <param name="rows">The number of rows.</param>
+        /// <param name="cols">The number of columns.</param>
+        /// <returns>The 2D matrix.</returns>
         public static double[,] InitializeMatrix(int rows, int cols)
         {
             double[,] matrix = new double[rows, cols];
