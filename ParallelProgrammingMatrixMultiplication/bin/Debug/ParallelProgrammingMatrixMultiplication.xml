@@ -4,5 +4,40 @@
         <name>ParallelProgrammingMatrixMultiplication</name>
     </assembly>
     <members>
+        <member name="T:ParallelProgrammingMatrixMultiplication.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:ParallelProgrammingMatrixMultiplication.Program.MultiplyMatricesSequential(System.Double[0:,0:],System.Double[0:,0:],System.Double[0:,0:])">
+            <summary>
+            This method will use a sequential method to multiply the matrices.
+            </summary>
+            <param name="matA">The first matrix.</param>
+            <param name="matB">The second matrix.</param>
+            <param name="result">The product of the two matrices.</param>
+        </member>
+        <member name="M:ParallelProgrammingMatrixMultiplication.Program.MultiplyMatricesParallel(System.Double[0:,0:],System.Double[0:,0:],System.Double[0:,0:])">
+            <summary>
+            This is the method that will use the Parallel.For loop.
+            </summary>
+            <param name="matA">The first matrix.</param>
+            <param name="matB">The second matrix.</param>
+            <param name="result">The resulting matrix.</param>
+        </member>
+        <member name="M:ParallelProgrammingMatrixMultiplication.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:ParallelProgrammingMatrixMultiplication.Program.InitializeMatrix(System.Int32,System.Int32)">
+            <summary>
+            This method will create the matrices.
+            </summary>
+            <param name="rows">The number of rows.</param>
+            <param name="cols">The number of columns.</param>
+            <returns>The 2D matrix.</returns>
+        </member>
     </members>
 </doc>

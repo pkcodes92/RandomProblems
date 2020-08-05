@@ -4,5 +4,23 @@
         <name>SumUpListNumbers</name>
     </assembly>
     <members>
+        <member name="T:SumUpListNumbers.Program">
+            <summary>
+            This is the main class.
+            </summary>
+        </member>
+        <member name="M:SumUpListNumbers.Program.Main(System.String[])">
+            <summary>
+            This is the main method rather the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:SumUpListNumbers.Program.SumUpNumbers(System.String)">
+            <summary>
+            This method will add the items in the list.
+            </summary>
+            <param name="inputString">The list of items.</param>
+            <returns>The total number of items in the mixed list.</returns>
+        </member>
     </members>
 </doc>

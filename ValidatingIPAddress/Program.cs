@@ -1,10 +1,21 @@
-﻿using System;
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace ValidatingIPAddress
 {
-    class Program
+    using System;
+
+    /// <summary>
+    /// This is the main class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.Write("Enter an IP address to validate: ");
             string inputString = Console.ReadLine();
@@ -16,7 +27,12 @@ namespace ValidatingIPAddress
             Console.ReadKey(); 
         }
 
-        static bool IsIPv4Address(string inputString)
+        /// <summary>
+        /// This method will validate whether or not the incoming string is a valid IP address.
+        /// </summary>
+        /// <param name="inputString">The IP address to validate.</param>
+        /// <returns>A boolean value to indicate a valid IP address.</returns>
+        public static bool IsIPv4Address(string inputString)
         {
             string temp = "0123456789";
             string[] ip = inputString.Split('.');

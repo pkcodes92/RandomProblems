@@ -1,4 +1,8 @@
-﻿namespace ValidatingSudoku
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace ValidatingSudoku
 {
     using System;
     using System.Collections.Generic;

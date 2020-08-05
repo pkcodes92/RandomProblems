@@ -5,3 +5,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMu
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\obj\Debug\ParallelProgrammingMatrixMultiplication.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\obj\Debug\ParallelProgrammingMatrixMultiplication.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\bin\Debug\ParallelProgrammingMatrixMultiplication.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingMatrixMultiplication\obj\Debug\ParallelProgrammingMatrixMultiplication.csprojAssemblyReference.cache
