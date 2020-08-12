@@ -1,4 +1,8 @@
-﻿namespace SumOfSubarrays
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace SumOfSubarrays
 {
     using System;
 

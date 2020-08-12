@@ -1,10 +1,21 @@
-﻿namespace StatisticsBasics
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace StatisticsBasics
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             string[] a_temp = Console.ReadLine().Split(' ');
             int[] a = Array.ConvertAll(a_temp, int.Parse);
@@ -21,7 +32,7 @@
             Console.ReadKey(); 
         }
 
-        static double GetMean(int[] a)
+        private static double GetMean(int[] a)
         {
             int sum = 0;
             int size = a.Length;
@@ -35,7 +46,7 @@
             return mean;
         }
 
-        static double GetMedian(int[] a)
+        private static double GetMedian(int[] a)
         {
             double median;
             int size = a.Length;
@@ -58,7 +69,7 @@
             return median;
         }
 
-        static int GetMode(int[] a)
+        private static int GetMode(int[] a)
         {
             int mode = 0;
             int size = a.Length;
