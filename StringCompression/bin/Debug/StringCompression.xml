@@ -4,5 +4,16 @@
         <name>StringCompression</name>
     </assembly>
     <members>
+        <member name="T:StringCompression.Program">
+            <summary>
+            This is the driver class.
+            </summary>
+        </member>
+        <member name="M:StringCompression.Program.Main(System.String[])">
+            <summary>
+            The main driver method.
+            </summary>
+            <param name="args">Project specific command line arguments.</param>
+        </member>
     </members>
 </doc>

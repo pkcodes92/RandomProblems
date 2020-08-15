@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.c
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\bin\Debug\SumTest.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.csprojAssemblyReference.cache

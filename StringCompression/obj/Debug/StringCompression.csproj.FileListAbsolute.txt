@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\StringCompression\obj\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StringCompression\obj\Debug\StringCompression.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StringCompression\obj\Debug\StringCompression.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\StringCompression\bin\Debug\StringCompression.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StringCompression\obj\Debug\StringCompression.csprojAssemblyReference.cache

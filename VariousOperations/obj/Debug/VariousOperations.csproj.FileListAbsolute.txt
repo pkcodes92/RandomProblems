@@ -12,3 +12,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\VariousOperations\obj\Debug
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\VariousOperations\obj\Debug\VariousOperations.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\VariousOperations\obj\Debug\VariousOperations.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\VariousOperations\bin\Debug\VariousOperations.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\VariousOperations\obj\Debug\VariousOperations.csprojAssemblyReference.cache

@@ -4,6 +4,17 @@
         <name>VariousOperations</name>
     </assembly>
     <members>
+        <member name="T:VariousOperations.Program">
+            <summary>
+            This is the driver class for this project.
+            </summary>
+        </member>
+        <member name="M:VariousOperations.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
         <member name="M:VariousOperations.Program.GetSum(System.Int32,System.Int32)">
             <summary>
             Adds the two numbers

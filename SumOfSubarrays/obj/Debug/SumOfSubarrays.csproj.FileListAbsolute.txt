@@ -5,3 +5,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumOfSubarrays\obj\Debug\Su
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumOfSubarrays\obj\Debug\SumOfSubarrays.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumOfSubarrays\obj\Debug\SumOfSubarrays.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumOfSubarrays\bin\Debug\SumOfSubarrays.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumOfSubarrays\obj\Debug\SumOfSubarrays.csprojAssemblyReference.cache

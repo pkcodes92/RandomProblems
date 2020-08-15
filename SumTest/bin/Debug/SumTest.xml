@@ -4,6 +4,17 @@
         <name>SumTest</name>
     </assembly>
     <members>
+        <member name="T:SumTest.Program">
+            <summary>
+            This is the main class for this project.
+            </summary>
+        </member>
+        <member name="M:SumTest.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
         <member name="M:SumTest.Program.TestSum(System.Int32,System.Int32)">
             <summary>
             Function that will return the sum of two numbers in the following conditions: 

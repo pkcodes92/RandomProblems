@@ -4,5 +4,16 @@
         <name>Sudoku</name>
     </assembly>
     <members>
+        <member name="T:Sudoku.Program">
+            <summary>
+            This is the driver class.
+            </summary>
+        </member>
+        <member name="M:Sudoku.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
     </members>
 </doc>

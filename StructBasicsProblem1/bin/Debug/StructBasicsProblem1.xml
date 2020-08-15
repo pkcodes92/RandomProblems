@@ -10,12 +10,28 @@
             type in C# - where the members are public by default
             </summary>
         </member>
+        <member name="F:StructBasicsProblem1.ValuesStruct.x">
+            <summary>
+            Defines the value of x.
+            </summary>
+        </member>
+        <member name="F:StructBasicsProblem1.ValuesStruct.y">
+            <summary>
+            Defines the value of y.
+            </summary>
+        </member>
         <member name="T:StructBasicsProblem1.Program">
             <summary>
             With the classes, you can have members in a class, however
             by default they are private as opposed to structs where the
-            members of structs are actually public by default
+            members of structs are actually public by default.
             </summary>
+        </member>
+        <member name="M:StructBasicsProblem1.Program.Main(System.String[])">
+            <summary>
+            The driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
         </member>
     </members>
 </doc>
