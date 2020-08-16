@@ -4,5 +4,16 @@
         <name>OnlyEvenNumbers</name>
     </assembly>
     <members>
+        <member name="T:OnlyEvenNumbers.Program">
+            <summary>
+            This is the main class for this project.
+            </summary>
+        </member>
+        <member name="M:OnlyEvenNumbers.Program.Main(System.String[])">
+            <summary>
+            The driver method for this.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
     </members>
 </doc>

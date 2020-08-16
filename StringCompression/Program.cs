@@ -45,6 +45,7 @@ namespace StringCompression
                 }
             }
 
+            // Making use of the ternary expression in C# - writing a conditional in a single line of code.
             return compressedString.Length < inputString.Length ? inputString : compressedString;
         }
     }

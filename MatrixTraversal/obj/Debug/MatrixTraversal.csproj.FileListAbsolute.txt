@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\M
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\bin\Debug\MatrixTraversal.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MatrixTraversal\obj\Debug\MatrixTraversal.csprojAssemblyReference.cache

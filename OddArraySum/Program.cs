@@ -7,9 +7,16 @@ namespace OddArraySum
     using System;
     using System.Linq;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Provide a list of space separated integers: ");
             string[] temp = Console.ReadLine().Split(' ');

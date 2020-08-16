@@ -4,5 +4,16 @@
         <name>Minesweeping</name>
     </assembly>
     <members>
+        <member name="T:Minesweeping.Program">
+            <summary>
+            This is the main class.
+            </summary>
+        </member>
+        <member name="M:Minesweeping.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
     </members>
 </doc>

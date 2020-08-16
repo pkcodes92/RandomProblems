@@ -4,5 +4,16 @@
         <name>OneAway</name>
     </assembly>
     <members>
+        <member name="T:OneAway.Program">
+            <summary>
+            This is the main class for this project.
+            </summary>
+        </member>
+        <member name="M:OneAway.Program.Main(System.String[])">
+            <summary>
+            The driver method, and the main entry point at runtime.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
     </members>
 </doc>

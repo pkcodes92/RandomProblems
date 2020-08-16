@@ -4,5 +4,16 @@
         <name>OddArraySum</name>
     </assembly>
     <members>
+        <member name="T:OddArraySum.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:OddArraySum.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
     </members>
 </doc>

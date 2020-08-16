@@ -4,6 +4,11 @@
         <name>MaximumDifference</name>
     </assembly>
     <members>
+        <member name="T:MaximumDifference.Program">
+            <summary>
+            This is the driver class.
+            </summary>
+        </member>
         <member name="M:MaximumDifference.Program.MaxDiff(System.Int32[],System.Int32)">
             <summary>
             The function assumes that there are at least
@@ -13,6 +18,12 @@
             <param name="arr_size">Size of the array input</param>
             <returns>Function will return a negative value if the array is sorted in
             decreasing order. Also it would return 0 if the elements are equal</returns>
+        </member>
+        <member name="M:MaximumDifference.Program.Main(System.String[])">
+            <summary>
+            The main entry point at runtime.
+            </summary>
+            <param name="args">Project specific arguments.</param>
         </member>
     </members>
 </doc>

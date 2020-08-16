@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\Minesweeping\obj\Debug\Mine
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\Minesweeping\obj\Debug\Minesweeping.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\Minesweeping\obj\Debug\Minesweeping.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\Minesweeping\bin\Debug\Minesweeping.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\Minesweeping\obj\Debug\Minesweeping.csprojAssemblyReference.cache
