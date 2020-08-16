@@ -4,5 +4,16 @@
         <name>LuckyNumbers</name>
     </assembly>
     <members>
+        <member name="T:LuckyNumbers.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:LuckyNumbers.Program.Main(System.String[])">
+            <summary>
+            This is the driver method/main point of execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
     </members>
 </doc>

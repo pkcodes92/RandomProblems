@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuckyNumbers\obj\Debug\Luck
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuckyNumbers\bin\Debug\LuckyNumbers.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuckyNumbers\obj\Debug\LuckyNumbers.csprojAssemblyReference.cache
