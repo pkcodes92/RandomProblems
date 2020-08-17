@@ -16,3 +16,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\bin\D
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.csproj.CoreCompileInputs.cache
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.csprojAssemblyReference.cache
