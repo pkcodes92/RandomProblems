@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\bin\Debug\FirstNotRepeatingCharacter.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FirstNotRepeatingCharacter\obj\Debug\FirstNotRepeatingCharacter.csprojAssemblyReference.cache

@@ -26,7 +26,7 @@ namespace OneAway
             Console.WriteLine("Enter a path of execution, either 1 or 2.");
             int choice = int.Parse(Console.ReadLine());
 
-            // Having the isOneEditAway variable set to false
+            // Having the isOneEditAway variable set to false.
             var isOneEditAway = false;
 
             if (choice == 1)

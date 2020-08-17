@@ -49,7 +49,7 @@ namespace GetHashCodeTutorial
 
         /// <summary>
         /// GetHashCode() method must be overridden along with 
-        /// the Equals() method
+        /// the Equals() method.
         /// </summary>
         /// <returns>Integer</returns>
         public override int GetHashCode()

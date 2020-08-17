@@ -1,7 +1,11 @@
-﻿namespace LinqInnerJoin
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace LinqInnerJoin
 {
-    using System.Collections.Generic;
     using System;
+    using System.Collections.Generic;
     using System.Linq;
 
     /// <summary>

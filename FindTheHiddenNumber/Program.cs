@@ -44,10 +44,10 @@ namespace FindTheHiddenNumber
                 sum += a[i];
             }
 
-            // Dividing the sum by size of n
+            // Dividing the sum by size of n.
             long x = sum / n;
 
-            // Print x, if found
+            // Print x, if found.
             if (x * n == sum)
             {
                 return (int)x; 

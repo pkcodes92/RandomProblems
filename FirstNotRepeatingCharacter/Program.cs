@@ -1,10 +1,21 @@
-﻿namespace FirstNotRepeatingCharacter
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace FirstNotRepeatingCharacter
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This main class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The driver method/main point of execution.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter a string of characters: ");
             string s = Console.ReadLine();
@@ -16,7 +27,7 @@
             Console.ReadKey(); 
         }
 
-        static char FirstNonRepeatingCharacter(string s)
+        private static char FirstNonRepeatingCharacter(string s)
         {
             char[] inputs = s.ToCharArray();
 

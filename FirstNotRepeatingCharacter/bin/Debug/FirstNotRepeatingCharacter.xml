@@ -4,5 +4,16 @@
         <name>FirstNotRepeatingCharacter</name>
     </assembly>
     <members>
+        <member name="T:FirstNotRepeatingCharacter.Program">
+            <summary>
+            This main class for this project.
+            </summary>
+        </member>
+        <member name="M:FirstNotRepeatingCharacter.Program.Main(System.String[])">
+            <summary>
+            The driver method/main point of execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
     </members>
 </doc>

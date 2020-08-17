@@ -1,19 +1,23 @@
-﻿/*
- * Author   : Pranav S. Krishnamurthy
- * 
- * Date     : 4th April 2018
- * 
- * Purpose  : Creating a C# console application to be able to 
- *            properly show the implementation of a LinkedList
- */
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace LinkedListTutorial
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// Author   : Pranav S. Krishnamurthy
+    /// Date     : 4th April 2018
+    /// Purpose  : Creating a C# console application to be able to properly show the implementation of a LinkedList.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method/entry point of execution.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             LinkedList lnkList = new LinkedList();
             lnkList.PrintAllNodes();
