@@ -4,5 +4,58 @@
         <name>StructBasicsComplexSample</name>
     </assembly>
     <members>
+        <member name="T:StructBasicsComplexSample.Program">
+            <summary>
+            This is the main class of the project.
+            </summary>
+        </member>
+        <member name="M:StructBasicsComplexSample.Program.Main(System.String[])">
+            <summary>
+            The driver method of this project/main entry point of execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="T:StructBasicsComplexSample.SampStru">
+            <summary>
+            This is the sample struct class.
+            </summary>
+        </member>
+        <member name="P:StructBasicsComplexSample.SampStru.Value">
+            <summary>
+            Gets or sets the value.
+            </summary>
+        </member>
+        <member name="M:StructBasicsComplexSample.SampStru.Read">
+            <summary>
+            This method takes in information.
+            </summary>
+            <returns>Outputs double values.</returns>
+        </member>
+        <member name="T:StructBasicsComplexSample.Square">
+            <summary>
+            This is a class to represent the struct for a square.
+            </summary>
+        </member>
+        <member name="P:StructBasicsComplexSample.Square.Length">
+            <summary>
+            Gets or sets the length.
+            </summary>
+        </member>
+        <member name="P:StructBasicsComplexSample.Square.Breadth">
+            <summary>
+            Gets or sets the breadth.
+            </summary>
+        </member>
+        <member name="M:StructBasicsComplexSample.Square.NewSquare">
+            <summary>
+            This method intializes a new square.
+            </summary>
+        </member>
+        <member name="M:StructBasicsComplexSample.Square.SqrLength">
+            <summary>
+            This method initializes a new quadrilateral which is a square.
+            </summary>
+            <returns>A sample struct which is a square with equal length and width.</returns>
+        </member>
     </members>
 </doc>

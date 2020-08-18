@@ -7,9 +7,16 @@ namespace DiscriminantValue
     using System;
     using System.Globalization;
 
-    class Program
+    /// <summary>
+    /// This is the main class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method/main entry point of execution.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.Write("Enter a value for A = ");
             int a = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);

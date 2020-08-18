@@ -1,10 +1,21 @@
+// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace LinearSearchProblem
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The main entry point of execution/driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[] arr = new int[] { 10, 27, 80, 30, 60, 50, 110, 100, 130, 170 };
 

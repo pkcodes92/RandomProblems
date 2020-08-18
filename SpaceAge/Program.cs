@@ -1,21 +1,29 @@
-﻿/// <summary>
-/// Given an age in seconds, calculate how old someone would be on: 
-/// Earth: orbital period 365.25 Earth days, or 31557600 seconds
-/// Mercury: orbital period 0.2408467 Earth years
-/// Venus: orbital period 0.61519726 Earth years
-/// Mars: orbital period 1.8808158 Earth years
-/// Jupiter: orbital period 11.862615 Earth years
-/// Saturn: orbital period 29.447498 Earth years
-/// Uranus: orbital period 84.016846 Earth years
-/// Neptune: orbital period 164.79132 Earth years
-/// </summary>
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace SpaceAge
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// Given an age in seconds, calculate how old someone would be on: 
+    /// Earth: orbital period 365.25 Earth days, or 31557600 seconds
+    /// Mercury: orbital period 0.2408467 Earth years
+    /// Venus: orbital period 0.61519726 Earth years
+    /// Mars: orbital period 1.8808158 Earth years
+    /// Jupiter: orbital period 11.862615 Earth years
+    /// Saturn: orbital period 29.447498 Earth years
+    /// Uranus: orbital period 84.016846 Earth years
+    /// Neptune: orbital period 164.79132 Earth years
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main entry point of execution/driver method for this project.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int ageInSeconds = 1000000000;
 

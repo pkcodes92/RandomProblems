@@ -12,3 +12,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\Spa
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\SpaceCounting.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\SpaceCounting.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\bin\Debug\SpaceCounting.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceCounting\obj\Debug\SpaceCounting.csprojAssemblyReference.cache
