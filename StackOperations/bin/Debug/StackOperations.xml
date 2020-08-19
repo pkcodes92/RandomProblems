@@ -4,5 +4,105 @@
         <name>StackOperations</name>
     </assembly>
     <members>
+        <member name="T:StackOperations.Program">
+            <summary>
+            The main class for this project.
+            </summary>
+        </member>
+        <member name="M:StackOperations.Program.Main(System.String[])">
+            <summary>
+            The main entry point of execution/driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="T:StackOperations.Stack">
+            <summary>
+            This class implements the methods defined in <see cref="T:StackOperations.IStackADT"/>.
+            </summary>
+        </member>
+        <member name="P:StackOperations.Stack.StackSizeSet">
+            <summary>
+            Gets or sets the stack size set.
+            </summary>
+        </member>
+        <member name="F:StackOperations.Stack.top">
+            <summary>
+            The top most element.
+            </summary>
+        </member>
+        <member name="M:StackOperations.Stack.#ctor">
+            <summary>
+            This is the default constructor.
+            </summary>
+        </member>
+        <member name="M:StackOperations.Stack.#ctor(System.Int32)">
+            <summary>
+            Initializes an instance of the stack.
+            </summary>
+            <param name="capacity">The stack capacity.</param>
+        </member>
+        <member name="M:StackOperations.Stack.IsEmpty">
+            <summary>
+            This method checks for an empty stack.
+            </summary>
+            <returns>Returns a value to indicate whether or not the stack is empty.</returns>
+        </member>
+        <member name="M:StackOperations.Stack.Push(System.Object)">
+            <summary>
+            This method pushes on to the stack.
+            </summary>
+            <param name="element">The element to add to the stack.</param>
+        </member>
+        <member name="M:StackOperations.Stack.Pop">
+            <summary>
+            Removes an element of the stack.
+            </summary>
+            <returns>The object that is removed from the stack.</returns>
+        </member>
+        <member name="M:StackOperations.Stack.Peek">
+            <summary>
+            This method looks at the top most element of the stack.
+            </summary>
+            <returns>The top most element.</returns>
+        </member>
+        <member name="M:StackOperations.Stack.Display">
+            <summary>
+            This method displays all of the elements that are on the stack currently.
+            </summary>
+        </member>
+        <member name="T:StackOperations.IStackADT">
+            <summary>
+            This interface defines the methods for the stack operations.
+            </summary>
+        </member>
+        <member name="M:StackOperations.IStackADT.IsEmpty">
+            <summary>
+            A method to see if the stack is empty.
+            </summary>
+            <returns>A true or false value.</returns>
+        </member>
+        <member name="M:StackOperations.IStackADT.Push(System.Object)">
+            <summary>
+            This method will push an element on to the stack.
+            </summary>
+            <param name="element">The element to push on the stack.</param>
+        </member>
+        <member name="M:StackOperations.IStackADT.Pop">
+            <summary>
+            Takes the top most element of the stack.
+            </summary>
+            <returns>An element from the stack.</returns>
+        </member>
+        <member name="M:StackOperations.IStackADT.Peek">
+            <summary>
+            This method will view the top most element of the stack.
+            </summary>
+            <returns>The top most element of the stack.</returns>
+        </member>
+        <member name="M:StackOperations.IStackADT.Display">
+            <summary>
+            This method will simply display all elements on the stack currently.
+            </summary>
+        </member>
     </members>
 </doc>

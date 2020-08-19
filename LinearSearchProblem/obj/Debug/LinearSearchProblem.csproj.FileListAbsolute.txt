@@ -19,3 +19,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Deb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\bin\Debug\LinearSearchProblem.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinearSearchProblem\obj\Debug\LinearSearchProblem.csprojAssemblyReference.cache

@@ -4,6 +4,17 @@
         <name>SpecialPythagoreanTriplet</name>
     </assembly>
     <members>
+        <member name="T:SpecialPythagoreanTriplet.Program">
+            <summary>
+            This is the main class for the project.
+            </summary>
+        </member>
+        <member name="M:SpecialPythagoreanTriplet.Program.Main(System.String[])">
+            <summary>
+            The main entry point of execution/driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
         <member name="M:SpecialPythagoreanTriplet.Program.BruteForce">
             <summary>
             Going through the brute force approach - seeing how there would be some

@@ -5,3 +5,4 @@ C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\o
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.exe
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.pdb
 C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\bin\Debug\SpecialPythagoreanTriplet.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpecialPythagoreanTriplet\obj\Debug\SpecialPythagoreanTriplet.csprojAssemblyReference.cache
