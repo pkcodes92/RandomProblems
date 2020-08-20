@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RadixSort</name>
+    </assembly>
+    <members>
+        <member name="T:RadixSort.Program">
+            <summary>
+            Write a C# program to sort a list of elements using the Radix Sort Algorithm
+            
+            Radix sort is a non-comparative sorting algorithm that sorts data with integer keys
+            by grouping keys by the individual digits which are share the same significant position
+            and value.
+            </summary>
+        </member>
+        <member name="M:RadixSort.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:RadixSort.Program.Sort(System.Int32[])">
+            <summary>
+            This method sorts the array.
+            </summary>
+            <param name="arr">The input array to be sorted.</param>
+        </member>
+    </members>
+</doc>

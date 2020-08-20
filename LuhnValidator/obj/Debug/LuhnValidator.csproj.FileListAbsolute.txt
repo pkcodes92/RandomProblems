@@ -5,3 +5,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuhnValidator\obj\Debug\Lu
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuhnValidator\obj\Debug\LuhnValidator.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuhnValidator\obj\Debug\LuhnValidator.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LuhnValidator\obj\Debug\LuhnValidator.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuhnValidator\bin\Debug\LuhnValidator.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuhnValidator\bin\Debug\LuhnValidator.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuhnValidator\bin\Debug\LuhnValidator.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuhnValidator\obj\Debug\LuhnValidator.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuhnValidator\obj\Debug\LuhnValidator.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuhnValidator\obj\Debug\LuhnValidator.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuhnValidator\bin\Debug\LuhnValidator.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LuhnValidator\obj\Debug\LuhnValidator.csprojAssemblyReference.cache

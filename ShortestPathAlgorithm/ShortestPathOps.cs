@@ -1,9 +1,22 @@
-﻿using System;
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace ShortestPathAlgorithm
 {
+    using System;
+
+    /// <summary>
+    /// This class for all the necessary methods regards to the Dijkstra's algorithm implementation.
+    /// </summary>
     public class ShortestPathOps
     {
+        /// <summary>
+        /// This method calculates the result as per dijkstra's algorithm.
+        /// </summary>
+        /// <param name="graph">The original graph of nodes and edges.</param>
+        /// <param name="source">The node to start from.</param>
+        /// <param name="verticesCount">The number of vertices in the graph.</param>
         public void Dijkstra(int[,] graph, int source, int verticesCount)
         {
             int[] distance = new int[verticesCount];

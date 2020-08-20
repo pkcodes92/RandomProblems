@@ -1,10 +1,21 @@
-﻿namespace MultipleInputs
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace MultipleInputs
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the driver class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The driver method for this project.
+        /// </summary>
+        /// <param name="args">Project specific command line arguments.</param>
+        public static void Main(string[] args)
         {
             Console.Write("Press t for Table, \n Press f for Factorial \n Press p for Prime \n Press s for search");
             Console.Write("\n\nInput a character value: ");

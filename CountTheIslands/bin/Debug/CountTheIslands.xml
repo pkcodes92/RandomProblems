@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CountTheIslands</name>
+    </assembly>
+    <members>
+        <member name="T:CountTheIslands.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:CountTheIslands.Program.IsSafe(System.Int32[0:,0:],System.Int32,System.Int32,System.Boolean[0:,0:])">
+            <summary>
+            A function to check if a given cell (row, col)
+            can be included in the DFS (Depth-First-Search).
+            </summary>
+            <param name="map">The map for the islands to be counted.</param>
+            <param name="row">The row to look at.</param>
+            <param name="col">The column to look at.</param>
+            <param name="visited">The 2D array to see if an island was previously visited.</param>
+            <returns>A boolean variable marking a cell safe.</returns>
+        </member>
+        <member name="M:CountTheIslands.Program.DFS(System.Int32[0:,0:],System.Int32,System.Int32,System.Boolean[0:,0:])">
+            <summary>
+            A utility function to conduct the Depth-First-Search for a
+            2D boolean matrix. It only considers the 8 neighbors as
+            adjacent vertices.
+            </summary>
+            <param name="map">The map of the islands to be counted.</param>
+            <param name="row">The row to look at.</param>
+            <param name="col">The column to look at.</param>
+            <param name="visited">The 2D boolean array to see if an island was previously visited.</param>
+        </member>
+        <member name="M:CountTheIslands.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

@@ -1,10 +1,21 @@
+// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace SpaceCounting
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main class of this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method/main entry point of execution.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             string inputStr;
             Console.Write("\n\n Function to count the number of spaces in a string: \n");

@@ -1,10 +1,21 @@
+// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace OneAway
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The driver method, and the main entry point at runtime.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter an input for the first string, first: ");
             string first = Console.ReadLine();
@@ -15,7 +26,7 @@ namespace OneAway
             Console.WriteLine("Enter a path of execution, either 1 or 2.");
             int choice = int.Parse(Console.ReadLine());
 
-            // Having the isOneEditAway variable set to false
+            // Having the isOneEditAway variable set to false.
             var isOneEditAway = false;
 
             if (choice == 1)

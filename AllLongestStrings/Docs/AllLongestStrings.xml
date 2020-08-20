@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AllLongestStrings</name>
+    </assembly>
+    <members>
+        <member name="T:AllLongestStrings.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:AllLongestStrings.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">The project specific arguments.</param>
+        </member>
+        <member name="M:AllLongestStrings.Program.AllLongestStrings(System.String[])">
+            <summary>
+            Gets the longest strings inside of the input string
+            </summary>
+            <param name="inputArray">The string that the user enters</param>
+            <returns>An array (or even a list) of all the longest elements inside of the user input string</returns>
+        </member>
+        <member name="M:AllLongestStrings.Program.AllLongStrings(System.String[])">
+            <summary>
+            The same purpose as <see cref="M:AllLongestStrings.Program.AllLongestStrings(System.String[])"/>
+            </summary>
+            <param name="inputArray">Returns the longest string inside of the user input string</param>
+            <returns>A string array</returns>
+        </member>
+    </members>
+</doc>

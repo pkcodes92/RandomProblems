@@ -1,14 +1,21 @@
-﻿namespace EuclideanGCD
+﻿// <copyright file = "Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace EuclideanGCD
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
         /// <summary>
         /// This is the main point of execution for the program
         /// </summary>
         /// <param name="args">Any arguments that are required</param>
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.Write("Provide a value for the first integer:");
             int firstInt = int.Parse(Console.ReadLine());

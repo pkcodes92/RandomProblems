@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FindFirstDuplicates</name>
+    </assembly>
+    <members>
+        <member name="T:FindFirstDuplicates.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:FindFirstDuplicates.Program.Main(System.String[])">
+            <summary>
+            This is the main method/point of execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

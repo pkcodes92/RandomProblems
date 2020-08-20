@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LinqBasicStructure</name>
+    </assembly>
+    <members>
+        <member name="T:LinqBasicStructure.Program">
+            <summary>
+            This is the main class.
+            </summary>
+        </member>
+        <member name="M:LinqBasicStructure.Program.Main(System.String[])">
+            <summary>
+            The driver method/main entry point of execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:LinqBasicStructure.Program.FindResults(System.Int32[],System.Int32)">
+            <summary>
+            Having the ability to return a list using LINQ code.
+            </summary>
+            <param name="inputArray">The array of integers that are passed in.</param>
+            <param name="x">What is the number to divide by to see if the remainder would be 0.</param>
+            <returns>A list of the quotients.</returns>
+        </member>
+    </members>
+</doc>

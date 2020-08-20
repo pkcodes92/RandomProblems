@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SpaceCounting</name>
+    </assembly>
+    <members>
+        <member name="T:SpaceCounting.Program">
+            <summary>
+            This is the main class of this project.
+            </summary>
+        </member>
+        <member name="M:SpaceCounting.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method/main entry point of execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

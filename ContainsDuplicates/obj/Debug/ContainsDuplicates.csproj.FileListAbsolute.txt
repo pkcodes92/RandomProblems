@@ -10,3 +10,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ContainsDuplicates\bin\Deb
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\bin\Debug\ContainsDuplicates.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\bin\Debug\ContainsDuplicates.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\bin\Debug\ContainsDuplicates.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\bin\Debug\ContainsDuplicates.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ContainsDuplicates\obj\Debug\ContainsDuplicates.csprojAssemblyReference.cache

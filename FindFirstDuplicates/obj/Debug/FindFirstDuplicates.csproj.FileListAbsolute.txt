@@ -12,3 +12,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\De
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\bin\Debug\FindFirstDuplicates.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\FindFirstDuplicates\obj\Debug\FindFirstDuplicates.csprojAssemblyReference.cache

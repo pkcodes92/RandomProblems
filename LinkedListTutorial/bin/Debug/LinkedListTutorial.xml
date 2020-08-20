@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LinkedListTutorial</name>
+    </assembly>
+    <members>
+        <member name="T:LinkedListTutorial.LinkedList">
+            <summary>
+             Author   : Pranav S. Krishnamurthy
+             Date     : 4th April 2018
+             File     : LinkedList.cs
+             Purpose  : To contain various properties of a LinkedList and to also 
+             encapsulate various methods that belong to the LinkedList data structure.
+            </summary>
+        </member>
+        <member name="F:LinkedListTutorial.LinkedList.Count">
+            <summary>
+            This represents the count of the nodes in the linked list.
+            </summary>
+        </member>
+        <member name="M:LinkedListTutorial.LinkedList.#ctor">
+            <summary>
+            Initializes an instance of the <see cref="T:LinkedListTutorial.LinkedList"/> class.
+            </summary>
+        </member>
+        <member name="M:LinkedListTutorial.LinkedList.AddAtLast(System.Object)">
+            <summary>
+            This method adds a node at the end.
+            </summary>
+            <param name="data">The node to add.</param>
+        </member>
+        <member name="M:LinkedListTutorial.LinkedList.AddAtStart(System.Object)">
+            <summary>
+            This method adds a node at the start of the linked list.
+            </summary>
+            <param name="data">The node to add.</param>
+        </member>
+        <member name="M:LinkedListTutorial.LinkedList.RemoveFromStart">
+            <summary>
+            This method removes a node from the top of the linked list.
+            </summary>
+        </member>
+        <member name="M:LinkedListTutorial.LinkedList.PrintAllNodes">
+            <summary>
+            This method lists out all nodes in the console UI.
+            </summary>
+        </member>
+        <member name="T:LinkedListTutorial.Node">
+            <summary>
+            This is the node class.
+            </summary>
+        </member>
+        <member name="F:LinkedListTutorial.Node.Next">
+            <summary>
+            This is the next node.
+            </summary>
+        </member>
+        <member name="F:LinkedListTutorial.Node.Value">
+            <summary>
+            This is the value of the node.
+            </summary>
+        </member>
+        <member name="T:LinkedListTutorial.Program">
+            <summary>
+            Author   : Pranav S. Krishnamurthy
+            Date     : 4th April 2018
+            Purpose  : Creating a C# console application to be able to properly show the implementation of a LinkedList.
+            </summary>
+        </member>
+        <member name="M:LinkedListTutorial.Program.Main(System.String[])">
+            <summary>
+            This is the driver method/entry point of execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

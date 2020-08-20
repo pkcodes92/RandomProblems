@@ -1,10 +1,21 @@
+// <copyright file = "Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace LargestNumberPossible
 {
     using System; 
 
-    class Program
+    /// <summary>
+    /// This is the main class for the project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">The project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter a value for n to find the largest possible number that is n-digits in length: ");
 

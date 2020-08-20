@@ -12,3 +12,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\Po
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\bin\Debug\PointsOnALine.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\bin\Debug\PointsOnALine.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\bin\Debug\PointsOnALine.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\bin\Debug\PointsOnALine.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\PointsOnALine\obj\Debug\PointsOnALine.csprojAssemblyReference.cache

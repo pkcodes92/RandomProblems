@@ -1,10 +1,21 @@
-﻿namespace AcronymMaker
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace AcronymMaker
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">The project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter a phrase to abbreviate: ");
             string inputString = Console.ReadLine();
@@ -15,13 +26,19 @@
         }
 
         /// <summary>
-        /// Method that will abbreviate the input and create an acronym
+        /// Method that will abbreviate the input and create an acronym.
         /// </summary>
-        /// <param name="input">The string to be converted into an acronym</param>
-        /// <returns>The compressed string - basically the acronym</returns>
+        /// <param name="input">The string to be converted into an acronym.</param>
+        /// <returns>The compressed string - basically the acronym.</returns>
         public static string Abbreviate(string input)
         {
+            if (input is null)
+            {
+                throw new ArgumentNullException(nameof(input));
+            }
+
             var parts = input.Split(new char[] { ' ', '-', '_' });
+
             Console.WriteLine("parts: ");
             string res = "";
             foreach (var p in parts)
@@ -34,6 +51,7 @@
             }
 
             Console.WriteLine("res: {0}", res);
+
             return res; 
         }
     }

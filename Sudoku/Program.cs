@@ -1,10 +1,21 @@
-﻿namespace Sudoku
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace Sudoku
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             char[][] grid = new char[9][] { new char[]{'.', '.', '.', '1', '4', '.', '.', '2', '.' },
                                            new char[]{ '.', '.', '6', '.', '.', '.', '.', '.', '.' },
@@ -36,7 +47,7 @@
             Console.ReadKey();
         }
 
-        static bool Sudoku2(char[][] grid)
+        private static bool Sudoku2(char[][] grid)
         {
             bool result; 
 
@@ -55,7 +66,7 @@
             return result;
         }
 
-        static bool CheckSudoku(char[][] grid, int x, int y)
+        private static bool CheckSudoku(char[][] grid, int x, int y)
         {
             bool output; 
 

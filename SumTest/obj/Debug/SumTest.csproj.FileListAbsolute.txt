@@ -12,3 +12,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\bin\Debug\SumTest.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\bin\Debug\SumTest.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\bin\Debug\SumTest.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\bin\Debug\SumTest.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumTest\obj\Debug\SumTest.csprojAssemblyReference.cache

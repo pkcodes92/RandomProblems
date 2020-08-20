@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LuhnValidator</name>
+    </assembly>
+    <members>
+        <member name="T:LuhnValidator.Luhn">
+            <summary>
+            This is the Luhn class.
+            </summary>
+        </member>
+        <member name="M:LuhnValidator.Luhn.IsValid(System.String)">
+            <summary>
+            This method validates the credit card number.
+            </summary>
+            <param name="number">The credit card number to validate.</param>
+            <returns>A value indicating whether or not the credit card number is valid.</returns>
+        </member>
+        <member name="T:LuhnValidator.Program">
+            <summary>
+            This is the main class.
+            </summary>
+        </member>
+        <member name="M:LuhnValidator.Program.Main(System.String[])">
+            <summary>
+            This is the driver method, and the main entry point of execution at runtime.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

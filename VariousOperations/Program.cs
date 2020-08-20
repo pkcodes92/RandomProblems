@@ -1,10 +1,21 @@
-using System;
+// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace VariousOperations
 {
-    class Program
+    using System;
+
+    /// <summary>
+    /// This is the driver class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.Write("The first integer: ");
             int x = int.Parse(Console.ReadLine());

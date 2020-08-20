@@ -1,19 +1,24 @@
-﻿/*
- * Pranav S. Krishnamurthy
- * 
- * This program will outline the implementation of Dijkstra's Shortest Path Algorithm
- * and comments are going to be made where it is appropriate. 
- * 
- * 17th April 2018
- */
-
-using System;
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace ShortestPathAlgorithm
 {
-    class Program
+    using System;
+
+    /// <summary>
+    /// Pranav S. Krishnamurthy
+    /// This program will outline the implementation of Dijkstra's Shortest Path Algorithm
+    /// and comments are going to be made where it is appropriate.
+    /// 17th April 2018
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main entry point of execution/driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[,] graph = {
                 { 0, 4, 0, 0, 0, 0, 0, 8, 0 },

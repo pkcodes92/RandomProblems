@@ -10,3 +10,10 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumUpListNumbers\bin\Debug
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumUpListNumbers\obj\Debug\SumUpListNumbers.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SumUpListNumbers\bin\Debug\SumUpListNumbers.xml

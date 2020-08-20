@@ -1,10 +1,21 @@
-﻿namespace DumpableDemo
+﻿// <copyright file = "Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace DumpableDemo
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class for the project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             IDumpable[] a =
             {

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ArrayLeftRotation</name>
+    </assembly>
+    <members>
+        <member name="T:ArrayLeftRotation.ArrayInputSizeException">
+            <summary>
+            This is the input size exception class.
+            </summary>
+        </member>
+        <member name="M:ArrayLeftRotation.ArrayInputSizeException.#ctor(System.String)">
+            <summary>
+            This is the exception constructor using a message.
+            </summary>
+            <param name="message">The message to render on the screen.</param>
+        </member>
+        <member name="M:ArrayLeftRotation.ArrayInputSizeException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            Another constructor for the ArrayInputSizeException.
+            </summary>
+            <param name="serializationInfo">The serialization information.</param>
+            <param name="streamingContext">The streaming context.</param>
+        </member>
+        <member name="T:ArrayLeftRotation.LeftRotationQuantityException">
+            <summary>
+            This class is the array quantity exception class.
+            </summary>
+        </member>
+        <member name="M:ArrayLeftRotation.LeftRotationQuantityException.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message">The message to render on the screen.</param>
+        </member>
+        <member name="M:ArrayLeftRotation.LeftRotationQuantityException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+            <summary>
+            This is the protected constructor.
+            </summary>
+            <param name="serializationInfo">The serialization info.</param>
+            <param name="streamingContext">The current streaming context.</param>
+        </member>
+    </members>
+</doc>

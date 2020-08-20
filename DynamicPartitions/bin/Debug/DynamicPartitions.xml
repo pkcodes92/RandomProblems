@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DynamicPartitions</name>
+    </assembly>
+    <members>
+        <member name="T:DynamicPartitions.OrderableListPartitioner`1">
+            <summary>
+            This is the class for the observable list partitioner.
+            </summary>
+            <typeparam name="TSource">A generic type parameter.</typeparam>
+        </member>
+        <member name="M:DynamicPartitions.OrderableListPartitioner`1.#ctor(System.Collections.Generic.IList{`0})">
+            <summary>
+            Default constructor.
+            </summary>
+            <param name="input">The input list.</param>
+        </member>
+        <member name="P:DynamicPartitions.OrderableListPartitioner`1.SupportsDynamicPartitions">
+            <summary>
+            Must override to return true.
+            </summary>
+        </member>
+        <member name="M:DynamicPartitions.OrderableListPartitioner`1.GetOrderablePartitions(System.Int32)">
+            <summary>
+            Gets the orderable partitions.
+            </summary>
+            <param name="partitionCount">An integer variable.</param>
+            <returns>A list of key value pairs.</returns>
+        </member>
+        <member name="M:DynamicPartitions.OrderableListPartitioner`1.GetOrderableDynamicPartitions">
+            <summary>
+            Method that will get the orderable dynamic partitions.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DynamicPartitions.Program">
+            <summary>
+            This is the driver class.
+            </summary>
+        </member>
+        <member name="M:DynamicPartitions.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific command line arguments.</param>
+        </member>
+    </members>
+</doc>

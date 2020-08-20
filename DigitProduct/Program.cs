@@ -1,11 +1,22 @@
-﻿namespace DigitProduct
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace DigitProduct
 {
     using System;
     using System.Collections.Generic;
 
-    class Program
+    /// <summary>
+    /// This is the main class for the project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             var product = 12;
 

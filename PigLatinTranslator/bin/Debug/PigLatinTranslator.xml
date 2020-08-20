@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PigLatinTranslator</name>
+    </assembly>
+    <members>
+        <member name="T:PigLatinTranslator.PigLatin">
+            <summary>
+            This class helps to translate from English to PigLatin.
+            </summary>
+        </member>
+        <member name="M:PigLatinTranslator.PigLatin.Translate(System.String)">
+            <summary>
+            This method conducts the translation.
+            </summary>
+            <param name="english">The original phrase/sentence to translate.</param>
+            <returns>A PigtLatin equivalent of the English phrase.</returns>
+        </member>
+        <member name="T:PigLatinTranslator.Program">
+            <summary>
+            This is the main driver class for this project.
+            </summary>
+        </member>
+        <member name="M:PigLatinTranslator.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

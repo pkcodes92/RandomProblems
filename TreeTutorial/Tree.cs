@@ -1,17 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
+﻿// <copyright file="Tree.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace TreeTutorial
 {
+    using System;
+    using System.Collections.Generic;
+
+    /// <summary>
+    /// This is the class for the tree.
+    /// </summary>
+    /// <typeparam name="T">The generic type for any class to be used.</typeparam>
     public class Tree<T>
     {
         // The root of the tree
         private TreeNode<T> root;
 
         /// <summary>
-        /// Constructs the tree
+        /// Constructs the tree.
         /// </summary>
-        /// <param name="value">The value of the node</param>
+        /// <param name="value">The value of the node.</param>
         public Tree(T value)
         {
             if (value == null)
@@ -23,10 +31,10 @@ namespace TreeTutorial
         }
 
         /// <summary>
-        /// Constructs the tree
+        /// Constructs the tree.
         /// </summary>
-        /// <param name="value">The value of the root node</param>
-        /// <param name="children">The children of the root node</param>
+        /// <param name="value">The value of the root node.</param>
+        /// <param name="children">The children of the root node.</param>
         public Tree(T value, params Tree<T>[] children) : this(value)
         {
             foreach (Tree<T> child in children)
@@ -36,7 +44,7 @@ namespace TreeTutorial
         }
 
         /// <summary>
-        /// The root node or null if the tree is empty
+        /// The root node or null if the tree is empty.
         /// </summary>
         public TreeNode<T> Root
         {
@@ -44,11 +52,11 @@ namespace TreeTutorial
         }
 
         /// <summary>
-        /// Traverses and prints tree in Depth-First-Search
+        /// Traverses and prints tree in Depth-First-Search.
         /// (DFS) manner
         /// </summary>
-        /// <param name="root">The root of the tre to be traversed</param>
-        /// <param name="spaces">The spaces used for representation of the parent-child relation</param>
+        /// <param name="root">The root of the tre to be traversed.</param>
+        /// <param name="spaces">The spaces used for representation of the parent-child relation.</param>
         private void PrintDFS(TreeNode<T> root, string spaces)
         {
             if (this.root == null)
@@ -66,6 +74,9 @@ namespace TreeTutorial
             }
         }
 
+        /// <summary>
+        /// This method will traverse the tree.
+        /// </summary>
         public void TraverseDFS()
         {
             this.PrintDFS(this.root, string.Empty);

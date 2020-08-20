@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShellSort</name>
+    </assembly>
+    <members>
+        <member name="T:ShellSort.Program">
+            <summary>
+            This is the main class.
+            </summary>
+        </member>
+        <member name="M:ShellSort.Program.Main(System.String[])">
+            <summary>
+            This is the driver method/main entry point of execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

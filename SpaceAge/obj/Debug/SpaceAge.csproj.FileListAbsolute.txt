@@ -5,3 +5,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAg
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceAge\bin\Debug\SpaceAge.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceAge\bin\Debug\SpaceAge.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceAge\bin\Debug\SpaceAge.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceAge\bin\Debug\SpaceAge.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\SpaceAge\obj\Debug\SpaceAge.csprojAssemblyReference.cache

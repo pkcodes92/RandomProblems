@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MeetupFinder</name>
+    </assembly>
+    <members>
+        <member name="T:MeetupFinder.Schedule">
+            <summary>
+            This is the schedule enumeration.
+            </summary>
+        </member>
+        <member name="F:MeetupFinder.Schedule.Teenth">
+            <summary>
+            The value for example the thirteenth of the month.
+            </summary>
+        </member>
+        <member name="F:MeetupFinder.Schedule.First">
+            <summary>
+            This represents the first day of the month.
+            </summary>
+        </member>
+        <member name="F:MeetupFinder.Schedule.Second">
+            <summary>
+            This represents the second day of the month.
+            </summary>
+        </member>
+        <member name="F:MeetupFinder.Schedule.Third">
+            <summary>
+            This represents the third day of the month.
+            </summary>
+        </member>
+        <member name="F:MeetupFinder.Schedule.Fourth">
+            <summary>
+            This represents the fourth day of the month.
+            </summary>
+        </member>
+        <member name="F:MeetupFinder.Schedule.Last">
+            <summary>
+            This represents the last day of the month.
+            </summary>
+        </member>
+        <member name="T:MeetupFinder.Meetup">
+            <summary>
+            This is the meetup class.
+            </summary>
+        </member>
+        <member name="F:MeetupFinder.Meetup.month">
+            <summary>
+            The integer for the month to initialize.
+            </summary>
+        </member>
+        <member name="F:MeetupFinder.Meetup.year">
+            <summary>
+            The integer value of the year to initialize.
+            </summary>
+        </member>
+        <member name="M:MeetupFinder.Meetup.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Initializes an instance of the <see cref="T:MeetupFinder.Meetup"/> class.
+            </summary>
+            <param name="month"></param>
+            <param name="year"></param>
+        </member>
+        <member name="M:MeetupFinder.Meetup.Day(System.DayOfWeek,MeetupFinder.Schedule)">
+            <summary>
+            This returns the actually day.
+            </summary>
+            <param name="dayOfWeek">The day of the week.</param>
+            <param name="schedule">The number of the day.</param>
+            <returns></returns>
+        </member>
+        <member name="T:MeetupFinder.Program">
+            <summary>
+            This is the driver class.
+            </summary>
+        </member>
+        <member name="M:MeetupFinder.Program.Main(System.String[])">
+            <summary>
+            The driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

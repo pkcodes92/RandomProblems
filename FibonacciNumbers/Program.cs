@@ -1,10 +1,21 @@
+// <copyright file = "Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace FibonacciNumbers
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main point of entry when it comes to the execution.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter the number of digits to print out for the Fibonnaci sequence: ");
             int len = int.Parse(Console.ReadLine());

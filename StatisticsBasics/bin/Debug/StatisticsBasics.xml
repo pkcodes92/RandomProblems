@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StatisticsBasics</name>
+    </assembly>
+    <members>
+        <member name="T:StatisticsBasics.Program">
+            <summary>
+            This is the driver class.
+            </summary>
+        </member>
+        <member name="M:StatisticsBasics.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

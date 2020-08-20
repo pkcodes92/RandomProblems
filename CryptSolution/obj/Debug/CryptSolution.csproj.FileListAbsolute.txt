@@ -12,3 +12,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\Cr
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\bin\Debug\CryptSolution.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\bin\Debug\CryptSolution.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\bin\Debug\CryptSolution.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\bin\Debug\CryptSolution.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CryptSolution\obj\Debug\CryptSolution.csprojAssemblyReference.cache

@@ -1,10 +1,21 @@
-﻿namespace Minesweeping
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace Minesweeping
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             // This is the input
             bool[][] matrix = new bool[3][] { new bool[]{ true, false, false },
@@ -26,7 +37,7 @@
             Console.ReadKey(); 
         }
 
-        static int[][] Minesweeper(bool[][] matrix)
+        private static int[][] Minesweeper(bool[][] matrix)
         {
             int[][] result = new int[matrix.Length][];
             int[] ii = new int[] { -1, -1, -1, 0, 1, 1, 1, 0 };

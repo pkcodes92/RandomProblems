@@ -1,10 +1,21 @@
+// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
 namespace StringCompression
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The main driver method.
+        /// </summary>
+        /// <param name="args">Project specific command line arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter a string to compress: ");
             string inputString = Console.ReadLine();
@@ -17,7 +28,7 @@ namespace StringCompression
             Console.ReadKey();
         }
 
-        static string Compress(string inputString)
+        private static string Compress(string inputString)
         {
             string compressedString = "";
             int countConsecutive = 0;
@@ -34,6 +45,7 @@ namespace StringCompression
                 }
             }
 
+            // Making use of the ternary expression in C# - writing a conditional in a single line of code.
             return compressedString.Length < inputString.Length ? inputString : compressedString;
         }
     }

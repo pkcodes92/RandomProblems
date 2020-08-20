@@ -1,10 +1,21 @@
-﻿namespace MatrixTraversal
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace MatrixTraversal
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the driver class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method/main entry point of execution.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Please enter a value for m: ");
 
@@ -27,7 +38,7 @@
             Console.ReadKey(); 
         }
 
-        static int CountPaths(int m, int n)
+        private static int CountPaths(int m, int n)
         {
             // Return 1 if it is the first row or first column
             if (m == 1 || n == 1)

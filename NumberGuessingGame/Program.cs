@@ -1,10 +1,21 @@
-﻿namespace NumberGuessingGame
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace NumberGuessingGame
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             while (true)
             {
@@ -40,7 +51,13 @@
             }
         }
 
-        static int NewNumber(int min, int max)
+        /// <summary>
+        /// This method generates a new number.
+        /// </summary>
+        /// <param name="min">The minimum value.</param>
+        /// <param name="max">The maximum value.</param>
+        /// <returns>A number to be used.</returns>
+        public static int NewNumber(int min, int max)
         {
             Random randomGen = new Random();
             return randomGen.Next(min, max);

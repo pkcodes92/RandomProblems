@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CharIsDigit</name>
+    </assembly>
+    <members>
+        <member name="T:CharIsDigit.Program">
+            <summary>
+            This is the main driver class.
+            </summary>
+        </member>
+        <member name="M:CharIsDigit.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:CharIsDigit.Program.IsDigit(System.Char)">
+            <summary>
+            Method that would return a value making the determination whether or not
+            the string that the user provides is a digit or not
+            </summary>
+            <param name="symbol">The string put in by the user</param>
+            <returns>A true or false value</returns>
+        </member>
+    </members>
+</doc>

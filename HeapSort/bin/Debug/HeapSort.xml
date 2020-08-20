@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HeapSort</name>
+    </assembly>
+    <members>
+        <member name="T:HeapSort.Program">
+            <summary>
+            This is the static main class for this project.
+            </summary>
+        </member>
+        <member name="M:HeapSort.Program.Main(System.String[])">
+            <summary>
+            This is the main method.
+            </summary>
+            <param name="args">The project specific arguments.</param>
+        </member>
+    </members>
+</doc>

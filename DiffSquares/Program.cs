@@ -1,11 +1,22 @@
-﻿namespace DiffSquares
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace DiffSquares
 {
     using System;
     using System.Collections.Generic;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[][] matrix = new int[][] { new int[] { 1, 2, 1 }, 
                                            new int[] { 2, 2, 2 }, 

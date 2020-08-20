@@ -10,3 +10,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StatisticsBasics\bin\Debug
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StatisticsBasics\bin\Debug\StatisticsBasics.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StatisticsBasics\obj\Debug\StatisticsBasics.csprojAssemblyReference.cache

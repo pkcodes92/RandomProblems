@@ -12,3 +12,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxB
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\bin\Debug\BoxBlurring.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\bin\Debug\BoxBlurring.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\bin\Debug\BoxBlurring.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\bin\Debug\BoxBlurring.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BoxBlurring\obj\Debug\BoxBlurring.csprojAssemblyReference.cache

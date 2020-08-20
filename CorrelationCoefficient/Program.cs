@@ -1,10 +1,21 @@
-﻿namespace CorrelationCoefficient
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace CorrelationCoefficient
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">The project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[] X = { 15, 18, 21, 24, 27 };
             int[] Y = { 25, 25, 27, 31, 32 };

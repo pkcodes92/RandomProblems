@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WordProblemParser</name>
+    </assembly>
+    <members>
+        <member name="T:WordProblemParser.Program">
+            <summary>
+            This is the driver class.
+            </summary>
+        </member>
+        <member name="M:WordProblemParser.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:WordProblemParser.Program.Answer(System.String)">
+            <summary>
+            Parser to be able to get the necessary answer provided the 
+            actual word problem
+            </summary>
+            <param name="question">The full on question being asked</param>
+            <returns>An integer that represents the answer</returns>
+        </member>
+    </members>
+</doc>

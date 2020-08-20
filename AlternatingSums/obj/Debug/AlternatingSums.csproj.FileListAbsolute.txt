@@ -12,3 +12,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\AlternatingSums.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\AlternatingSums.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\AlternatingSums.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\bin\Debug\AlternatingSums.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\bin\Debug\AlternatingSums.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\bin\Debug\AlternatingSums.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\AlternatingSums.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\AlternatingSums.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\AlternatingSums.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\bin\Debug\AlternatingSums.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\AlternatingSums\obj\Debug\AlternatingSums.csprojAssemblyReference.cache

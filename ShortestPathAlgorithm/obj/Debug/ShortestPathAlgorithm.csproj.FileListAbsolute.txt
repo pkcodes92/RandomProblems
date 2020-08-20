@@ -10,3 +10,10 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\bin\
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\bin\Debug\ShortestPathAlgorithm.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\bin\Debug\ShortestPathAlgorithm.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\bin\Debug\ShortestPathAlgorithm.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ShortestPathAlgorithm\obj\Debug\ShortestPathAlgorithm.csprojAssemblyReference.cache

@@ -12,3 +12,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Deb
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\bin\Debug\LinkedListTutorial.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinkedListTutorial\obj\Debug\LinkedListTutorial.csprojAssemblyReference.cache

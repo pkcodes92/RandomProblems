@@ -1,11 +1,22 @@
-﻿using System;
-using System.Linq;
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace ReturnLongestWord
 {
-    class Program
+    using System;
+    using System.Linq;
+
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             var text = "Ready, steady, go!";
             string output = LongestWord(text);
@@ -14,7 +25,12 @@ namespace ReturnLongestWord
             Console.ReadKey();
         }
 
-        static string LongestWord(string text)
+        /// <summary>
+        /// This method returns the longest word.
+        /// </summary>
+        /// <param name="text">The sentence to analyze.</param>
+        /// <returns>The longest word in the sentence.</returns>
+        public static string LongestWord(string text)
         {
             string[] s = text.Split(new char[]
             {

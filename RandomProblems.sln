@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2015
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{425AC3C0-258D-4056-BC22-40D26D4A42F5}"
 EndProject
@@ -125,11 +125,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearchProblem", "Line
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort", "CountingSort\CountingSort.csproj", "{44E8F7C8-3ADE-4613-85BF-2CA2629BA0B7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C1E6E36A-5ECE-4CA8-A7C8-85E7E74C5CFC}"
-	ProjectSection(SolutionItems) = preProject
-		Test.json = Test.json
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonParsing", "JsonParsing\JsonParsing.csproj", "{C64EA328-9CCD-4DE8-A33F-741FE2B48ADD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceCounting", "SpaceCounting\SpaceCounting.csproj", "{8B8953FD-790A-4E82-A488-5892E7F05872}"
@@ -203,6 +198,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicPartitions", "DynamicPartitions\DynamicPartitions.csproj", "{0B02F4F7-4E62-4D38-9E3F-194935211286}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGuessingGame", "NumberGuessingGame\NumberGuessingGame.csproj", "{E904D938-EE05-4789-AC95-0E9ECD763F61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.csproj", "{9504F08F-24FA-4996-8622-CD530AC9BDFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleSorting", "TupleSorting\TupleSorting.csproj", "{7776CD72-AE5A-46D5-818D-F35C3E547686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker", "PalindromeChecker\PalindromeChecker.csproj", "{6F29E0AF-81A3-40AD-921E-BA530FC21390}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -602,6 +603,18 @@ Global
 		{E904D938-EE05-4789-AC95-0E9ECD763F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E904D938-EE05-4789-AC95-0E9ECD763F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E904D938-EE05-4789-AC95-0E9ECD763F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9504F08F-24FA-4996-8622-CD530AC9BDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9504F08F-24FA-4996-8622-CD530AC9BDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9504F08F-24FA-4996-8622-CD530AC9BDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9504F08F-24FA-4996-8622-CD530AC9BDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7776CD72-AE5A-46D5-818D-F35C3E547686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7776CD72-AE5A-46D5-818D-F35C3E547686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7776CD72-AE5A-46D5-818D-F35C3E547686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7776CD72-AE5A-46D5-818D-F35C3E547686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F29E0AF-81A3-40AD-921E-BA530FC21390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F29E0AF-81A3-40AD-921E-BA530FC21390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F29E0AF-81A3-40AD-921E-BA530FC21390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F29E0AF-81A3-40AD-921E-BA530FC21390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

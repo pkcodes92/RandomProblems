@@ -5,3 +5,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\Li
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\bin\Debug\LinqInnerJoin.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\bin\Debug\LinqInnerJoin.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\bin\Debug\LinqInnerJoin.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\bin\Debug\LinqInnerJoin.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\LinqInnerJoin\obj\Debug\LinqInnerJoin.csprojAssemblyReference.cache

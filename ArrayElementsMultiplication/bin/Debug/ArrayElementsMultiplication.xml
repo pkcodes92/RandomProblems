@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ArrayElementsMultiplication</name>
+    </assembly>
+    <members>
+        <member name="T:ArrayElementsMultiplication.Program">
+            <summary>
+            This is the necessary driver class.
+            </summary>
+        </member>
+        <member name="M:ArrayElementsMultiplication.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

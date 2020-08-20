@@ -1,0 +1,8 @@
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StackOperations\bin\Debug\StackOperations.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StackOperations\bin\Debug\StackOperations.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StackOperations\bin\Debug\StackOperations.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StackOperations\obj\Debug\StackOperations.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StackOperations\obj\Debug\StackOperations.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StackOperations\obj\Debug\StackOperations.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StackOperations\bin\Debug\StackOperations.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\StackOperations\obj\Debug\StackOperations.csprojAssemblyReference.cache

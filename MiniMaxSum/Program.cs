@@ -1,17 +1,21 @@
-﻿/*
- * Date : 6th April 2018
- * 
- * Purpose : To solve the mini-max sum from HackerRank
- *           in the language of C#
- */
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace MiniMaxSum
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[] arr = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
             FindMiniMaxSum(arr);
@@ -19,7 +23,7 @@ namespace MiniMaxSum
             Console.ReadKey();
         }
 
-        static void FindMiniMaxSum(int[] arr)
+        private static void FindMiniMaxSum(int[] arr)
         {
             long[] a = new long[5];
             long sum = 0;

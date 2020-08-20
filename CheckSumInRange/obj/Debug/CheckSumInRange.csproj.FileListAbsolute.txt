@@ -5,3 +5,10 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumInRange\obj\Debug\
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumInRange\obj\Debug\CheckSumInRange.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumInRange\obj\Debug\CheckSumInRange.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CheckSumInRange\obj\Debug\CheckSumInRange.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\bin\Debug\CheckSumInRange.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\bin\Debug\CheckSumInRange.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\bin\Debug\CheckSumInRange.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\obj\Debug\CheckSumInRange.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\obj\Debug\CheckSumInRange.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\obj\Debug\CheckSumInRange.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CheckSumInRange\bin\Debug\CheckSumInRange.xml

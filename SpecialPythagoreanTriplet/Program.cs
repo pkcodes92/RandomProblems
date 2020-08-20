@@ -1,10 +1,21 @@
-﻿namespace SpecialPythagoreanTriplet
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace SpecialPythagoreanTriplet
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main class for the project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The main entry point of execution/driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             BruteForce();
             NumberTheory();
@@ -16,7 +27,7 @@
         /// Going through the brute force approach - seeing how there would be some
         /// time taken for this solution to the problem
         /// </summary>
-        static void BruteForce()
+        private static void BruteForce()
         {
             DateTime startTime = DateTime.Now;
             int a = 0, b = 0, c = 0;
@@ -54,7 +65,7 @@
         /// Approach using number theory and having the ability to see how
         /// the solution can also be devised through a recursive approach
         /// </summary>
-        static void NumberTheory()
+        private static void NumberTheory()
         {
             DateTime startTime = DateTime.Now;
             int a = 0, b = 0, c = 0;

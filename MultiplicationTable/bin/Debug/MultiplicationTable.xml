@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MultiplicationTable</name>
+    </assembly>
+    <members>
+        <member name="T:MultiplicationTable.Program">
+            <summary>
+            This is the driver class for this project.
+            </summary>
+        </member>
+        <member name="M:MultiplicationTable.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project command line specific arguments.</param>
+        </member>
+    </members>
+</doc>

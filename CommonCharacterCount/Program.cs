@@ -1,10 +1,21 @@
-﻿namespace CommonCharacterCount
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace CommonCharacterCount
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             string s1 = "aabcc";
             string s2 = "adcaa";
@@ -24,7 +35,7 @@
         /// <param name="s1">The first of two hardcoded strings</param>
         /// <param name="s2">The second of two hardcoded strings</param>
         /// <returns>An integer noting the number of common characters</returns>
-        static int FindCommonCount(string s1, string s2)
+        public static int FindCommonCount(string s1, string s2)
         {
             int count = 0;
             bool[] temp = new bool[30];

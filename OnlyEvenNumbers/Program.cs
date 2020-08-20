@@ -1,10 +1,21 @@
-﻿namespace OnlyEvenNumbers
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace OnlyEvenNumbers
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the main class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The driver method for this.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int n = 248622;
 
@@ -16,7 +27,7 @@
             Console.ReadKey();
         }
 
-        static bool EvenDigitsOnly(int n)
+        private static bool EvenDigitsOnly(int n)
         {
             var finalRes = true; 
             int temp = n;

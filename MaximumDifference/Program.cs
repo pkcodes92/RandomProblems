@@ -1,8 +1,15 @@
-﻿namespace MaximumDifference
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace MaximumDifference
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the driver class.
+    /// </summary>
+    public static class Program
     {
         /// <summary>
         /// The function assumes that there are at least
@@ -12,7 +19,7 @@
         /// <param name="arr_size">Size of the array input</param>
         /// <returns>Function will return a negative value if the array is sorted in
         /// decreasing order. Also it would return 0 if the elements are equal</returns>
-        static int MaxDiff(int[] arr, int arr_size)
+        public static int MaxDiff(int[] arr, int arr_size)
         {
             int max_diff = arr[1] - arr[0];
             int min_element = arr[0];
@@ -34,7 +41,11 @@
             return max_diff;
         }
 
-        static void Main(string[] args)
+        /// <summary>
+        /// The main entry point at runtime.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[] arr = { 14, 55, 76, 5, 9, 28, 22 };
             int size = arr.Length;

@@ -1,10 +1,21 @@
-﻿namespace StackOperations
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace StackOperations
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// The main class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The main entry point of execution/driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Stack st = new Stack();
             while (true)

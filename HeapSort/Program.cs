@@ -1,10 +1,21 @@
-﻿namespace HeapSort
+﻿// <copyright file = "Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace HeapSort
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the static main class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main method.
+        /// </summary>
+        /// <param name="args">The project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[] myKeys = new int[] { 2, 5, -4, 11, 0, 18, 22, 67, 51, 6 };
 

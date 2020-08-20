@@ -10,3 +10,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CharIsDigit\bin\Debug\Char
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\bin\Debug\CharIsDigit.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\CharIsDigit\obj\Debug\CharIsDigit.csprojAssemblyReference.cache

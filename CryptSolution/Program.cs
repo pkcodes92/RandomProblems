@@ -1,4 +1,8 @@
-﻿namespace CryptSolution
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace CryptSolution
 {
     using System;
     using System.Collections.Generic;

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImageRotation</name>
+    </assembly>
+    <members>
+        <member name="T:ImageRotation.Program">
+            <summary>
+            This is the main class.
+            </summary>
+        </member>
+        <member name="M:ImageRotation.Program.Main(System.String[])">
+            <summary>
+            This is the driver method/main point of execution.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ArrayReplacement</name>
+    </assembly>
+    <members>
+        <member name="T:ArrayReplacement.Program">
+            <summary>
+            This is the program class.
+            </summary>
+        </member>
+        <member name="M:ArrayReplacement.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">Project specific based.</param>
+        </member>
+        <member name="M:ArrayReplacement.Program.ArrayReplace(System.Int32[],System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            This is the method that will be called in order to perform the 
+            operations
+            </summary>
+            <param name="inputArray">The input array containing integers</param>
+            <param name="elemToReplace">An element that will be replaced in the integers</param>
+            <param name="substitutionElem">What element is to be used for the substitution</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

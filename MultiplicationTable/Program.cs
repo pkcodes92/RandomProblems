@@ -1,19 +1,21 @@
-﻿/*
- * Author   : Pranav S. Krishnamurthy
- * 
- * Date     : 31st March 2018
- * 
- * Purpose  : To create a program that will print out the multiplication table for
- *            a user provided integer
- */
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace MultiplicationTable
 {
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the driver class for this project.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project command line specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.WriteLine("Enter an integer: ");
             int N = Convert.ToInt32(Console.ReadLine());
@@ -28,6 +30,7 @@ namespace MultiplicationTable
                 Console.WriteLine(string.Format("{0} x {1} = {2}", N, i, product));
             }
 
+            Console.WriteLine("Program execution has finished, you may press any key to exit.");
             Console.ReadKey(); 
         }
     }

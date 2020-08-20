@@ -1,25 +1,44 @@
-﻿namespace DynamicPartitions
+﻿// <copyright file="ObservableListPartitioner.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace DynamicPartitions
 {
     using System.Collections;
     using System.Collections.Concurrent;
     using System.Collections.Generic;
     using System.Threading;
 
+    /// <summary>
+    /// This is the class for the observable list partitioner.
+    /// </summary>
+    /// <typeparam name="TSource">A generic type parameter.</typeparam>
     public class OrderableListPartitioner<TSource> : OrderablePartitioner<TSource>
     {
         private readonly IList<TSource> m_input; 
 
+        /// <summary>
+        /// Default constructor.
+        /// </summary>
+        /// <param name="input">The input list.</param>
         public OrderableListPartitioner(IList<TSource> input): base(true, false, true)
         {
             m_input = input;
         }
 
-        // Must override to return true.
+        /// <summary>
+        /// Must override to return true.
+        /// </summary>
         public override bool SupportsDynamicPartitions
         {
             get { return true; }
         }
 
+        /// <summary>
+        /// Gets the orderable partitions.
+        /// </summary>
+        /// <param name="partitionCount">An integer variable.</param>
+        /// <returns>A list of key value pairs.</returns>
         public override IList<IEnumerator<KeyValuePair<long, TSource>>> GetOrderablePartitions(int partitionCount)
         {
             var dynamicPartitions = GetOrderableDynamicPartitions();
@@ -33,6 +52,10 @@
             return partitions;
         }
 
+        /// <summary>
+        /// Method that will get the orderable dynamic partitions.
+        /// </summary>
+        /// <returns></returns>
         public override IEnumerable<KeyValuePair<long, TSource>> GetOrderableDynamicPartitions()
         {
             return new ListDynamicPartitions(m_input); 

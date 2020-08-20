@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJn8vfWVZ1OASgbJRbSpWhmnbMqPNIeV7kHC1Twmy9JtVDb6GQ3QKR0aeVS7WjSWD3PRJxA8V0fTbT1s05xTGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\EuclideanGCD\\EuclideanGCD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\1837330\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

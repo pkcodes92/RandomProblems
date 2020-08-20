@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SpaceAge</name>
+    </assembly>
+    <members>
+        <member name="T:SpaceAge.SpaceCalculations">
+            <summary>
+            This is another file with regards to the space calculations.
+            </summary>
+            <summary>
+            This class is a partial class for the space calculations.
+            </summary>
+        </member>
+        <member name="T:SpaceAge.SpaceCalculations.Constants">
+            <summary>
+            This struct represents all of the constants.
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.SECONDS_IN_EARTH_YEAR">
+            <summary>
+            The number of seconds in a year on Earth
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.MERCURY_PERIOD">
+            <summary>
+            The orbital period of Mercury as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.VENUS_PERIOD">
+            <summary>
+            The orbital period of Venus as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.MARS_PERIOD">
+            <summary>
+            The orbital period of Mars as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.JUPITER_PERIOD">
+            <summary>
+            The orbital period of Jupiter as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.SATURN_PERIOD">
+            <summary>
+            The orbital period of Saturn as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.URANUS_PERIOD">
+            <summary>
+            The orbital period of Uranus as measured in Earth years
+            </summary>
+        </member>
+        <member name="F:SpaceAge.SpaceCalculations.Constants.NEPTUNE_PERIOD">
+            <summary>
+            The orbital period of Neptune as measured in Earth years
+            </summary>
+        </member>
+        <member name="M:SpaceAge.SpaceCalculations.#ctor(System.Int32)">
+            <summary>
+            This initializes a type of <see cref="T:SpaceAge.SpaceCalculations"/>.
+            </summary>
+            <param name="seconds"></param>
+        </member>
+        <member name="M:SpaceAge.SpaceCalculations.OnEarth">
+            <summary>
+            This will calculate the age on Earth.
+            </summary>
+            <returns>A person's age on Earth.</returns>
+        </member>
+        <member name="M:SpaceAge.SpaceCalculations.OnMercury">
+            <summary>
+            Calculates the age on Mercury.
+            </summary>
+            <returns>A double value that will return the correct value.</returns>
+        </member>
+        <member name="M:SpaceAge.SpaceCalculations.OnVenus">
+            <summary>
+            This method calculates a person's age on Venus.
+            </summary>
+            <returns>A person's age on Venus.</returns>
+        </member>
+        <member name="M:SpaceAge.SpaceCalculations.OnMars">
+            <summary>
+            This method calculates a person's age on Mars.
+            </summary>
+            <returns>A person's age on Mars.</returns>
+        </member>
+        <member name="M:SpaceAge.SpaceCalculations.OnJupiter">
+            <summary>
+            This method calculates a person's age on Jupiter.
+            </summary>
+            <returns>A person's age on Jupiter.</returns>
+        </member>
+        <member name="M:SpaceAge.SpaceCalculations.OnSaturn">
+            <summary>
+            This method calculates a person's age on Saturn.
+            </summary>
+            <returns>A person's age on Saturn.</returns>
+        </member>
+        <member name="M:SpaceAge.SpaceCalculations.OnUranus">
+            <summary>
+            This method calculates a person's age on Uranus.
+            </summary>
+            <returns>A person's age on Uranus.</returns>
+        </member>
+        <member name="M:SpaceAge.SpaceCalculations.OnNeptune">
+            <summary>
+            This method calculates a person's age on Neptune.
+            </summary>
+            <returns>A person's age on Neptune.</returns>
+        </member>
+        <member name="T:SpaceAge.Program">
+            <summary>
+            Given an age in seconds, calculate how old someone would be on: 
+            Earth: orbital period 365.25 Earth days, or 31557600 seconds
+            Mercury: orbital period 0.2408467 Earth years
+            Venus: orbital period 0.61519726 Earth years
+            Mars: orbital period 1.8808158 Earth years
+            Jupiter: orbital period 11.862615 Earth years
+            Saturn: orbital period 29.447498 Earth years
+            Uranus: orbital period 84.016846 Earth years
+            Neptune: orbital period 164.79132 Earth years
+            </summary>
+        </member>
+        <member name="M:SpaceAge.Program.Main(System.String[])">
+            <summary>
+            This is the main entry point of execution/driver method for this project.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+    </members>
+</doc>

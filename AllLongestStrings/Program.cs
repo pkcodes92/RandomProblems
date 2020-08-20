@@ -1,12 +1,23 @@
-﻿namespace AllLongestStrings
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace AllLongestStrings
 {
     using System;
     using System.Collections;
     using System.Collections.Generic;
 
-    class Program
+    /// <summary>
+    /// This is the main driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">The project specific arguments.</param>
+        public static void Main(string[] args)
         {
             string[] inputArray = new string[] { "aba", "aa", "ad", "vcd", "aba" };
             Console.WriteLine("Input Array: ");
@@ -20,6 +31,7 @@
             Console.WriteLine("Output: ");
 
             string[] outputArray = AllLongestStrings(inputArray);
+
             string[] outputArray2 = AllLongStrings(inputArray); 
 
             for (int j = 0; j < outputArray.Length; j++)
@@ -37,9 +49,15 @@
         /// </summary>
         /// <param name="inputArray">The string that the user enters</param>
         /// <returns>An array (or even a list) of all the longest elements inside of the user input string</returns>
-        static string[] AllLongestStrings(string[] inputArray)
+        public static string[] AllLongestStrings(string[] inputArray)
         {
+            if (inputArray is null)
+            {
+                throw new ArgumentNullException(nameof(inputArray));
+            }
+
             int max = 0;
+
             Queue stringQ = new Queue();
 
             for (int i = 0; i < inputArray.Length; i++)
@@ -57,6 +75,7 @@
             }
 
             string[] strL = new string[stringQ.Count];
+
             for (int i = 0; i < strL.Length; i++)
             {
                 strL[i] = (string)stringQ.Dequeue(); 
@@ -70,8 +89,13 @@
         /// </summary>
         /// <param name="inputArray">Returns the longest string inside of the user input string</param>
         /// <returns>A string array</returns>
-        static string[] AllLongStrings(string[] inputArray)
+        public static string[] AllLongStrings(string[] inputArray)
         {
+            if (inputArray is null)
+            {
+                throw new ArgumentNullException(nameof(inputArray));
+            }
+
             int max = 0;
 
             List<string> lst = new List<string>();
@@ -90,6 +114,7 @@
             }
 
             var output = lst.ToArray();
+
             return output; 
         }
     }

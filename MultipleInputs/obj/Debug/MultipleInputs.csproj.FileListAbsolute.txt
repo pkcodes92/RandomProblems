@@ -5,3 +5,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MultipleInputs\obj\Debug\M
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MultipleInputs\obj\Debug\MultipleInputs.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MultipleInputs\obj\Debug\MultipleInputs.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\MultipleInputs\obj\Debug\MultipleInputs.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MultipleInputs\bin\Debug\MultipleInputs.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MultipleInputs\bin\Debug\MultipleInputs.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MultipleInputs\bin\Debug\MultipleInputs.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MultipleInputs\obj\Debug\MultipleInputs.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MultipleInputs\obj\Debug\MultipleInputs.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MultipleInputs\obj\Debug\MultipleInputs.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MultipleInputs\bin\Debug\MultipleInputs.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\MultipleInputs\obj\Debug\MultipleInputs.csprojAssemblyReference.cache

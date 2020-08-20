@@ -1,30 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
+﻿// <copyright file="TreeNode.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
 
 namespace TreeTutorial
 {
+    using System;
+    using System.Collections.Generic;
+
+    /// <summary>
+    /// This is the class for the tree node.
+    /// </summary>
+    /// <typeparam name="T">The generic type for any class.</typeparam>
     public class TreeNode<T>
     {
         /// <summary>
-        /// This contains the value of the node
+        /// This contains the value of the node.
         /// </summary>
         private T value;
 
         /// <summary>
-        /// Shows whether the current node has a
-        /// parent or not
+        /// Shows whether the current node has a parent or not.
         /// </summary>
         private bool hasParent;
 
         /// <summary>
-        /// Contains the children of the node (zero or more)
+        /// Contains the children of the node (zero or more).
         /// </summary>
         private List<TreeNode<T>> children;
 
         /// <summary>
-        /// Constructs a tree node
+        /// Constructs a tree node.
         /// </summary>
-        /// <param name="value">The value of the node</param>
+        /// <param name="value">The value of the node.</param>
         public TreeNode(T value)
         {
             if (value == null)
@@ -37,7 +44,7 @@ namespace TreeTutorial
         }
 
         /// <summary>
-        /// The value of the node
+        /// The value of the node.
         /// </summary>
         public T Value
         {
@@ -46,7 +53,7 @@ namespace TreeTutorial
         }
 
         /// <summary>
-        /// The number of the children of the nodes
+        /// The number of the children of the nodes.
         /// </summary>
         public int ChildrenCount
         {
@@ -54,9 +61,9 @@ namespace TreeTutorial
         }
 
         /// <summary>
-        /// Adds child to the node
+        /// Adds child to the node.
         /// </summary>
-        /// <param name="child">The child to be added</param>
+        /// <param name="child">The child to be added.</param>
         public void AddChild(TreeNode<T> child)
         {
             if (child == null)
@@ -74,11 +81,10 @@ namespace TreeTutorial
         }
 
         /// <summary>
-        /// Gets the child of the node at a given
-        /// index
+        /// Gets the child of the node at a given index.
         /// </summary>
-        /// <param name="index">The index of the desired child</param>
-        /// <returns>The child on the given position</returns>
+        /// <param name="index">The index of the desired child.</param>
+        /// <returns>The child on the given position.</returns>
         public TreeNode<T> GetChild(int index)
         {
             return this.children[index];

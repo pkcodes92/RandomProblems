@@ -1,4 +1,8 @@
-﻿namespace StructBasicsProblem1
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace StructBasicsProblem1
 {
     using System;
 
@@ -6,20 +10,31 @@
     /// Having the ability to set values as part of a struct data
     /// type in C# - where the members are public by default
     /// </summary>
-    struct ValuesStruct
+    public struct ValuesStruct
     {
+        /// <summary>
+        /// Defines the value of x.
+        /// </summary>
         public int x;
+
+        /// <summary>
+        /// Defines the value of y.
+        /// </summary>
         public int y; 
     }
 
     /// <summary>
     /// With the classes, you can have members in a class, however
     /// by default they are private as opposed to structs where the
-    /// members of structs are actually public by default
+    /// members of structs are actually public by default.
     /// </summary>
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             Console.Write("\n\n Declaring a simple structure: \n");
             Console.Write("-----------------------------------\n");

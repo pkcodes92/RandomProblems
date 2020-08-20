@@ -1,0 +1,8 @@
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingFileDirectory\bin\Debug\ParallelProgrammingFileDirectory.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingFileDirectory\bin\Debug\ParallelProgrammingFileDirectory.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingFileDirectory\bin\Debug\ParallelProgrammingFileDirectory.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingFileDirectory\obj\Debug\ParallelProgrammingFileDirectory.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingFileDirectory\obj\Debug\ParallelProgrammingFileDirectory.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingFileDirectory\obj\Debug\ParallelProgrammingFileDirectory.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingFileDirectory\obj\Debug\ParallelProgrammingFileDirectory.csprojAssemblyReference.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ParallelProgrammingFileDirectory\bin\Debug\ParallelProgrammingFileDirectory.xml

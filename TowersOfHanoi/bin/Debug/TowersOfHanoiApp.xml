@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TowersOfHanoiApp</name>
+    </assembly>
+    <members>
+        <member name="T:TowersOfHanoiApp.TowerOfHanoi">
+            <summary>
+            This is the tower of hanoi class.
+            </summary>
+        </member>
+        <member name="M:TowersOfHanoiApp.TowerOfHanoi.#ctor">
+            <summary>
+            This initializes an instance of <see cref="T:TowersOfHanoiApp.TowerOfHanoi"/>.
+            </summary>
+        </member>
+        <member name="M:TowersOfHanoiApp.TowerOfHanoi.#ctor(System.Int32)">
+            <summary>
+            Tower of Hanoi constructor.
+            </summary>
+            <param name="newVal">The new value.</param>
+        </member>
+        <member name="P:TowersOfHanoiApp.TowerOfHanoi.NumDiscs">
+            <summary>
+            Gets or sets the number of discs.
+            </summary>
+        </member>
+        <member name="M:TowersOfHanoiApp.TowerOfHanoi.MoveTower(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            This method moves the tower from one peg to another.
+            </summary>
+            <param name="n">The number of discs.</param>
+            <param name="from">The original peg.</param>
+            <param name="to">The destination peg.</param>
+            <param name="other">The remaining discs.</param>
+        </member>
+    </members>
+</doc>

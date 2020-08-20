@@ -1,18 +1,21 @@
-﻿namespace ArrayElementsMultiplication
+﻿// <copyright file="Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace ArrayElementsMultiplication
 {
-    /*
-     * Author   : Pranav S. Krishnamurthy
-     * 
-     * Date     : 31st March 2018
-     * 
-     * Purpose  : To create a C# console application that will multiply elements
-     *            of two arrays and print them out
-     */
     using System;
 
-    class Program
+    /// <summary>
+    /// This is the necessary driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the main driver method.
+        /// </summary>
+        /// <param name="args">Project specific arguments.</param>
+        public static void Main(string[] args)
         {
             int[] first_array = { 1, 3, -5, 4 };
             int[] second_array = { 1, 4, -5, -2 };

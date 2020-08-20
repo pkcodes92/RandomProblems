@@ -12,3 +12,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\Dig
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\bin\Debug\DigitRemoval.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\bin\Debug\DigitRemoval.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\bin\Debug\DigitRemoval.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\bin\Debug\DigitRemoval.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\DigitRemoval\obj\Debug\DigitRemoval.csprojAssemblyReference.cache

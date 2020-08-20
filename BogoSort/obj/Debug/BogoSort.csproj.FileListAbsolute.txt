@@ -5,3 +5,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSor
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BogoSort\bin\Debug\BogoSort.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BogoSort\bin\Debug\BogoSort.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BogoSort\bin\Debug\BogoSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BogoSort\bin\Debug\BogoSort.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\BogoSort\obj\Debug\BogoSort.csprojAssemblyReference.cache

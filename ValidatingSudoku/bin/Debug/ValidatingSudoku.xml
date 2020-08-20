@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ValidatingSudoku</name>
+    </assembly>
+    <members>
+        <member name="T:ValidatingSudoku.Program">
+            <summary>
+            This is the main driver class for the project.
+            </summary>
+        </member>
+        <member name="M:ValidatingSudoku.Program.Main(System.String[])">
+            <summary>
+            The main driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:ValidatingSudoku.Program.ValidatePuzzle(System.Int32[][])">
+            <summary>
+            This method will actually validate the
+            provided Sudoku puzzle
+            </summary>
+            <param name="grid">The 9 x 9 sudoku puzzle to validate</param>
+            <returns>A final boolean value either true or false</returns>
+        </member>
+    </members>
+</doc>

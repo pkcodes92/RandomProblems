@@ -1,12 +1,23 @@
-﻿namespace DynamicPartitions
+﻿// <copyright file = "Program.cs" company="TCS Ltd">
+// Copyright (c) TCS Ltd. All rights reserved.
+// </copyright>
+
+namespace DynamicPartitions
 {
     using System;
     using System.Linq;
     using System.Threading.Tasks;
 
-    class Program
+    /// <summary>
+    /// This is the driver class.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This is the driver method.
+        /// </summary>
+        /// <param name="args">Project specific command line arguments.</param>
+        public static void Main(string[] args)
         {
             var nums = Enumerable.Range(0, 10000).ToArray();
             OrderableListPartitioner<int> partitioner = new OrderableListPartitioner<int>(nums);

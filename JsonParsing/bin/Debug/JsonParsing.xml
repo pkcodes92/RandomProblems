@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JsonParsing</name>
+    </assembly>
+    <members>
+        <member name="T:JsonParsing.Program">
+            <summary>
+            This is the main class.
+            </summary>
+        </member>
+        <member name="M:JsonParsing.Program.Main(System.String[])">
+            <summary>
+            This is the driver method for this project.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="T:JsonParsing.RequiredResourceAccess">
+            <summary>
+            This is the required resource access object.
+            </summary>
+        </member>
+        <member name="P:JsonParsing.RequiredResourceAccess.ResourceAppId">
+            <summary>
+            Gets or sets the resource app ID.
+            </summary>
+        </member>
+        <member name="P:JsonParsing.RequiredResourceAccess.ResourceAccess">
+            <summary>
+            Gets or sets the list of resource access.
+            </summary>
+        </member>
+        <member name="T:JsonParsing.ResourceAccess">
+            <summary>
+            This class models the resource access.
+            </summary>
+        </member>
+        <member name="P:JsonParsing.ResourceAccess.Id">
+            <summary>
+            Gets or sets the ID.
+            </summary>
+        </member>
+        <member name="P:JsonParsing.ResourceAccess.Type">
+            <summary>
+            Gets or sets the type.
+            </summary>
+        </member>
+    </members>
+</doc>

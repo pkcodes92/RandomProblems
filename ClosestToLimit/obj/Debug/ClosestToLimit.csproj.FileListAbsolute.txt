@@ -19,3 +19,11 @@ C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\C
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csproj.CoreCompileInputs.cache
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.exe
 C:\Users\v-prkris\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.exe.config
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csproj.CoreCompileInputs.cache
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.exe
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.pdb
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestToLimit\bin\Debug\ClosestToLimit.xml
+C:\Users\1837330\Documents\Side Stuff\RandomProblems\ClosestToLimit\obj\Debug\ClosestToLimit.csprojAssemblyReference.cache

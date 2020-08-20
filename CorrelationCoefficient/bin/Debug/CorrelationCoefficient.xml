@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CorrelationCoefficient</name>
+    </assembly>
+    <members>
+        <member name="T:CorrelationCoefficient.Program">
+            <summary>
+            This is the main driver class for this project.
+            </summary>
+        </member>
+        <member name="M:CorrelationCoefficient.Program.Main(System.String[])">
+            <summary>
+            This is the main driver method.
+            </summary>
+            <param name="args">The project specific arguments.</param>
+        </member>
+    </members>
+</doc>
