@@ -1,39 +1,52 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\SeriesProblem\\SeriesProblem.csproj": {}
+    "D:\\GitHub\\RandomProblems\\SeriesProblem\\SeriesProblem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\SeriesProblem\\SeriesProblem.csproj": {
+    "D:\\GitHub\\RandomProblems\\SeriesProblem\\SeriesProblem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\SeriesProblem\\SeriesProblem.csproj",
+        "projectUniqueName": "D:\\GitHub\\RandomProblems\\SeriesProblem\\SeriesProblem.csproj",
         "projectName": "SeriesProblem",
-        "projectPath": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\SeriesProblem\\SeriesProblem.csproj",
-        "packagesPath": "C:\\Users\\1837330\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\1837330\\Documents\\Side Stuff\\RandomProblems\\SeriesProblem\\obj\\",
+        "projectPath": "D:\\GitHub\\RandomProblems\\SeriesProblem\\SeriesProblem.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\RandomProblems\\SeriesProblem\\obj\\",
         "projectStyle": "PackageReference",
-        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\1837330\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net461"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net461": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {
-        "net461": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
             "Microsoft.CodeAnalysis.FxCopAnalyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -45,19 +58,28 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[1.1.118, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
             }
-          }
-        }
-      },
-      "runtimes": {
-        "win": {
-          "#import": []
-        },
-        "win-x64": {
-          "#import": []
-        },
-        "win-x86": {
-          "#import": []
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
