@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    ".NETFramework,Version=v5.0": {
       "Microsoft.CodeAnalysis.FxCopAnalyzers/3.0.0": {
         "type": "package",
         "dependencies": {
@@ -28,11 +28,14 @@
       },
       "Microsoft.CSharp/4.7.0": {
         "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
+          "ref/net45/_._": {}
         },
         "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "lib/net45/_._": {}
         }
       },
       "Microsoft.NetCore.Analyzers/3.0.0": {
@@ -52,11 +55,79 @@
       },
       "System.Data.DataSetExtensions/4.5.0": {
         "type": "package",
+        "frameworkAssemblies": [
+          "System.Data.DataSetExtensions"
+        ],
         "compile": {
-          "ref/netstandard2.0/System.Data.DataSetExtensions.dll": {}
+          "ref/net45/_._": {}
         },
         "runtime": {
-          "lib/netstandard2.0/System.Data.DataSetExtensions.dll": {}
+          "lib/net45/_._": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v5.0/win7-x86": {
+      "Microsoft.CodeAnalysis.FxCopAnalyzers/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.CodeAnalysis.VersionCheckAnalyzer": "[3.0.0]",
+          "Microsoft.CodeQuality.Analyzers": "[3.0.0]",
+          "Microsoft.NetCore.Analyzers": "[3.0.0]",
+          "Microsoft.NetFramework.Analyzers": "[3.0.0]"
+        },
+        "build": {
+          "build/Microsoft.CodeAnalysis.FxCopAnalyzers.props": {}
+        }
+      },
+      "Microsoft.CodeAnalysis.VersionCheckAnalyzer/3.0.0": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.CodeAnalysis.VersionCheckAnalyzer.props": {}
+        }
+      },
+      "Microsoft.CodeQuality.Analyzers/3.0.0": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.CodeQuality.Analyzers.props": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp"
+        ],
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
+        }
+      },
+      "Microsoft.NetCore.Analyzers/3.0.0": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NetCore.Analyzers.props": {}
+        }
+      },
+      "Microsoft.NetFramework.Analyzers/3.0.0": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.NetFramework.Analyzers.props": {}
+        }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
+      },
+      "System.Data.DataSetExtensions/4.5.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Data.DataSetExtensions"
+        ],
+        "compile": {
+          "ref/net45/_._": {}
+        },
+        "runtime": {
+          "lib/net45/_._": {}
         }
       }
     }
@@ -570,7 +641,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    ".NETFramework,Version=v5.0": [
       "Microsoft.CSharp >= 4.7.0",
       "Microsoft.CodeAnalysis.FxCopAnalyzers >= 3.0.0",
       "StyleCop.Analyzers >= 1.1.118",
@@ -578,23 +649,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Owner\\.nuget\\packages\\": {},
+    "C:\\Users\\Pranav\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\RandomProblems\\CheckStringPermutations\\CheckStringPermutations.csproj",
+      "projectUniqueName": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\CheckStringPermutations\\CheckStringPermutations.csproj",
       "projectName": "CheckStringPermutations",
-      "projectPath": "D:\\GitHub\\RandomProblems\\CheckStringPermutations\\CheckStringPermutations.csproj",
-      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\RandomProblems\\CheckStringPermutations\\obj\\",
+      "projectPath": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\CheckStringPermutations\\CheckStringPermutations.csproj",
+      "packagesPath": "C:\\Users\\Pranav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\CheckStringPermutations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pranav\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -605,8 +676,7 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net50": {
           "projectReferences": {}
         }
       },
@@ -617,8 +687,7 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net50": {
         "dependencies": {
           "Microsoft.CSharp": {
             "target": "Package",
@@ -641,22 +710,12 @@
             "version": "[4.5.0, )"
           }
         },
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }

@@ -13,6 +13,11 @@ namespace MasterOfAllProblems
             Console.WriteLine(FindDifference(n));
         }
 
+        public static void AcronymMaker()
+        {
+            Console.WriteLine("Please enter a string to consolidate into an acronym: ");
+        }
+
         /// <summary>
         /// Method that will calculate the absolute difference btween n and 51. 
         /// If n is greater than 51 return triple the absolute difference.

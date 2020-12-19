@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\RandomProblems\\StructBasicsComplexSample\\StructBasicsComplexSample.csproj": {}
+    "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\StructBasicsComplexSample\\StructBasicsComplexSample.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\RandomProblems\\StructBasicsComplexSample\\StructBasicsComplexSample.csproj": {
+    "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\StructBasicsComplexSample\\StructBasicsComplexSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\RandomProblems\\StructBasicsComplexSample\\StructBasicsComplexSample.csproj",
+        "projectUniqueName": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\StructBasicsComplexSample\\StructBasicsComplexSample.csproj",
         "projectName": "StructBasicsComplexSample",
-        "projectPath": "D:\\GitHub\\RandomProblems\\StructBasicsComplexSample\\StructBasicsComplexSample.csproj",
-        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\RandomProblems\\StructBasicsComplexSample\\obj\\",
+        "projectPath": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\StructBasicsComplexSample\\StructBasicsComplexSample.csproj",
+        "packagesPath": "C:\\Users\\Pranav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\StructBasicsComplexSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pranav\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net50": {
             "projectReferences": {}
           }
         },
@@ -40,8 +39,7 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net50": {
           "dependencies": {
             "Microsoft.CSharp": {
               "target": "Package",
@@ -64,22 +62,12 @@
               "version": "[4.5.0, )"
             }
           },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
         }
       }
     }
