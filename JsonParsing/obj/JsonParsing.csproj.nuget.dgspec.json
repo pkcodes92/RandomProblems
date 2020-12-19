@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\RandomProblems\\JsonParsing\\JsonParsing.csproj": {}
+    "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\JsonParsing\\JsonParsing.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\RandomProblems\\JsonParsing\\JsonParsing.csproj": {
+    "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\JsonParsing\\JsonParsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\RandomProblems\\JsonParsing\\JsonParsing.csproj",
+        "projectUniqueName": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\JsonParsing\\JsonParsing.csproj",
         "projectName": "JsonParsing",
-        "projectPath": "D:\\GitHub\\RandomProblems\\JsonParsing\\JsonParsing.csproj",
-        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\RandomProblems\\JsonParsing\\obj\\",
+        "projectPath": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\JsonParsing\\JsonParsing.csproj",
+        "packagesPath": "C:\\Users\\Pranav\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\JsonParsing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pranav\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

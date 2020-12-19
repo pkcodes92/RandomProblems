@@ -18,6 +18,12 @@ namespace MasterOfAllProblems
                 case "AcronymMaker":
                     ProblemSolver.AcronymMaker();
                     break;
+                case "AllLongestStrings":
+                    ProblemSolver.AllLongestStrings();
+                    break;
+                case "AlternatingSums":
+                    ProblemSolver.AlternatingSums();
+                    break;
                 default:
                     Console.WriteLine($"Sorry I don't think that I have a sample of your problem: {problemChoice}");
                     break;
