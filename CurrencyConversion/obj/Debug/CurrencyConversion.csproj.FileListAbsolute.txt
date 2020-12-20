@@ -1,8 +1,0 @@
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\bin\Debug\CurrencyConversion.exe.config
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\bin\Debug\CurrencyConversion.exe
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\bin\Debug\CurrencyConversion.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\obj\Debug\CurrencyConversion.csproj.CoreCompileInputs.cache
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\obj\Debug\CurrencyConversion.exe
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\obj\Debug\CurrencyConversion.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\bin\Debug\CurrencyConversion.xml
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\CurrencyConversion\obj\Debug\CurrencyConversion.csprojAssemblyReference.cache
