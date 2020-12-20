@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MasterOfAllProblems</name>
+    </assembly>
+    <members>
+        <member name="M:MasterOfAllProblems.ProblemSolver.FindDifference(System.Int32)">
+            <summary>
+            Method that will calculate the absolute difference btween n and 51. 
+            If n is greater than 51 return triple the absolute difference.
+            </summary>
+            <param name="n">Value passed through the console.</param>
+            <returns>Absolute difference.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,10 +1,16 @@
-﻿using System;
-
-namespace MasterOfAllProblems
+﻿namespace MasterOfAllProblems
 {
-    public class Program
+    using System;
+
+    /// <summary>
+    /// This is the main driver class for this application.
+    /// </summary>
+    public static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// This method is the main entry point of execution.
+        /// </summary>
+        public static void Main()
         {
             Console.WriteLine("Hello and welcome to the RandomProblems app!");
             Console.WriteLine("Please enter a problem you want to solve: ");

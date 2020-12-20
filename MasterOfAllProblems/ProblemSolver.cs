@@ -4,6 +4,9 @@ using System.Globalization;
 
 namespace MasterOfAllProblems
 {
+    /// <summary>
+    /// This is the problem solver class.
+    /// </summary>
     public class ProblemSolver
     {
         public static void AbsoluteDifference()

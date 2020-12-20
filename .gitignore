@@ -46,3 +46,9 @@ ArrayElementsMultiplication/obj/Debug/ArrayElementsMultiplication.csprojAssembly
 .vs/RandomProblems/DesignTimeBuild/.dtbcache.v2
 .vs/RandomProblems/v16/.suo
 .vs/RandomProblems/v16/.suo
+ProblemsMaster/obj/Debug/netcoreapp3.1/ProblemsMaster.GeneratedMSBuildEditorConfig.editorconfig
+MasterOfAllProblems/obj/Debug/net5.0/MasterOfAllProblems.csproj.FileListAbsolute.txt
+MasterOfAllProblems/obj/Debug/net5.0/MasterOfAllProblems.dll
+MasterOfAllProblems/obj/Debug/net5.0/MasterOfAllProblems.pdb
+MasterOfAllProblems/obj/Debug/net5.0/ref/MasterOfAllProblems.dll
+*.dll
