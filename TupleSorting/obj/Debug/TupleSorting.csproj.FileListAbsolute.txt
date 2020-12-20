@@ -1,8 +1,0 @@
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\TupleSorting\bin\Debug\TupleSorting.exe.config
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\TupleSorting\bin\Debug\TupleSorting.exe
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\TupleSorting\bin\Debug\TupleSorting.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\TupleSorting\obj\Debug\TupleSorting.csprojAssemblyReference.cache
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\TupleSorting\obj\Debug\TupleSorting.csproj.CoreCompileInputs.cache
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\TupleSorting\obj\Debug\TupleSorting.exe
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\TupleSorting\obj\Debug\TupleSorting.pdb
-C:\Users\1837330\Documents\Side Stuff\RandomProblems\TupleSorting\bin\Debug\TupleSorting.xml
