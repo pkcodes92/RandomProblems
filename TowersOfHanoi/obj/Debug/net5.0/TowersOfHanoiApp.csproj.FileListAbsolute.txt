@@ -1,0 +1,15 @@
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\bin\Debug\net5.0\TowersOfHanoiApp.exe
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\bin\Debug\net5.0\TowersOfHanoiApp.dll.config
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\bin\Debug\net5.0\TowersOfHanoiApp.deps.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\bin\Debug\net5.0\TowersOfHanoiApp.runtimeconfig.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\bin\Debug\net5.0\TowersOfHanoiApp.runtimeconfig.dev.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\bin\Debug\net5.0\TowersOfHanoiApp.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\bin\Debug\net5.0\ref\TowersOfHanoiApp.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\bin\Debug\net5.0\TowersOfHanoiApp.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\bin\Debug\net5.0\TowersOfHanoiApp.xml
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\obj\Debug\net5.0\TowersOfHanoiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\obj\Debug\net5.0\TowersOfHanoiApp.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\obj\Debug\net5.0\TowersOfHanoiApp.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\obj\Debug\net5.0\ref\TowersOfHanoiApp.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\obj\Debug\net5.0\TowersOfHanoiApp.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TowersOfHanoi\obj\Debug\net5.0\TowersOfHanoiApp.genruntimeconfig.cache

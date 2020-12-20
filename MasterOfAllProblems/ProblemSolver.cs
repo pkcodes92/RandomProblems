@@ -36,7 +36,14 @@ namespace MasterOfAllProblems
 
         public static void AlternatingSums()
         {
+            int[] a = new int[] { 40, 50, 60, 80, 10 };
+            int[] weights = FindAlternatingSums(a);
 
+            Console.WriteLine("Results:");
+            for (int i = 0; i < weights.Length; i++)
+            {
+                Console.Write(weights[i] + " ");
+            }
         }
 
         public static void ArrayElementsMultiplication()
@@ -128,6 +135,31 @@ namespace MasterOfAllProblems
             }
 
             return strL;
+        }
+
+        private static int[] FindAlternatingSums(int[] a)
+        {
+            if (a is null)
+            {
+                throw new ArgumentNullException(nameof(a));
+            }
+
+            int[] weights = new int[2];
+
+            for (int i = 0; i < a.Length; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    weights[0] += a[i];
+                }
+
+                if (i % 2 == 1)
+                {
+                    weights[1] += a[i];
+                }
+            }
+
+            return weights;
         }
     }
 }

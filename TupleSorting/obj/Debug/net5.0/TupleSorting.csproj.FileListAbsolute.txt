@@ -1,0 +1,16 @@
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\bin\Debug\net5.0\TupleSorting.exe
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\bin\Debug\net5.0\TupleSorting.dll.config
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\bin\Debug\net5.0\TupleSorting.deps.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\bin\Debug\net5.0\TupleSorting.runtimeconfig.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\bin\Debug\net5.0\TupleSorting.runtimeconfig.dev.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\bin\Debug\net5.0\TupleSorting.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\bin\Debug\net5.0\ref\TupleSorting.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\bin\Debug\net5.0\TupleSorting.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\bin\Debug\net5.0\TupleSorting.xml
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\obj\Debug\net5.0\TupleSorting.csprojAssemblyReference.cache
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\obj\Debug\net5.0\TupleSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\obj\Debug\net5.0\TupleSorting.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\obj\Debug\net5.0\TupleSorting.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\obj\Debug\net5.0\ref\TupleSorting.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\obj\Debug\net5.0\TupleSorting.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\TupleSorting\obj\Debug\net5.0\TupleSorting.genruntimeconfig.cache

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SumTest</name>
+    </assembly>
+    <members>
+        <member name="T:SumTest.Program">
+            <summary>
+            This is the main class for this project.
+            </summary>
+        </member>
+        <member name="M:SumTest.Program.Main(System.String[])">
+            <summary>
+            This is the driver method.
+            </summary>
+            <param name="args">Project specific arguments.</param>
+        </member>
+        <member name="M:SumTest.Program.TestSum(System.Int32,System.Int32)">
+            <summary>
+            Function that will return the sum of two numbers in the following conditions: 
+            - The sum is tripled if the two input numbers are equal
+            - Otherwise return the sum of the two numbers
+            </summary>
+            <param name="x">The first number</param>
+            <param name="y">The second number</param>
+            <returns>The sum of the two numbers</returns>
+        </member>
+    </members>
+</doc>

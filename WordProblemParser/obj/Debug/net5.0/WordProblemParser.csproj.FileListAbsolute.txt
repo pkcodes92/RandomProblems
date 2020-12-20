@@ -1,0 +1,15 @@
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\bin\Debug\net5.0\WordProblemParser.exe
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\bin\Debug\net5.0\WordProblemParser.dll.config
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\bin\Debug\net5.0\WordProblemParser.deps.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\bin\Debug\net5.0\WordProblemParser.runtimeconfig.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\bin\Debug\net5.0\WordProblemParser.runtimeconfig.dev.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\bin\Debug\net5.0\WordProblemParser.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\bin\Debug\net5.0\ref\WordProblemParser.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\bin\Debug\net5.0\WordProblemParser.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\bin\Debug\net5.0\WordProblemParser.xml
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\obj\Debug\net5.0\WordProblemParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\obj\Debug\net5.0\WordProblemParser.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\obj\Debug\net5.0\WordProblemParser.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\obj\Debug\net5.0\ref\WordProblemParser.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\obj\Debug\net5.0\WordProblemParser.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\WordProblemParser\obj\Debug\net5.0\WordProblemParser.genruntimeconfig.cache

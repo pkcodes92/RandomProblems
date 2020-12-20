@@ -1,0 +1,14 @@
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\bin\Debug\net5.0\SumTest.exe
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\bin\Debug\net5.0\SumTest.deps.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\bin\Debug\net5.0\SumTest.runtimeconfig.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\bin\Debug\net5.0\SumTest.runtimeconfig.dev.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\bin\Debug\net5.0\SumTest.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\bin\Debug\net5.0\ref\SumTest.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\bin\Debug\net5.0\SumTest.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\bin\Debug\net5.0\SumTest.xml
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\obj\Debug\net5.0\SumTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\obj\Debug\net5.0\SumTest.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\obj\Debug\net5.0\SumTest.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\obj\Debug\net5.0\ref\SumTest.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\obj\Debug\net5.0\SumTest.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\SumTest\obj\Debug\net5.0\SumTest.genruntimeconfig.cache

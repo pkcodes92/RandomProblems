@@ -1,0 +1,15 @@
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\bin\Debug\net5.0\StructBasicsProblem1.exe
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\bin\Debug\net5.0\StructBasicsProblem1.dll.config
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\bin\Debug\net5.0\StructBasicsProblem1.deps.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\bin\Debug\net5.0\StructBasicsProblem1.runtimeconfig.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\bin\Debug\net5.0\StructBasicsProblem1.runtimeconfig.dev.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\bin\Debug\net5.0\StructBasicsProblem1.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\bin\Debug\net5.0\ref\StructBasicsProblem1.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\bin\Debug\net5.0\StructBasicsProblem1.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\bin\Debug\net5.0\StructBasicsProblem1.xml
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\obj\Debug\net5.0\StructBasicsProblem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\obj\Debug\net5.0\StructBasicsProblem1.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\obj\Debug\net5.0\StructBasicsProblem1.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\obj\Debug\net5.0\ref\StructBasicsProblem1.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\obj\Debug\net5.0\StructBasicsProblem1.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\StructBasicsProblem1\obj\Debug\net5.0\StructBasicsProblem1.genruntimeconfig.cache

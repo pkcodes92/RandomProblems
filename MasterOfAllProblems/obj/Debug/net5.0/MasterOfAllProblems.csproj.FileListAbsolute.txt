@@ -1,0 +1,16 @@
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\net5.0\MasterOfAllProblems.exe
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\net5.0\MasterOfAllProblems.deps.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\net5.0\MasterOfAllProblems.runtimeconfig.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\net5.0\MasterOfAllProblems.runtimeconfig.dev.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\net5.0\MasterOfAllProblems.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\net5.0\ref\MasterOfAllProblems.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\net5.0\MasterOfAllProblems.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\MasterOfAllProblems.csprojAssemblyReference.cache
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\MasterOfAllProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\MasterOfAllProblems.AssemblyInfoInputs.cache
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\MasterOfAllProblems.AssemblyInfo.cs
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\MasterOfAllProblems.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\MasterOfAllProblems.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\ref\MasterOfAllProblems.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\MasterOfAllProblems.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\MasterOfAllProblems.genruntimeconfig.cache

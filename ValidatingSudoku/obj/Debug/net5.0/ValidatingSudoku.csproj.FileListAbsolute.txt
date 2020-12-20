@@ -1,0 +1,15 @@
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\bin\Debug\net5.0\ValidatingSudoku.exe
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\bin\Debug\net5.0\ValidatingSudoku.dll.config
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\bin\Debug\net5.0\ValidatingSudoku.deps.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\bin\Debug\net5.0\ValidatingSudoku.runtimeconfig.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\bin\Debug\net5.0\ValidatingSudoku.runtimeconfig.dev.json
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\bin\Debug\net5.0\ValidatingSudoku.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\bin\Debug\net5.0\ref\ValidatingSudoku.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\bin\Debug\net5.0\ValidatingSudoku.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\bin\Debug\net5.0\ValidatingSudoku.xml
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\obj\Debug\net5.0\ValidatingSudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\obj\Debug\net5.0\ValidatingSudoku.csproj.CoreCompileInputs.cache
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\obj\Debug\net5.0\ValidatingSudoku.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\obj\Debug\net5.0\ref\ValidatingSudoku.dll
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\obj\Debug\net5.0\ValidatingSudoku.pdb
+C:\Users\Pranav\Documents\GitHub\RandomProblems\ValidatingSudoku\obj\Debug\net5.0\ValidatingSudoku.genruntimeconfig.cache
