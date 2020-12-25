@@ -20,6 +20,9 @@ namespace MasterOfAllProblems
             Console.WriteLine(FindDifference(n));
         }
 
+        /// <summary>
+        /// This method will create an acronym out of a string.
+        /// </summary>
         public static void AcronymMaker()
         {
             Console.WriteLine("Please enter a string to consolidate into an acronym: ");
@@ -28,6 +31,9 @@ namespace MasterOfAllProblems
             Console.WriteLine($"Acronym: {Abbreviate(inputString)}");
         }
 
+        /// <summary>
+        /// This method will extract all of the longest strings from an array of strings.
+        /// </summary>
         public static void AllLongestStrings()
         {
             string[] inputArray = new string[] { "aba", "aa", "ad", "vcd", "aba" };
@@ -40,6 +46,9 @@ namespace MasterOfAllProblems
             }
         }
 
+        /// <summary>
+        /// This method will calculate the alternating sums inside of an array of integers.
+        /// </summary>
         public static void AlternatingSums()
         {
             int[] a = new int[] { 40, 50, 60, 80, 10 };
@@ -52,16 +61,25 @@ namespace MasterOfAllProblems
             }
         }
 
+        /// <summary>
+        /// This method will multiply the elements between arrays.
+        /// </summary>
         public static void ArrayElementsMultiplication()
         {
 
         }
 
+        /// <summary>
+        /// This method will rotate an array to the left.
+        /// </summary>
         public static void ArrayLeftRotation()
         {
 
         }
 
+        /// <summary>
+        /// This method will replace one element in an array.
+        /// </summary>
         public static void ArrayReplacement()
         {
 
