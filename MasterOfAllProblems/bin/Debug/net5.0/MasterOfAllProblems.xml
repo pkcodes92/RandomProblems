@@ -4,6 +4,16 @@
         <name>MasterOfAllProblems</name>
     </assembly>
     <members>
+        <member name="T:MasterOfAllProblems.ProblemSolver">
+            <summary>
+            This is the problem solver class.
+            </summary>
+        </member>
+        <member name="M:MasterOfAllProblems.ProblemSolver.AbsoluteDifference">
+            <summary>
+            This method will calculate the absolut difference.
+            </summary>
+        </member>
         <member name="M:MasterOfAllProblems.ProblemSolver.FindDifference(System.Int32)">
             <summary>
             Method that will calculate the absolute difference btween n and 51. 
@@ -11,6 +21,16 @@
             </summary>
             <param name="n">Value passed through the console.</param>
             <returns>Absolute difference.</returns>
+        </member>
+        <member name="T:MasterOfAllProblems.Program">
+            <summary>
+            This is the main driver class for this application.
+            </summary>
+        </member>
+        <member name="M:MasterOfAllProblems.Program.Main">
+            <summary>
+            This method is the main entry point of execution.
+            </summary>
         </member>
     </members>
 </doc>

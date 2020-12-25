@@ -1,7 +1,7 @@
-﻿namespace MasterOfAllProblems
-{
-    using System;
+﻿using System;
 
+namespace MasterOfAllProblems
+{
     /// <summary>
     /// This is the main driver class for this application.
     /// </summary>
@@ -29,6 +29,15 @@
                     break;
                 case "AlternatingSums":
                     ProblemSolver.AlternatingSums();
+                    break;
+                case "ArrayElementsMultiplication":
+                    ProblemSolver.ArrayElementsMultiplication();
+                    break;
+                case "ArrayLeftRotation":
+                    ProblemSolver.ArrayLeftRotation();
+                    break;
+                case "ArrayReplacement":
+                    ProblemSolver.ArrayReplacement();
                     break;
                 default:
                     Console.WriteLine($"Sorry I don't think that I have a sample of your problem: {problemChoice}");

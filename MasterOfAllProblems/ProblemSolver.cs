@@ -9,6 +9,9 @@ namespace MasterOfAllProblems
     /// </summary>
     public class ProblemSolver
     {
+        /// <summary>
+        /// This method will calculate the absolut difference.
+        /// </summary>
         public static void AbsoluteDifference()
         {
             Console.WriteLine("Please provide a value for n: ");

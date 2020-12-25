@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\MasterOfAllProblems\\MasterOfAllProblems.csproj": {}
+    "D:\\GitHub\\RandomProblems\\MasterOfAllProblems\\MasterOfAllProblems.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\MasterOfAllProblems\\MasterOfAllProblems.csproj": {
+    "D:\\GitHub\\RandomProblems\\MasterOfAllProblems\\MasterOfAllProblems.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\MasterOfAllProblems\\MasterOfAllProblems.csproj",
+        "projectUniqueName": "D:\\GitHub\\RandomProblems\\MasterOfAllProblems\\MasterOfAllProblems.csproj",
         "projectName": "MasterOfAllProblems",
-        "projectPath": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\MasterOfAllProblems\\MasterOfAllProblems.csproj",
-        "packagesPath": "C:\\Users\\Pranav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pranav\\Documents\\GitHub\\RandomProblems\\MasterOfAllProblems\\obj\\",
+        "projectPath": "D:\\GitHub\\RandomProblems\\MasterOfAllProblems\\MasterOfAllProblems.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\RandomProblems\\MasterOfAllProblems\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pranav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
