@@ -66,7 +66,20 @@ namespace MasterOfAllProblems
         /// </summary>
         public static void ArrayElementsMultiplication()
         {
+            int[] first = { 1, 3, -5, 4 };
+            int[] second = { 1, 4, -5, -2 };
 
+            Console.WriteLine("\nArray1: [{0}]", string.Join(", ", first));
+            Console.WriteLine("Array2: [{0}]", string.Join(", ", second));
+
+            Console.WriteLine("\nMultiply corresponding elements of two arrays: ");
+
+            for (int i = 0; i < first.Length; i++)
+            {
+                Console.WriteLine(first[i] * second[i] + " ");
+            }
+
+            Console.WriteLine(Environment.NewLine);
         }
 
         /// <summary>
