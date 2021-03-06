@@ -31,3 +31,4 @@ D:\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\net5.0\ref\MasterOfAllPro
 D:\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\net5.0\MasterOfAllProblems.pdb
 D:\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\net5.0\MasterOfAllProblems.xml
 D:\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\MasterOfAllProblems.genruntimeconfig.cache
+D:\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\net5.0\MasterOfAllProblems.csprojAssemblyReference.cache
