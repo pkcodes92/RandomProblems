@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace MasterOfAllProblems
+﻿namespace MasterOfAllProblems
 {
+    using System;
+
     /// <summary>
     /// This is the main driver class for this application.
     /// </summary>

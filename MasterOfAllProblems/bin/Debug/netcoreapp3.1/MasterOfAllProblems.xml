@@ -4,6 +4,17 @@
         <name>MasterOfAllProblems</name>
     </assembly>
     <members>
+        <member name="T:MasterOfAllProblems.Exceptions.ArrayInputSizeException">
+            <summary>
+            This is the input size exception class.
+            </summary>
+        </member>
+        <member name="M:MasterOfAllProblems.Exceptions.ArrayInputSizeException.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+        </member>
         <member name="T:MasterOfAllProblems.ProblemSolver">
             <summary>
             This is the problem solver class.
@@ -12,6 +23,36 @@
         <member name="M:MasterOfAllProblems.ProblemSolver.AbsoluteDifference">
             <summary>
             This method will calculate the absolut difference.
+            </summary>
+        </member>
+        <member name="M:MasterOfAllProblems.ProblemSolver.AcronymMaker">
+            <summary>
+            This method will create an acronym out of a string.
+            </summary>
+        </member>
+        <member name="M:MasterOfAllProblems.ProblemSolver.AllLongestStrings">
+            <summary>
+            This method will extract all of the longest strings from an array of strings.
+            </summary>
+        </member>
+        <member name="M:MasterOfAllProblems.ProblemSolver.AlternatingSums">
+            <summary>
+            This method will calculate the alternating sums inside of an array of integers.
+            </summary>
+        </member>
+        <member name="M:MasterOfAllProblems.ProblemSolver.ArrayElementsMultiplication">
+            <summary>
+            This method will multiply the elements between arrays.
+            </summary>
+        </member>
+        <member name="M:MasterOfAllProblems.ProblemSolver.ArrayLeftRotation">
+            <summary>
+            This method will rotate an array to the left.
+            </summary>
+        </member>
+        <member name="M:MasterOfAllProblems.ProblemSolver.ArrayReplacement">
+            <summary>
+            This method will replace one element in an array.
             </summary>
         </member>
         <member name="M:MasterOfAllProblems.ProblemSolver.FindDifference(System.Int32)">

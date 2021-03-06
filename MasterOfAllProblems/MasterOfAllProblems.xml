@@ -4,6 +4,17 @@
         <name>MasterOfAllProblems</name>
     </assembly>
     <members>
+        <member name="T:MasterOfAllProblems.Exceptions.ArrayInputSizeException">
+            <summary>
+            This is the input size exception class.
+            </summary>
+        </member>
+        <member name="M:MasterOfAllProblems.Exceptions.ArrayInputSizeException.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+        </member>
         <member name="T:MasterOfAllProblems.ProblemSolver">
             <summary>
             This is the problem solver class.

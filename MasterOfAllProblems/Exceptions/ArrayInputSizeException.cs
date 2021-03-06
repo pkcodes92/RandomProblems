@@ -1,12 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MasterOfAllProblems.Exceptions
+﻿namespace MasterOfAllProblems.Exceptions
 {
-    public class ArrayInputSizeException
+    using System;
+    using System.Runtime.Serialization;
+
+    /// <summary>
+    /// This is the input size exception class.
+    /// </summary>
+    [Serializable]
+    public class ArrayInputSizeException : Exception
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="message"></param>
+        public ArrayInputSizeException(string message) : base(message)
+        {
+        }
     }
 }

@@ -6,7 +6,6 @@ D:\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\netcoreapp3.1\MasterOfAll
 D:\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\netcoreapp3.1\MasterOfAllProblems.pdb
 D:\GitHub\RandomProblems\MasterOfAllProblems\bin\Debug\netcoreapp3.1\MasterOfAllProblems.xml
 D:\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\netcoreapp3.1\MasterOfAllProblems.csprojAssemblyReference.cache
-D:\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\netcoreapp3.1\MasterOfAllProblems.GeneratedMSBuildEditorConfig.editorconfig
 D:\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\netcoreapp3.1\MasterOfAllProblems.AssemblyInfoInputs.cache
 D:\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\netcoreapp3.1\MasterOfAllProblems.AssemblyInfo.cs
 D:\GitHub\RandomProblems\MasterOfAllProblems\obj\Debug\netcoreapp3.1\MasterOfAllProblems.csproj.CoreCompileInputs.cache
